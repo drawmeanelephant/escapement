@@ -66,3 +66,7 @@ You now know the whole machine. The deep dives await: the geometry of
 philosophy of the [co-axial](../escapements/co-axial.md), the science of
 [isochronism](../physics/isochronism.md), or the [timeline](../history/index.md)
 that produced every idea above.
+
+---
+
+**Anatomy 8 of 8** · ← [Anatomy 7: The Motion Works and Dial](07-the-motion-works-and-dial.md) · The guided path ends here — continue with the [Timeline](../history/index.md) or the [Glossary](../glossary/glossary.md).

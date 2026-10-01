@@ -4,1224 +4,286 @@
   "changes": {
     "added_pages": [],
     "removed_pages": [],
-    "changed_pages": [],
+    "changed_pages": [
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/01-the-problem-of-timekeeping",
+          "source_path": "anatomy/01-the-problem-of-timekeeping.md",
+          "url": "/anatomy/01-the-problem-of-timekeeping/",
+          "title": "Anatomy 1: The Problem of Timekeeping"
+        },
+        "after": {
+          "identity": "anatomy/01-the-problem-of-timekeeping",
+          "source_path": "anatomy/01-the-problem-of-timekeeping.md",
+          "url": "/anatomy/01-the-problem-of-timekeeping/",
+          "title": "Anatomy 1: The Problem of Timekeeping"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/02-the-gear-train",
+          "source_path": "anatomy/02-the-gear-train.md",
+          "url": "/anatomy/02-the-gear-train/",
+          "title": "Anatomy 2: The Gear Train"
+        },
+        "after": {
+          "identity": "anatomy/02-the-gear-train",
+          "source_path": "anatomy/02-the-gear-train.md",
+          "url": "/anatomy/02-the-gear-train/",
+          "title": "Anatomy 2: The Gear Train"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/03-the-mainspring-and-barrel",
+          "source_path": "anatomy/03-the-mainspring-and-barrel.md",
+          "url": "/anatomy/03-the-mainspring-and-barrel/",
+          "title": "Anatomy 3: The Mainspring and Barrel"
+        },
+        "after": {
+          "identity": "anatomy/03-the-mainspring-and-barrel",
+          "source_path": "anatomy/03-the-mainspring-and-barrel.md",
+          "url": "/anatomy/03-the-mainspring-and-barrel/",
+          "title": "Anatomy 3: The Mainspring and Barrel"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/04-the-escapement",
+          "source_path": "anatomy/04-the-escapement.md",
+          "url": "/anatomy/04-the-escapement/",
+          "title": "Anatomy 4: The Escapement"
+        },
+        "after": {
+          "identity": "anatomy/04-the-escapement",
+          "source_path": "anatomy/04-the-escapement.md",
+          "url": "/anatomy/04-the-escapement/",
+          "title": "Anatomy 4: The Escapement"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/05-the-balance-assembly",
+          "source_path": "anatomy/05-the-balance-assembly.md",
+          "url": "/anatomy/05-the-balance-assembly/",
+          "title": "Anatomy 5: The Balance Assembly"
+        },
+        "after": {
+          "identity": "anatomy/05-the-balance-assembly",
+          "source_path": "anatomy/05-the-balance-assembly.md",
+          "url": "/anatomy/05-the-balance-assembly/",
+          "title": "Anatomy 5: The Balance Assembly"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/06-the-keyless-works",
+          "source_path": "anatomy/06-the-keyless-works.md",
+          "url": "/anatomy/06-the-keyless-works/",
+          "title": "Anatomy 6: The Keyless Works"
+        },
+        "after": {
+          "identity": "anatomy/06-the-keyless-works",
+          "source_path": "anatomy/06-the-keyless-works.md",
+          "url": "/anatomy/06-the-keyless-works/",
+          "title": "Anatomy 6: The Keyless Works"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/07-the-motion-works-and-dial",
+          "source_path": "anatomy/07-the-motion-works-and-dial.md",
+          "url": "/anatomy/07-the-motion-works-and-dial/",
+          "title": "Anatomy 7: The Motion Works and Dial"
+        },
+        "after": {
+          "identity": "anatomy/07-the-motion-works-and-dial",
+          "source_path": "anatomy/07-the-motion-works-and-dial.md",
+          "url": "/anatomy/07-the-motion-works-and-dial/",
+          "title": "Anatomy 7: The Motion Works and Dial"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "anatomy/08-putting-it-together",
+          "source_path": "anatomy/08-putting-it-together.md",
+          "url": "/anatomy/08-putting-it-together/",
+          "title": "Anatomy 8: Putting It Together"
+        },
+        "after": {
+          "identity": "anatomy/08-putting-it-together",
+          "source_path": "anatomy/08-putting-it-together.md",
+          "url": "/anatomy/08-putting-it-together/",
+          "title": "Anatomy 8: Putting It Together"
+        }
+      },
+      {
+        "kind": "modified",
+        "before": {
+          "identity": "start-here/read-me-first",
+          "source_path": "start-here/read-me-first.md",
+          "url": "/start-here/read-me-first/",
+          "title": "Read Me First"
+        },
+        "after": {
+          "identity": "start-here/read-me-first",
+          "source_path": "start-here/read-me-first.md",
+          "url": "/start-here/read-me-first/",
+          "title": "Read Me First"
+        }
+      }
+    ],
     "metadata_changes": [],
     "taxonomy_changes": [],
-    "added_links": [],
+    "added_links": [
+      {
+        "page": "anatomy/01-the-problem-of-timekeeping",
+        "destination": "../start-here/read-me-first.md",
+        "target": "start-here/read-me-first.md"
+      },
+      {
+        "page": "anatomy/01-the-problem-of-timekeeping",
+        "destination": "02-the-gear-train.md",
+        "target": "anatomy/02-the-gear-train.md"
+      },
+      {
+        "page": "anatomy/02-the-gear-train",
+        "destination": "01-the-problem-of-timekeeping.md",
+        "target": "anatomy/01-the-problem-of-timekeeping.md"
+      },
+      {
+        "page": "anatomy/02-the-gear-train",
+        "destination": "03-the-mainspring-and-barrel.md",
+        "target": "anatomy/03-the-mainspring-and-barrel.md"
+      },
+      {
+        "page": "anatomy/03-the-mainspring-and-barrel",
+        "destination": "02-the-gear-train.md",
+        "target": "anatomy/02-the-gear-train.md"
+      },
+      {
+        "page": "anatomy/03-the-mainspring-and-barrel",
+        "destination": "04-the-escapement.md",
+        "target": "anatomy/04-the-escapement.md"
+      },
+      {
+        "page": "anatomy/04-the-escapement",
+        "destination": "03-the-mainspring-and-barrel.md",
+        "target": "anatomy/03-the-mainspring-and-barrel.md"
+      },
+      {
+        "page": "anatomy/04-the-escapement",
+        "destination": "05-the-balance-assembly.md",
+        "target": "anatomy/05-the-balance-assembly.md"
+      },
+      {
+        "page": "anatomy/05-the-balance-assembly",
+        "destination": "04-the-escapement.md",
+        "target": "anatomy/04-the-escapement.md"
+      },
+      {
+        "page": "anatomy/05-the-balance-assembly",
+        "destination": "06-the-keyless-works.md",
+        "target": "anatomy/06-the-keyless-works.md"
+      },
+      {
+        "page": "anatomy/06-the-keyless-works",
+        "destination": "05-the-balance-assembly.md",
+        "target": "anatomy/05-the-balance-assembly.md"
+      },
+      {
+        "page": "anatomy/06-the-keyless-works",
+        "destination": "07-the-motion-works-and-dial.md",
+        "target": "anatomy/07-the-motion-works-and-dial.md"
+      },
+      {
+        "page": "anatomy/07-the-motion-works-and-dial",
+        "destination": "06-the-keyless-works.md",
+        "target": "anatomy/06-the-keyless-works.md"
+      },
+      {
+        "page": "anatomy/07-the-motion-works-and-dial",
+        "destination": "08-putting-it-together.md",
+        "target": "anatomy/08-putting-it-together.md"
+      },
+      {
+        "page": "anatomy/08-putting-it-together",
+        "destination": "../glossary/glossary.md",
+        "target": "glossary/glossary.md"
+      },
+      {
+        "page": "anatomy/08-putting-it-together",
+        "destination": "07-the-motion-works-and-dial.md",
+        "target": "anatomy/07-the-motion-works-and-dial.md"
+      }
+    ],
     "removed_links": [],
-    "added_edges": [],
+    "added_edges": [
+      {
+        "from": "anatomy/02-the-gear-train",
+        "to": "anatomy/01-the-problem-of-timekeeping"
+      },
+      {
+        "from": "anatomy/04-the-escapement",
+        "to": "anatomy/03-the-mainspring-and-barrel"
+      },
+      {
+        "from": "anatomy/06-the-keyless-works",
+        "to": "anatomy/05-the-balance-assembly"
+      },
+      {
+        "from": "anatomy/08-putting-it-together",
+        "to": "anatomy/07-the-motion-works-and-dial"
+      },
+      {
+        "from": "anatomy/08-putting-it-together",
+        "to": "glossary/glossary"
+      }
+    ],
     "removed_edges": [],
     "orphan_changes": [],
     "new_broken_links": [],
     "resolved_broken_links": [],
     "file_changes": [
       {
-        "path": "categories/anatomy/index.html",
+        "path": "backlinks.json",
         "action": "modified",
-        "before": "0a362e46f74cc7a9a6ae117faad424152ffcf8fe4d0d5d4942f0b6b9cde510d0",
-        "after": "8b8ddd10422ae6270d89d89840f35fe3bd60551da2946704ccb07d28801abc8f"
+        "before": "f4dcb2d62d28a8e9b8bc43f88f34e45c66cb65ba5df57a250dd347e349ab6ce4",
+        "after": "dc61edf2167f0c170b93b4ebce63b0c444d9bdcbdad9d093554a2967a69c6f76"
       },
       {
-        "path": "categories/complications/index.html",
+        "path": "graph.json",
         "action": "modified",
-        "before": "42bb952931d931b796546d66850b3a966b1caa045ebe7509436679d0f15e6935",
-        "after": "d57fbcc3acc0e395e835f49c310427e20e8483aee114f2d684e1b2406cda1ec1"
+        "before": "330abb7fbdeebfcd3d83f8e21cccc336e72a5973243b7b0d08470ef8dc39317d",
+        "after": "d082ac6a4bdd9e763eceba066aa70e804da14c94d79c111f8a9a30075858bf48"
       },
       {
-        "path": "categories/escapements/index.html",
+        "path": "graph/data.json",
         "action": "modified",
-        "before": "51317feba0d75550896b31fcb837d1bdfb044907c60372aa51135ab8f3f4887a",
-        "after": "fd9774d60576160b125ea483404551cf628a658836b27889efab71b8403c4cf0"
+        "before": "af3073170f74643b3c649aec5af252692d50f6e24366ab990bef3273daa23f42",
+        "after": "c22508b4179ea82414c818e411911bb24bbab8d119a7fc9eab7f6efa79573628"
       },
       {
-        "path": "categories/glossary/index.html",
+        "path": "meta.json",
         "action": "modified",
-        "before": "cb508472cf3b8b422d280472002f5d42bd7807755f66d10a7a4e0e11b0301299",
-        "after": "f811fb146c35a220d4bd14ec72c50b8bf790786018da4e33f7500f817ab38578"
-      },
-      {
-        "path": "categories/history/index.html",
-        "action": "modified",
-        "before": "c6c9c5590e8ca8744c2a0a25aa6090281bb5034ff03091bf032fd07991b2dac7",
-        "after": "3f73f42b3f206214a819a3d76ddf08236ec1abcdfcd951baf30675f6164080ed"
-      },
-      {
-        "path": "categories/index.html",
-        "action": "modified",
-        "before": "ea527128ad15b5946828f1eeb1276f61567ca9564de34426737e169d88be2265",
-        "after": "246985da4bdd7fe685c47e20781f0e22225fb0d3dd3099aa5037f685caa2a4e3"
-      },
-      {
-        "path": "categories/maintenance/index.html",
-        "action": "modified",
-        "before": "8ee6d12227a67c64c504e44ec0ecba596b35277c84eb9505e3070fc3784b974a",
-        "after": "5ea681ff86a5a0b49c9def63ad7a517912a0c69ddb89f59fc65d1ca082d8b654"
-      },
-      {
-        "path": "categories/movements/index.html",
-        "action": "modified",
-        "before": "7689b6b2b8f1f86396dcdb23e539d6f04c39adb262fc8abc8f7d1cb7b60066b5",
-        "after": "20d98949f3ab1d31194b5a4d93739bee7990cd77aff493677eab1f46fb3a8c39"
-      },
-      {
-        "path": "categories/orientation/index.html",
-        "action": "modified",
-        "before": "dc40ab2fc4ccb68639da24a2bcaa6345d43285e37a6cff922f8646e7efa44e70",
-        "after": "f14516293488f0c50768f3a72c24a68556692fe47b51f237807d715bb2ca2eab"
-      },
-      {
-        "path": "categories/physics/index.html",
-        "action": "modified",
-        "before": "78b047e61c54086bb42265e98a5bad331b884fb2f228dbc1de89b59c5b22d026",
-        "after": "e00ea7baccf13d525b8abfd54c6f011b1b263519163937161c0b4e920dc5f989"
-      },
-      {
-        "path": "feed.xml",
-        "action": "modified",
-        "before": "2d934f3f76b8e287e0c92a0e88583f823c9d8fd5c353749b9e89602c5e82570b",
-        "after": "573cf8b81895c3abb25ab5beb8857bac563a8ec4e5ef9eea0db9bf9096a33114"
-      },
-      {
-        "path": "graph/index.html",
-        "action": "modified",
-        "before": "632a1e3edeb6dd89f3b19ad5fe5c6c10b9fcb617f4dfbbf69c3adb2ee616b4d3",
-        "after": "be5a8b9e50ec1870a15e12c5ea57410e75323c4708760c689b9d708db10446ff"
-      },
-      {
-        "path": "robots.txt",
-        "action": "modified",
-        "before": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
-        "after": "727c48adc1326fc2a67306774ccd1fa63e11b64b4a392d78284c088789c44dbe"
-      },
-      {
-        "path": "sitemap.xml",
-        "action": "modified",
-        "before": "01c40f91fe87f9efb4735ee4452bd6ff51a6c0bba29b910454695e833b9a4ecb",
-        "after": "5a14ba2973c1adb5a9a2cb6985ccab98dd65ae57b850fa892c39cdd84b440d9d"
-      },
-      {
-        "path": "tags/accuracy/index.html",
-        "action": "modified",
-        "before": "f0c1a4673c233deb96083897b886056028ade015055643d98bf4bb68c7931186",
-        "after": "3e9f0d609f7b82a58f53e7e4d066743ddb55b1d610b18a35f5c5632d633c0399"
-      },
-      {
-        "path": "tags/amplitude/index.html",
-        "action": "modified",
-        "before": "1e76d18266b6cdbcfb17a13527653834165ae592093e0bb8a6e253f52710915f",
-        "after": "08fa261d54f833cb85c8ae9611aaf037c9b4a9e105cf3fb73ad51b58cfff7ad4"
-      },
-      {
-        "path": "tags/balance-spring/index.html",
-        "action": "modified",
-        "before": "ef293fa7311e18f611225f38030d4d77a527dc4939e34ae6f5f27378a36b32a0",
-        "after": "3ab42319df9cd145dfe2a3f077d6c962fcd590a70409f2ebd6b08245d6afb534"
-      },
-      {
-        "path": "tags/balance/index.html",
-        "action": "modified",
-        "before": "ec52898b71cbd5e8f57615fc29d7d3ef1510a2d6990020c6cdab9ce825b76197",
-        "after": "8d5ad1fb0f3ed088e9586431ffb4018cc585b67db2c2cc7f4e9f8ddd933b3fa3"
-      },
-      {
-        "path": "tags/calibre/index.html",
-        "action": "modified",
-        "before": "77248e461534113ca6804a5cc46b2da4137e43ff22297660002a62ad3bb663df",
-        "after": "4cef576b198467d1300c69cc4bdea4f0bd363d1966e1972d3c25010d009e0fb1"
-      },
-      {
-        "path": "tags/chronograph/index.html",
-        "action": "modified",
-        "before": "1a8b127c88526159f0ecd1948c745487aa343205d6ad5d21249db354ee08814c",
-        "after": "3a43c33c272b4650c703d4a8a82590cfe7c309e6ccf1f594e1b0c26ec650cdd5"
-      },
-      {
-        "path": "tags/colophon/index.html",
-        "action": "modified",
-        "before": "55cf2230735bf65cdc7cc7763a0b982a3fe1eb028ca7d20e9c5df048c9e1a924",
-        "after": "4769b6e6b5e64773f0f2b2a677e9147ff4a6a66ea925defcf58cb425db7261fc"
-      },
-      {
-        "path": "tags/complications/index.html",
-        "action": "modified",
-        "before": "77faf78ff3f7845eda9fee3620548451b28dddf0c5bfe50182a05321e6d0e910",
-        "after": "b6f3060f2ae813e95f4ecaddfe0daeff6de95d25dfec35d02d2258de6d15f917"
-      },
-      {
-        "path": "tags/dial-train/index.html",
-        "action": "modified",
-        "before": "21063416d7e3aa7f0036232ae12becd27a620d4a79a54c259315419ca15fc2c3",
-        "after": "d1b0a75cc0635115e2dd3842a2349b988ab5eb05329b82557812576cbe5a6ee2"
-      },
-      {
-        "path": "tags/escapement/index.html",
-        "action": "modified",
-        "before": "907596d81638e519440db70d3140a29c5c2fba9858da7fecb323eb1e091c871d",
-        "after": "73689f7ffaa453451ffd195933d1e482d932a85d4fc2ea9411d91e5ded38cd5a"
-      },
-      {
-        "path": "tags/frequency/index.html",
-        "action": "modified",
-        "before": "fbff7a6eac905bbef268ea4725c33a3ae0fa868db7b17f3b5cf4009a7aba5176",
-        "after": "2f8bc836129a36747c1b7007dc4c9e9ebcc43c38ee29cbf74d7848c1845bf8a3"
-      },
-      {
-        "path": "tags/gear-train/index.html",
-        "action": "modified",
-        "before": "f315f18ca82dca19f5f8e1336ff7cbea22fb8c6eb3c826124709f56930d34e5c",
-        "after": "d94017155be52058300e9202c451c27ac78ff4699b10288ed658eb11ffb48245"
-      },
-      {
-        "path": "tags/glossary/index.html",
-        "action": "modified",
-        "before": "87bf0805cdde2adc4a99bb869fd9be84dc8b2a25cdb964ff17138463d468d0b2",
-        "after": "4bfdc628c4bcfbf324baa9149e5c9b1eb85899d41f604d3b99fbd74c8a9cb5b2"
-      },
-      {
-        "path": "tags/guide/index.html",
-        "action": "modified",
-        "before": "31a73506d6e4bf693ca2c0c717b15a3f190c08d6ea40a2df8acaa82d5fe3cdb9",
-        "after": "f4502c6f63243b8547869e588ed61699c67ffda478e715691498c4d022ac940a"
-      },
-      {
-        "path": "tags/history/index.html",
-        "action": "modified",
-        "before": "13f8f9ca7e485f8028394344b42dd43d2a3776997b531ebd2deebff222905d23",
-        "after": "e33d61d2d6af387b2ca8f9bdf7fcf99cbc34a327ab00964b2934c3b14bff5d14"
-      },
-      {
-        "path": "tags/index.html",
-        "action": "modified",
-        "before": "2658112be465e15581fefde3444fbbb4a1ac6342fe4d0ac6c3357ce3e7ad076f",
-        "after": "296ca65bbab50cd4e29a8fb3e52684b1c24a980a32515fea36fc172df9ea119d"
-      },
-      {
-        "path": "tags/industrialization/index.html",
-        "action": "modified",
-        "before": "b8fbc6e6bcf100a1f27b3fbf05d9b500711980b295786b868d4d4d2415602aac",
-        "after": "df252d622e0a786d1d74eef7dc9bde0f983048845d21be053d0378376af2d04b"
-      },
-      {
-        "path": "tags/keyless-works/index.html",
-        "action": "modified",
-        "before": "f413eac371d6619980fded69f19b11f4ba12ea2caf6df1198ca1de594c333002",
-        "after": "53a3a2702507d8e047da5aefd3bb1512c6d49cdec1dcc9606c7daf71289a9ab7"
-      },
-      {
-        "path": "tags/lubrication/index.html",
-        "action": "modified",
-        "before": "195877d86074d2bce754ee79baa2771e0ee8766ee9cc741174f19b7ebfc46b65",
-        "after": "7c70409da3679a1d2a059a4cf5650c7bbdaf759543ad00ddf76c91cc2f91e8e0"
-      },
-      {
-        "path": "tags/magnetism/index.html",
-        "action": "modified",
-        "before": "9039113da628e6fa57964bc707326b1d38933f1365d3b935c75aac4cb94075f4",
-        "after": "536e0d00c7a9d1a359eedf3dc405dbfc60339792313dcee8a49fbe7cec57fa00"
-      },
-      {
-        "path": "tags/mainspring/index.html",
-        "action": "modified",
-        "before": "a69338a224fccbaf8039b6a7382d67a194ac2603e43f720c5dcb32f61afcd067",
-        "after": "18f6b02a423488c930488b910df461e34c2d554c8454aafe13dc2cdd09e22710"
-      },
-      {
-        "path": "tags/moonphase/index.html",
-        "action": "modified",
-        "before": "697b94e7c3e41d057e1bbbf6ce84f849b676a45f8e9fdcfa52d5654d6259dff6",
-        "after": "f2b6e1b39c0c5d06fcaed4a03951dd9354535b5ef848bc8304d81ff23578b980"
-      },
-      {
-        "path": "tags/perpetual-calendar/index.html",
-        "action": "modified",
-        "before": "ba2a9daa5752d0ea6c10c31c2fa63e8d2c10925d4ebc30c8128cd7ce184ba1bd",
-        "after": "dcde703761ed08db52f95fc6d774609c1e6aeff1da42692016bfba668c6b1a3b"
-      },
-      {
-        "path": "tags/physics/index.html",
-        "action": "modified",
-        "before": "6cd3a85299a08aaf7ca71a709a77eac13a63461e5e11329f18e71d66a6de76a7",
-        "after": "190683afe57a52069ab5c8d9c7b6b9962d034ac949f8f1d52f6567097b14077e"
-      },
-      {
-        "path": "tags/power-reserve/index.html",
-        "action": "modified",
-        "before": "caa294fdd935bf13cfefcfef78814f6281f475715e58a42bdc95e8caf56aaaa0",
-        "after": "e41318e51b292038c58d875741daf07a37ea130d8f358e0f4c53c506c46f91c9"
-      },
-      {
-        "path": "tags/quartz/index.html",
-        "action": "modified",
-        "before": "5a9e68eef4c32e149024dba9dc8e7027a1ad1c14b3fb4d7c1c339d8bf3649cf4",
-        "after": "8d742b1ddd3741a68f8994d0290720b19efb78e3ee561762404df75fde60f25b"
-      },
-      {
-        "path": "tags/repeater/index.html",
-        "action": "modified",
-        "before": "41e435eac8357364e0cf0682784d9b6cced5d1610b9feaf52ab6055ac0488e8d",
-        "after": "4a602f735b42b99b2be584d6a1dce217fd02c61a63c70279ba879100512ea1b9"
-      },
-      {
-        "path": "tags/series-anatomy/index.html",
-        "action": "modified",
-        "before": "ed98917bffb5eb25e3f88a76b6fca33475f8fce264528234b205f284937f6113",
-        "after": "2b829ee27b5081e023af04079f2841c9e566bc90af5fc878f494af116ac3b09c"
-      },
-      {
-        "path": "tags/service/index.html",
-        "action": "modified",
-        "before": "4fac147f77d404edc0c6a75b7e7c49d9249ddf6d99a186ac1b40c00eb47dca28",
-        "after": "580427654653a4ccbc1ca7d26fdb10916a6d7d1aeb4bfcc39bb7342ccefc724b"
-      },
-      {
-        "path": "tags/shock-protection/index.html",
-        "action": "modified",
-        "before": "397956a96bdc735f392b42fd0013b67f8fc4d0e313121f1b0cf5a4aba6725410",
-        "after": "aeae721e81aa14ebe64a21c1e0ea24e58f4e2a4dcd8763719520f73e41da1796"
-      },
-      {
-        "path": "tags/silicon/index.html",
-        "action": "modified",
-        "before": "756b697d4389d49510a052e344492bcd9a5dc0aeb6ddea7a70afd1897b48d157",
-        "after": "eb19d208a6e2d44dcb649b3f2738617fc1778499bbfdb462d1114d023f0a1ba6"
-      },
-      {
-        "path": "tags/timeline/index.html",
-        "action": "modified",
-        "before": "7becca5ac14202c8febf561b1e3f5980191664408276dbe1de211f0aacd1bcce",
-        "after": "ffed9a736e45b5089f630cdc9495c59cacebb89b966aa5c1fe0e753a43edfee1"
-      },
-      {
-        "path": "tags/tourbillon/index.html",
-        "action": "modified",
-        "before": "cb488baddfb94e0e239bb6b9d01407367f382a0d7b5e88ed1cd6daf0941346c4",
-        "after": "358b8c313ff6063eedc89458c442ae59595c21a386f85a5274c0b1ca21be6ac5"
-      },
-      {
-        "path": "tags/water-resistance/index.html",
-        "action": "modified",
-        "before": "4ba646d38a529d748aeb177ecf9447c56ca60bca3ab22f434109d204015fb1a0",
-        "after": "e03a2ef3bad22486bf9f404a32cfd7d81c4562ef92d770a03262e607e088fba4"
-      },
-      {
-        "path": "unresolved-notes/index.html",
-        "action": "modified",
-        "before": "377d4efae6cf681f7bc6a126245d5c666867bb019212755c0b31b3ea1203e0e6",
-        "after": "8a93202427ca3d045d85fb44ec3c5aae90205a7e39379181c1e9bc739fab64de"
-      }
-    ],
-    "added_sitemap": [
-      "https://escapement.filed.fyi/",
-      "https://escapement.filed.fyi/about/",
-      "https://escapement.filed.fyi/anatomy/01-the-problem-of-timekeeping/",
-      "https://escapement.filed.fyi/anatomy/02-the-gear-train/",
-      "https://escapement.filed.fyi/anatomy/03-the-mainspring-and-barrel/",
-      "https://escapement.filed.fyi/anatomy/04-the-escapement/",
-      "https://escapement.filed.fyi/anatomy/05-the-balance-assembly/",
-      "https://escapement.filed.fyi/anatomy/06-the-keyless-works/",
-      "https://escapement.filed.fyi/anatomy/07-the-motion-works-and-dial/",
-      "https://escapement.filed.fyi/anatomy/08-putting-it-together/",
-      "https://escapement.filed.fyi/categories/",
-      "https://escapement.filed.fyi/categories/anatomy/",
-      "https://escapement.filed.fyi/categories/complications/",
-      "https://escapement.filed.fyi/categories/escapements/",
-      "https://escapement.filed.fyi/categories/glossary/",
-      "https://escapement.filed.fyi/categories/history/",
-      "https://escapement.filed.fyi/categories/maintenance/",
-      "https://escapement.filed.fyi/categories/movements/",
-      "https://escapement.filed.fyi/categories/orientation/",
-      "https://escapement.filed.fyi/categories/physics/",
-      "https://escapement.filed.fyi/complications/",
-      "https://escapement.filed.fyi/complications/chronograph/",
-      "https://escapement.filed.fyi/complications/gmt-and-world-time/",
-      "https://escapement.filed.fyi/complications/minute-repeater/",
-      "https://escapement.filed.fyi/complications/moonphase/",
-      "https://escapement.filed.fyi/complications/perpetual-calendar/",
-      "https://escapement.filed.fyi/complications/power-reserve/",
-      "https://escapement.filed.fyi/complications/tourbillon/",
-      "https://escapement.filed.fyi/escapements/",
-      "https://escapement.filed.fyi/escapements/co-axial/",
-      "https://escapement.filed.fyi/escapements/compared/",
-      "https://escapement.filed.fyi/escapements/cylinder-and-duplex/",
-      "https://escapement.filed.fyi/escapements/detent/",
-      "https://escapement.filed.fyi/escapements/swiss-lever/",
-      "https://escapement.filed.fyi/escapements/swiss-lever/drop-lock-and-lift/",
-      "https://escapement.filed.fyi/escapements/verge-and-foliot/",
-      "https://escapement.filed.fyi/glossary/glossary/",
-      "https://escapement.filed.fyi/history/",
-      "https://escapement.filed.fyi/history/1656-huygens-and-the-pendulum/",
-      "https://escapement.filed.fyi/history/1675-the-balance-spring-race/",
-      "https://escapement.filed.fyi/history/1761-harrison-and-the-longitude-prize/",
-      "https://escapement.filed.fyi/history/1770-mudge-and-the-lever/",
-      "https://escapement.filed.fyi/history/1850s-the-american-system/",
-      "https://escapement.filed.fyi/history/1927-the-quartz-clock/",
-      "https://escapement.filed.fyi/history/1969-the-quartz-crisis/",
-      "https://escapement.filed.fyi/history/1983-the-swatch-rescue/",
-      "https://escapement.filed.fyi/maintenance/magnetism/",
-      "https://escapement.filed.fyi/maintenance/servicing/",
-      "https://escapement.filed.fyi/maintenance/water-resistance/",
-      "https://escapement.filed.fyi/movements/",
-      "https://escapement.filed.fyi/movements/omega-321/",
-      "https://escapement.filed.fyi/movements/patek-calibre-89/",
-      "https://escapement.filed.fyi/movements/rolex-3135/",
-      "https://escapement.filed.fyi/movements/valjoux-7750/",
-      "https://escapement.filed.fyi/movements/zenith-el-primero/",
-      "https://escapement.filed.fyi/physics/amplitude/",
-      "https://escapement.filed.fyi/physics/frequency/",
-      "https://escapement.filed.fyi/physics/friction-and-lubrication/",
-      "https://escapement.filed.fyi/physics/isochronism/",
-      "https://escapement.filed.fyi/physics/positions-and-rate/",
-      "https://escapement.filed.fyi/physics/the-balance-spring/",
-      "https://escapement.filed.fyi/start-here/read-me-first/",
-      "https://escapement.filed.fyi/start-here/the-five-minute-watch/",
-      "https://escapement.filed.fyi/tags/",
-      "https://escapement.filed.fyi/tags/accuracy/",
-      "https://escapement.filed.fyi/tags/amplitude/",
-      "https://escapement.filed.fyi/tags/balance-spring/",
-      "https://escapement.filed.fyi/tags/balance/",
-      "https://escapement.filed.fyi/tags/calibre/",
-      "https://escapement.filed.fyi/tags/chronograph/",
-      "https://escapement.filed.fyi/tags/colophon/",
-      "https://escapement.filed.fyi/tags/complications/",
-      "https://escapement.filed.fyi/tags/dial-train/",
-      "https://escapement.filed.fyi/tags/escapement/",
-      "https://escapement.filed.fyi/tags/frequency/",
-      "https://escapement.filed.fyi/tags/gear-train/",
-      "https://escapement.filed.fyi/tags/glossary/",
-      "https://escapement.filed.fyi/tags/guide/",
-      "https://escapement.filed.fyi/tags/history/",
-      "https://escapement.filed.fyi/tags/industrialization/",
-      "https://escapement.filed.fyi/tags/keyless-works/",
-      "https://escapement.filed.fyi/tags/lubrication/",
-      "https://escapement.filed.fyi/tags/magnetism/",
-      "https://escapement.filed.fyi/tags/mainspring/",
-      "https://escapement.filed.fyi/tags/moonphase/",
-      "https://escapement.filed.fyi/tags/perpetual-calendar/",
-      "https://escapement.filed.fyi/tags/physics/",
-      "https://escapement.filed.fyi/tags/power-reserve/",
-      "https://escapement.filed.fyi/tags/quartz/",
-      "https://escapement.filed.fyi/tags/repeater/",
-      "https://escapement.filed.fyi/tags/series-anatomy/",
-      "https://escapement.filed.fyi/tags/service/",
-      "https://escapement.filed.fyi/tags/shock-protection/",
-      "https://escapement.filed.fyi/tags/silicon/",
-      "https://escapement.filed.fyi/tags/timeline/",
-      "https://escapement.filed.fyi/tags/tourbillon/",
-      "https://escapement.filed.fyi/tags/water-resistance/",
-      "https://escapement.filed.fyi/unresolved-notes/"
-    ],
-    "removed_sitemap": [
-      "/",
-      "/about/",
-      "/anatomy/01-the-problem-of-timekeeping/",
-      "/anatomy/02-the-gear-train/",
-      "/anatomy/03-the-mainspring-and-barrel/",
-      "/anatomy/04-the-escapement/",
-      "/anatomy/05-the-balance-assembly/",
-      "/anatomy/06-the-keyless-works/",
-      "/anatomy/07-the-motion-works-and-dial/",
-      "/anatomy/08-putting-it-together/",
-      "/categories/",
-      "/categories/anatomy/",
-      "/categories/complications/",
-      "/categories/escapements/",
-      "/categories/glossary/",
-      "/categories/history/",
-      "/categories/maintenance/",
-      "/categories/movements/",
-      "/categories/orientation/",
-      "/categories/physics/",
-      "/complications/",
-      "/complications/chronograph/",
-      "/complications/gmt-and-world-time/",
-      "/complications/minute-repeater/",
-      "/complications/moonphase/",
-      "/complications/perpetual-calendar/",
-      "/complications/power-reserve/",
-      "/complications/tourbillon/",
-      "/escapements/",
-      "/escapements/co-axial/",
-      "/escapements/compared/",
-      "/escapements/cylinder-and-duplex/",
-      "/escapements/detent/",
-      "/escapements/swiss-lever/",
-      "/escapements/swiss-lever/drop-lock-and-lift/",
-      "/escapements/verge-and-foliot/",
-      "/glossary/glossary/",
-      "/history/",
-      "/history/1656-huygens-and-the-pendulum/",
-      "/history/1675-the-balance-spring-race/",
-      "/history/1761-harrison-and-the-longitude-prize/",
-      "/history/1770-mudge-and-the-lever/",
-      "/history/1850s-the-american-system/",
-      "/history/1927-the-quartz-clock/",
-      "/history/1969-the-quartz-crisis/",
-      "/history/1983-the-swatch-rescue/",
-      "/maintenance/magnetism/",
-      "/maintenance/servicing/",
-      "/maintenance/water-resistance/",
-      "/movements/",
-      "/movements/omega-321/",
-      "/movements/patek-calibre-89/",
-      "/movements/rolex-3135/",
-      "/movements/valjoux-7750/",
-      "/movements/zenith-el-primero/",
-      "/physics/amplitude/",
-      "/physics/frequency/",
-      "/physics/friction-and-lubrication/",
-      "/physics/isochronism/",
-      "/physics/positions-and-rate/",
-      "/physics/the-balance-spring/",
-      "/start-here/read-me-first/",
-      "/start-here/the-five-minute-watch/",
-      "/tags/",
-      "/tags/accuracy/",
-      "/tags/amplitude/",
-      "/tags/balance-spring/",
-      "/tags/balance/",
-      "/tags/calibre/",
-      "/tags/chronograph/",
-      "/tags/colophon/",
-      "/tags/complications/",
-      "/tags/dial-train/",
-      "/tags/escapement/",
-      "/tags/frequency/",
-      "/tags/gear-train/",
-      "/tags/glossary/",
-      "/tags/guide/",
-      "/tags/history/",
-      "/tags/industrialization/",
-      "/tags/keyless-works/",
-      "/tags/lubrication/",
-      "/tags/magnetism/",
-      "/tags/mainspring/",
-      "/tags/moonphase/",
-      "/tags/perpetual-calendar/",
-      "/tags/physics/",
-      "/tags/power-reserve/",
-      "/tags/quartz/",
-      "/tags/repeater/",
-      "/tags/series-anatomy/",
-      "/tags/service/",
-      "/tags/shock-protection/",
-      "/tags/silicon/",
-      "/tags/timeline/",
-      "/tags/tourbillon/",
-      "/tags/water-resistance/",
-      "/unresolved-notes/"
-    ],
-    "regressions": [
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /about/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/01-the-problem-of-timekeeping/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/02-the-gear-train/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/03-the-mainspring-and-barrel/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/04-the-escapement/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/05-the-balance-assembly/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/06-the-keyless-works/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/07-the-motion-works-and-dial/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /anatomy/08-putting-it-together/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/anatomy/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/complications/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/escapements/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/glossary/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/history/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/maintenance/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/movements/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/orientation/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /categories/physics/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/chronograph/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/gmt-and-world-time/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/minute-repeater/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/moonphase/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/perpetual-calendar/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/power-reserve/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /complications/tourbillon/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/co-axial/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/compared/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/cylinder-and-duplex/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/detent/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/swiss-lever/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/swiss-lever/drop-lock-and-lift/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /escapements/verge-and-foliot/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /glossary/glossary/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1656-huygens-and-the-pendulum/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1675-the-balance-spring-race/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1761-harrison-and-the-longitude-prize/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1770-mudge-and-the-lever/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1850s-the-american-system/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1927-the-quartz-clock/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1969-the-quartz-crisis/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /history/1983-the-swatch-rescue/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /maintenance/magnetism/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /maintenance/servicing/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /maintenance/water-resistance/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /movements/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /movements/omega-321/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /movements/patek-calibre-89/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /movements/rolex-3135/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /movements/valjoux-7750/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /movements/zenith-el-primero/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /physics/amplitude/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /physics/frequency/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /physics/friction-and-lubrication/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /physics/isochronism/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /physics/positions-and-rate/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /physics/the-balance-spring/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /start-here/read-me-first/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /start-here/the-five-minute-watch/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/accuracy/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/amplitude/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/balance-spring/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/balance/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/calibre/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/chronograph/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/colophon/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/complications/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/dial-train/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/escapement/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/frequency/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/gear-train/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/glossary/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/guide/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/history/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/industrialization/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/keyless-works/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/lubrication/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/magnetism/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/mainspring/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/moonphase/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/perpetual-calendar/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/physics/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/power-reserve/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/quartz/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/repeater/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/series-anatomy/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/service/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/shock-protection/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/silicon/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/timeline/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/tourbillon/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /tags/water-resistance/"
-      },
-      {
-        "kind": "sitemap",
-        "detail": "sitemap entry lost: /unresolved-notes/"
+        "before": "efaa060163d54bfbad002c3ca06389f7148b48943717e9e67345c8817e075a8e",
+        "after": "447f7d6d264fe8d7189f86f25af9231826d05801c787d175ece1f3e9bdc213a6"
       }
     ],
     "rendered_pages": [
-      {
-        "identity": "about",
-        "source_path": "about.md",
-        "url": "/about/",
-        "title": "About \u0026 Colophon"
-      },
-      {
-        "identity": "anatomy/01-the-problem-of-timekeeping",
-        "source_path": "anatomy/01-the-problem-of-timekeeping.md",
-        "url": "/anatomy/01-the-problem-of-timekeeping/",
-        "title": "Anatomy 1: The Problem of Timekeeping"
-      },
-      {
-        "identity": "anatomy/02-the-gear-train",
-        "source_path": "anatomy/02-the-gear-train.md",
-        "url": "/anatomy/02-the-gear-train/",
-        "title": "Anatomy 2: The Gear Train"
-      },
-      {
-        "identity": "anatomy/03-the-mainspring-and-barrel",
-        "source_path": "anatomy/03-the-mainspring-and-barrel.md",
-        "url": "/anatomy/03-the-mainspring-and-barrel/",
-        "title": "Anatomy 3: The Mainspring and Barrel"
-      },
-      {
-        "identity": "anatomy/04-the-escapement",
-        "source_path": "anatomy/04-the-escapement.md",
-        "url": "/anatomy/04-the-escapement/",
-        "title": "Anatomy 4: The Escapement"
-      },
-      {
-        "identity": "anatomy/05-the-balance-assembly",
-        "source_path": "anatomy/05-the-balance-assembly.md",
-        "url": "/anatomy/05-the-balance-assembly/",
-        "title": "Anatomy 5: The Balance Assembly"
-      },
-      {
-        "identity": "anatomy/06-the-keyless-works",
-        "source_path": "anatomy/06-the-keyless-works.md",
-        "url": "/anatomy/06-the-keyless-works/",
-        "title": "Anatomy 6: The Keyless Works"
-      },
-      {
-        "identity": "anatomy/07-the-motion-works-and-dial",
-        "source_path": "anatomy/07-the-motion-works-and-dial.md",
-        "url": "/anatomy/07-the-motion-works-and-dial/",
-        "title": "Anatomy 7: The Motion Works and Dial"
-      },
-      {
-        "identity": "anatomy/08-putting-it-together",
-        "source_path": "anatomy/08-putting-it-together.md",
-        "url": "/anatomy/08-putting-it-together/",
-        "title": "Anatomy 8: Putting It Together"
-      },
-      {
-        "identity": "complications/chronograph",
-        "source_path": "complications/chronograph.md",
-        "url": "/complications/chronograph/",
-        "title": "The Chronograph"
-      },
-      {
-        "identity": "complications/gmt-and-world-time",
-        "source_path": "complications/gmt-and-world-time.md",
-        "url": "/complications/gmt-and-world-time/",
-        "title": "GMT and World Time"
-      },
-      {
-        "identity": "complications/index",
-        "source_path": "complications/index.md",
-        "url": "/complications/",
-        "title": "What Counts as a Complication"
-      },
-      {
-        "identity": "complications/minute-repeater",
-        "source_path": "complications/minute-repeater.md",
-        "url": "/complications/minute-repeater/",
-        "title": "The Minute Repeater"
-      },
-      {
-        "identity": "complications/moonphase",
-        "source_path": "complications/moonphase.md",
-        "url": "/complications/moonphase/",
-        "title": "The Moonphase"
-      },
-      {
-        "identity": "complications/perpetual-calendar",
-        "source_path": "complications/perpetual-calendar.md",
-        "url": "/complications/perpetual-calendar/",
-        "title": "The Perpetual Calendar"
-      },
-      {
-        "identity": "complications/power-reserve",
-        "source_path": "complications/power-reserve.md",
-        "url": "/complications/power-reserve/",
-        "title": "Power Reserve"
-      },
-      {
-        "identity": "complications/tourbillon",
-        "source_path": "complications/tourbillon.md",
-        "url": "/complications/tourbillon/",
-        "title": "The Tourbillon"
-      },
-      {
-        "identity": "escapements/co-axial",
-        "source_path": "escapements/co-axial.md",
-        "url": "/escapements/co-axial/",
-        "title": "The Co-axial Escapement"
-      },
-      {
-        "identity": "escapements/compared",
-        "source_path": "escapements/compared.md",
-        "url": "/escapements/compared/",
-        "title": "Escapements, Compared"
-      },
-      {
-        "identity": "escapements/cylinder-and-duplex",
-        "source_path": "escapements/cylinder-and-duplex.md",
-        "url": "/escapements/cylinder-and-duplex/",
-        "title": "Cylinder and Duplex"
-      },
-      {
-        "identity": "escapements/detent",
-        "source_path": "escapements/detent.md",
-        "url": "/escapements/detent/",
-        "title": "The Detent Escapement"
-      },
-      {
-        "identity": "escapements/index",
-        "source_path": "escapements/index.md",
-        "url": "/escapements/",
-        "title": "The Escapement Zoo"
-      },
-      {
-        "identity": "escapements/swiss-lever",
-        "source_path": "escapements/swiss-lever.md",
-        "url": "/escapements/swiss-lever/",
-        "title": "The Swiss Lever Escapement"
-      },
-      {
-        "identity": "escapements/swiss-lever/drop-lock-and-lift",
-        "source_path": "escapements/swiss-lever/drop-lock-and-lift.md",
-        "url": "/escapements/swiss-lever/drop-lock-and-lift/",
-        "title": "Drop, Lock, and Lift"
-      },
-      {
-        "identity": "escapements/verge-and-foliot",
-        "source_path": "escapements/verge-and-foliot.md",
-        "url": "/escapements/verge-and-foliot/",
-        "title": "Verge and Foliot"
-      },
       {
         "identity": "glossary/glossary",
         "source_path": "glossary/glossary.md",
         "url": "/glossary/glossary/",
         "title": "Glossary"
-      },
-      {
-        "identity": "history/1656-huygens-and-the-pendulum",
-        "source_path": "history/1656-huygens-and-the-pendulum.md",
-        "url": "/history/1656-huygens-and-the-pendulum/",
-        "title": "1656 — Huygens and the Pendulum"
-      },
-      {
-        "identity": "history/1675-the-balance-spring-race",
-        "source_path": "history/1675-the-balance-spring-race.md",
-        "url": "/history/1675-the-balance-spring-race/",
-        "title": "1675 — The Balance-Spring Race"
-      },
-      {
-        "identity": "history/1761-harrison-and-the-longitude-prize",
-        "source_path": "history/1761-harrison-and-the-longitude-prize.md",
-        "url": "/history/1761-harrison-and-the-longitude-prize/",
-        "title": "1761 — Harrison and the Longitude Prize"
-      },
-      {
-        "identity": "history/1770-mudge-and-the-lever",
-        "source_path": "history/1770-mudge-and-the-lever.md",
-        "url": "/history/1770-mudge-and-the-lever/",
-        "title": "1770 — Mudge and the Lever"
-      },
-      {
-        "identity": "history/1850s-the-american-system",
-        "source_path": "history/1850s-the-american-system.md",
-        "url": "/history/1850s-the-american-system/",
-        "title": "1850s — The American System"
-      },
-      {
-        "identity": "history/1927-the-quartz-clock",
-        "source_path": "history/1927-the-quartz-clock.md",
-        "url": "/history/1927-the-quartz-clock/",
-        "title": "1927 — The Quartz Clock"
-      },
-      {
-        "identity": "history/1969-the-quartz-crisis",
-        "source_path": "history/1969-the-quartz-crisis.md",
-        "url": "/history/1969-the-quartz-crisis/",
-        "title": "1969 — The Quartz Crisis"
-      },
-      {
-        "identity": "history/1983-the-swatch-rescue",
-        "source_path": "history/1983-the-swatch-rescue.md",
-        "url": "/history/1983-the-swatch-rescue/",
-        "title": "1983 — The Swatch Rescue"
-      },
-      {
-        "identity": "history/index",
-        "source_path": "history/index.md",
-        "url": "/history/",
-        "title": "A Timeline of Timekeeping"
-      },
-      {
-        "identity": "index",
-        "source_path": "index.md",
-        "url": "/",
-        "title": "Escapement — How a Mechanical Watch Actually Works"
-      },
-      {
-        "identity": "maintenance/magnetism",
-        "source_path": "maintenance/magnetism.md",
-        "url": "/maintenance/magnetism/",
-        "title": "Magnetism"
-      },
-      {
-        "identity": "maintenance/servicing",
-        "source_path": "maintenance/servicing.md",
-        "url": "/maintenance/servicing/",
-        "title": "Servicing"
-      },
-      {
-        "identity": "maintenance/water-resistance",
-        "source_path": "maintenance/water-resistance.md",
-        "url": "/maintenance/water-resistance/",
-        "title": "Water Resistance"
-      },
-      {
-        "identity": "movements/index",
-        "source_path": "movements/index.md",
-        "url": "/movements/",
-        "title": "How to Read a Calibre"
-      },
-      {
-        "identity": "movements/omega-321",
-        "source_path": "movements/omega-321.md",
-        "url": "/movements/omega-321/",
-        "title": "Omega Calibre 321"
-      },
-      {
-        "identity": "movements/patek-calibre-89",
-        "source_path": "movements/patek-calibre-89.md",
-        "url": "/movements/patek-calibre-89/",
-        "title": "Patek Philippe Calibre 89"
-      },
-      {
-        "identity": "movements/rolex-3135",
-        "source_path": "movements/rolex-3135.md",
-        "url": "/movements/rolex-3135/",
-        "title": "Rolex Calibre 3135"
-      },
-      {
-        "identity": "movements/valjoux-7750",
-        "source_path": "movements/valjoux-7750.md",
-        "url": "/movements/valjoux-7750/",
-        "title": "Valjoux 7750"
-      },
-      {
-        "identity": "movements/zenith-el-primero",
-        "source_path": "movements/zenith-el-primero.md",
-        "url": "/movements/zenith-el-primero/",
-        "title": "Zenith El Primero"
-      },
-      {
-        "identity": "physics/amplitude",
-        "source_path": "physics/amplitude.md",
-        "url": "/physics/amplitude/",
-        "title": "Amplitude"
-      },
-      {
-        "identity": "physics/frequency",
-        "source_path": "physics/frequency.md",
-        "url": "/physics/frequency/",
-        "title": "Frequency"
-      },
-      {
-        "identity": "physics/friction-and-lubrication",
-        "source_path": "physics/friction-and-lubrication.md",
-        "url": "/physics/friction-and-lubrication/",
-        "title": "Friction and Lubrication"
-      },
-      {
-        "identity": "physics/isochronism",
-        "source_path": "physics/isochronism.md",
-        "url": "/physics/isochronism/",
-        "title": "Isochronism"
-      },
-      {
-        "identity": "physics/positions-and-rate",
-        "source_path": "physics/positions-and-rate.md",
-        "url": "/physics/positions-and-rate/",
-        "title": "Positions and Rate"
-      },
-      {
-        "identity": "physics/the-balance-spring",
-        "source_path": "physics/the-balance-spring.md",
-        "url": "/physics/the-balance-spring/",
-        "title": "The Balance Spring"
-      },
-      {
-        "identity": "start-here/read-me-first",
-        "source_path": "start-here/read-me-first.md",
-        "url": "/start-here/read-me-first/",
-        "title": "Read Me First"
-      },
-      {
-        "identity": "start-here/the-five-minute-watch",
-        "source_path": "start-here/the-five-minute-watch.md",
-        "url": "/start-here/the-five-minute-watch/",
-        "title": "The Five-Minute Watch"
       }
     ]
   }

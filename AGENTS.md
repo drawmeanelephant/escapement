@@ -15,6 +15,7 @@ Welcome to the family. This repository contains a handcrafted, local-first stati
 - `assets/`: Static assets (`css/`, `js/`, `img/`).
 - `config.yaml`: Central site configuration.
 - `public/`: Generated static site (committed in this repo for direct static hosting; never edit by hand).
+- `static/`: Hand-written files staged into `public/` at ship time (e.g. `404.html`), because generator builds clean `public/`.
 - `.agents/plans/`: Recommended directory for agent task plans and scratchpads.
 
 ## 3. Content Authoring Rules
@@ -72,14 +73,20 @@ la-famille build
   ```bash
 la-famille rag
   ```
-  Exports site content into RAG-friendly markdown bundles under `public/rag-archive/`. Note: `build` cleans `public/`, so always publish in the order **build, then rag**.
+  Exports site content into RAG-friendly markdown bundles under `public/rag-archive/`. Note: `build` cleans `public/`, so always publish in the order **build, then rag, then stage `static/` extras** (`cp static/404.html public/404.html`; deploy CI does the same automatically).
 
 - **Explore Bundled Themes**:
   ```bash
 la-famille themes
   ```
 
+- **Ship-Time Link Check**:
+  ```bash
+python3 scripts/check-links.py public
+  ```
+  Verifies every internal reference in `public/` resolves (also run by `.github/workflows/check.yml` on every push and PR).
+
 ## 5. Execution Guardrails for Agents
 1. **Planning**: Before complex refactoring or multi-file changes, create a brief plan in `.agents/plans/<task-id>.md`.
-2. **Quality Gate**: Before declaring any content authoring or theme task complete, run `la-famille check` and `la-famille build` locally. Both must succeed with zero errors.
-3. **Keep Source and Build in Sync**: The cache (`.la-famille-cache.json`) is gitignored, but `public/` is committed so static hosts can serve the repo directly. After content changes, rebuild (build → rag) and commit the refreshed `public/` alongside the source edits.
+2. **Quality Gate**: Before declaring any content authoring or theme task complete, run `la-famille check` and `la-famille build` locally. Both must succeed with zero errors. Also run `python3 scripts/check-links.py public`.
+3. **Keep Source and Build in Sync**: The cache (`.la-famille-cache.json`) is gitignored, but `public/` is committed so static hosts can serve the repo directly. After content changes, rebuild (build → rag → stage `static/`) and commit the refreshed `public/` alongside the source edits.

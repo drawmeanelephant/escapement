@@ -3,12 +3,16 @@
     "index"
   ],
   "anatomy/01-the-problem-of-timekeeping": [
+    "anatomy/02-the-gear-train",
     "index",
+    "start-here/read-me-first",
     "start-here/read-me-first",
     "start-here/the-five-minute-watch"
   ],
   "anatomy/02-the-gear-train": [
     "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/03-the-mainspring-and-barrel",
     "anatomy/03-the-mainspring-and-barrel",
     "anatomy/06-the-keyless-works",
     "anatomy/07-the-motion-works-and-dial",
@@ -26,6 +30,8 @@
     "anatomy/01-the-problem-of-timekeeping",
     "anatomy/02-the-gear-train",
     "anatomy/02-the-gear-train",
+    "anatomy/02-the-gear-train",
+    "anatomy/04-the-escapement",
     "anatomy/06-the-keyless-works",
     "anatomy/06-the-keyless-works",
     "anatomy/08-putting-it-together",
@@ -54,6 +60,8 @@
     "anatomy/02-the-gear-train",
     "anatomy/02-the-gear-train",
     "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/05-the-balance-assembly",
     "anatomy/05-the-balance-assembly",
     "anatomy/07-the-motion-works-and-dial",
     "anatomy/08-putting-it-together",
@@ -64,6 +72,8 @@
     "anatomy/01-the-problem-of-timekeeping",
     "anatomy/01-the-problem-of-timekeeping",
     "anatomy/04-the-escapement",
+    "anatomy/04-the-escapement",
+    "anatomy/06-the-keyless-works",
     "anatomy/08-putting-it-together",
     "complications/tourbillon",
     "glossary/glossary",
@@ -81,6 +91,8 @@
   "anatomy/06-the-keyless-works": [
     "anatomy/01-the-problem-of-timekeeping",
     "anatomy/05-the-balance-assembly",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/07-the-motion-works-and-dial",
     "anatomy/07-the-motion-works-and-dial",
     "anatomy/08-putting-it-together",
     "glossary/glossary",
@@ -93,12 +105,15 @@
     "anatomy/02-the-gear-train",
     "anatomy/06-the-keyless-works",
     "anatomy/06-the-keyless-works",
+    "anatomy/06-the-keyless-works",
+    "anatomy/08-putting-it-together",
     "complications/gmt-and-world-time",
     "glossary/glossary",
     "start-here/read-me-first",
     "start-here/the-five-minute-watch"
   ],
   "anatomy/08-putting-it-together": [
+    "anatomy/07-the-motion-works-and-dial",
     "anatomy/07-the-motion-works-and-dial",
     "index",
     "maintenance/servicing",
@@ -278,6 +293,7 @@
     "history/1770-mudge-and-the-lever"
   ],
   "glossary/glossary": [
+    "anatomy/08-putting-it-together",
     "index",
     "start-here/read-me-first"
   ],
@@ -350,6 +366,7 @@
     "history/index"
   ],
   "history/index": [
+    "anatomy/08-putting-it-together",
     "anatomy/08-putting-it-together",
     "history/1983-the-swatch-rescue",
     "index",
@@ -510,6 +527,7 @@
   ],
   "start-here/read-me-first": [
     "about",
+    "anatomy/01-the-problem-of-timekeeping",
     "anatomy/01-the-problem-of-timekeeping",
     "anatomy/02-the-gear-train",
     "anatomy/03-the-mainspring-and-barrel",

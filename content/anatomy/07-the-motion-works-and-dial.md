@@ -57,3 +57,7 @@ Lume, printing, and finishing live here too — but the mechanical point is
 simple: between the fourth wheel and the tip of a hand there is nothing but
 exact ratios and controlled friction. Next, the finale:
 [Putting It Together](../anatomy/08-putting-it-together.md).
+
+---
+
+**Anatomy 7 of 8** · ← [Anatomy 6: The Keyless Works](06-the-keyless-works.md) · [Anatomy 8: Putting It Together](08-putting-it-together.md) →

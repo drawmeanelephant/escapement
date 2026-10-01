@@ -65,3 +65,7 @@ stealing accuracy?"
 
 Next: the timekeeper itself —
 [The Balance Assembly](../anatomy/05-the-balance-assembly.md).
+
+---
+
+**Anatomy 4 of 8** · ← [Anatomy 3: The Mainspring and Barrel](03-the-mainspring-and-barrel.md) · [Anatomy 5: The Balance Assembly](05-the-balance-assembly.md) →

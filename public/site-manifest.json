@@ -105,7 +105,7 @@
         "physics/positions-and-rate",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 3,
+      "inbound_link_count": 5,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -211,11 +211,25 @@
           "graph_target": "anatomy/07-the-motion-works-and-dial",
           "line": 69,
           "resolved": true
+        },
+        {
+          "destination": "../start-here/read-me-first.md",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 74,
+          "resolved": true
+        },
+        {
+          "destination": "02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 74,
+          "resolved": true
         }
       ],
       "asset_references": [],
-      "content_hash": "6bb2aa95296634b0f55c2f769a185d7c9c5d0525b7e069f2c3a1fe3af872060f",
-      "output_hash": "21e9774199401546e43e8858c0c5cc309e8df52ad421895e9c2a36d80a6a3061",
+      "content_hash": "5e1825e61a44a457d5be408e9f113f2db14598868e5fe1f94f8b22590425a5e2",
+      "output_hash": "43927b28656f4446fbbd411e4bf2413175ecd1baf4847ad45beb52e8fea5458a",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -246,13 +260,14 @@
         "anatomy"
       ],
       "outbound_links": [
+        "anatomy/01-the-problem-of-timekeeping",
         "anatomy/03-the-mainspring-and-barrel",
         "anatomy/04-the-escapement",
         "anatomy/07-the-motion-works-and-dial",
         "physics/friction-and-lubrication",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 12,
+      "inbound_link_count": 14,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -302,13 +317,27 @@
           "graph_target": "anatomy/03-the-mainspring-and-barrel",
           "line": 68,
           "resolved": true
+        },
+        {
+          "destination": "01-the-problem-of-timekeeping.md",
+          "target": "anatomy/01-the-problem-of-timekeeping.md",
+          "graph_target": "anatomy/01-the-problem-of-timekeeping",
+          "line": 72,
+          "resolved": true
+        },
+        {
+          "destination": "03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 72,
+          "resolved": true
         }
       ],
       "asset_references": [
         "img/gear-train.svg"
       ],
-      "content_hash": "ff4e706a809e22b377a80977bdc5725c465906d0c8cf30af3481ded40d365ed3",
-      "output_hash": "f98a3c8511beca174a8b9aff756721873ac13350a5ad433790f2e7432683db5c",
+      "content_hash": "dbf5a726fc4a77f0491b3c4d745757fa26df9f83f62c0385f1766ef74d78f56c",
+      "output_hash": "56b2ceff6b6ae82b7c89da37dd0a2c106dec2d8eeb68954a6925c762e03fa122",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -347,7 +376,7 @@
         "physics/amplitude",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 25,
+      "inbound_link_count": 27,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -397,11 +426,25 @@
           "graph_target": "anatomy/04-the-escapement",
           "line": 62,
           "resolved": true
+        },
+        {
+          "destination": "02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 66,
+          "resolved": true
+        },
+        {
+          "destination": "04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 66,
+          "resolved": true
         }
       ],
       "asset_references": [],
-      "content_hash": "bd08269e236ad9501727e8c824f5689151ae71710022146ca44c961a9fbe1c08",
-      "output_hash": "681c06e94c752297e479b1570859fc22f1d7379a0305843e7c5309be7ee161c9",
+      "content_hash": "531a6c0b27fe23b3022edaca49aa1a9a2beb98b1d31b2b04bd75911689b33c9d",
+      "output_hash": "e1dbdf1d70b6c7245fbda8bd7abbb79d316ff4c1024ddd9202727347cfd96ff9",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -432,6 +475,7 @@
         "anatomy"
       ],
       "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
         "anatomy/05-the-balance-assembly",
         "escapements/co-axial",
         "escapements/detent",
@@ -440,7 +484,7 @@
         "physics/frequency",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 10,
+      "inbound_link_count": 12,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -497,13 +541,27 @@
           "graph_target": "anatomy/05-the-balance-assembly",
           "line": 67,
           "resolved": true
+        },
+        {
+          "destination": "03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 71,
+          "resolved": true
+        },
+        {
+          "destination": "05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 71,
+          "resolved": true
         }
       ],
       "asset_references": [
         "img/escapement-cycle.svg"
       ],
-      "content_hash": "aa43ff748c0e820b3ffd0885737c448f9b1de5ca7c7ed26108eae94a62d95d61",
-      "output_hash": "1434b899cd500767f20938131a519bed8028946c94912f736f0c4e6434e8309d",
+      "content_hash": "a367a35f486d741c0efb1f4f4edf7dabeb21c459364cc4a37565e0ff4724a56f",
+      "output_hash": "a38e4ecc1d62b4b73b882f30ca48cdd4d6167252027a3ffb85bfcb4287f3929b",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -544,7 +602,7 @@
         "physics/the-balance-spring",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 16,
+      "inbound_link_count": 18,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -601,13 +659,27 @@
           "graph_target": "anatomy/06-the-keyless-works",
           "line": 73,
           "resolved": true
+        },
+        {
+          "destination": "04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 77,
+          "resolved": true
+        },
+        {
+          "destination": "06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 77,
+          "resolved": true
         }
       ],
       "asset_references": [
         "img/balance-spring.svg"
       ],
-      "content_hash": "d6d2d92d6590a9ad40b0085b2c8fc3bf751863edadaded2f3530fe192c5b3a32",
-      "output_hash": "1fe5700e8bd1b8fa1d3fe6c2e064d1ad9b05a2a139d7f6f77087ace2d4396233",
+      "content_hash": "119ee24431f89f86ef92d65e76b4795724b96c69cb3caa7c31805a49220038cb",
+      "output_hash": "aa5aacf6613c7d50c9b11062d0ca06bdc93066bab6520acec6524591379dc39b",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -640,12 +712,13 @@
       "outbound_links": [
         "anatomy/02-the-gear-train",
         "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/05-the-balance-assembly",
         "anatomy/07-the-motion-works-and-dial",
         "complications/perpetual-calendar",
         "maintenance/water-resistance",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 8,
+      "inbound_link_count": 10,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -702,11 +775,25 @@
           "graph_target": "anatomy/07-the-motion-works-and-dial",
           "line": 60,
           "resolved": true
+        },
+        {
+          "destination": "05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 64,
+          "resolved": true
+        },
+        {
+          "destination": "07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 64,
+          "resolved": true
         }
       ],
       "asset_references": [],
-      "content_hash": "38d34cb2a1751559a1df7d9a094fb1f8910c7d704dc0d4f2e6170bf09d200aa6",
-      "output_hash": "62eb2dd9ac08e231925b276a8f5b7f9d258971f6d6a5ee25470afe8c0bed7727",
+      "content_hash": "e7197fdf325f605c2dd68a25008ced4624b440f9e4db14680daf75908f5e8ade",
+      "output_hash": "648d4a0818a6f9712733c09b890633902d19bcb78f63ab9e564cd760d2def0c0",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -743,7 +830,7 @@
         "anatomy/08-putting-it-together",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 8,
+      "inbound_link_count": 10,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -793,11 +880,25 @@
           "graph_target": "anatomy/08-putting-it-together",
           "line": 59,
           "resolved": true
+        },
+        {
+          "destination": "06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 63,
+          "resolved": true
+        },
+        {
+          "destination": "08-putting-it-together.md",
+          "target": "anatomy/08-putting-it-together.md",
+          "graph_target": "anatomy/08-putting-it-together",
+          "line": 63,
+          "resolved": true
         }
       ],
       "asset_references": [],
-      "content_hash": "17d625acb25d3d5ef1f20b15a7f124a8b0787b2605dcb401cf1ac7c53d6ac88a",
-      "output_hash": "04594e9fa448da516868213a1932f7657091a2dacdd59356d62ae7e3be639c52",
+      "content_hash": "40dd1462f654be824bc09bab0c8aa41727c7c79de8dddece0bc1f31f261bb14d",
+      "output_hash": "466083ec9e11caed04f8d4463501603642b1594b9b813eae452731b6b3047a80",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -834,8 +935,10 @@
         "anatomy/04-the-escapement",
         "anatomy/05-the-balance-assembly",
         "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
         "escapements/co-axial",
         "escapements/swiss-lever/drop-lock-and-lift",
+        "glossary/glossary",
         "history/index",
         "maintenance/water-resistance",
         "physics/amplitude",
@@ -844,7 +947,7 @@
         "physics/positions-and-rate",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 4,
+      "inbound_link_count": 5,
       "links": [
         {
           "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
@@ -943,11 +1046,32 @@
           "graph_target": "physics/isochronism",
           "line": 67,
           "resolved": true
+        },
+        {
+          "destination": "../glossary/glossary.md",
+          "target": "glossary/glossary.md",
+          "graph_target": "glossary/glossary",
+          "line": 72,
+          "resolved": true
+        },
+        {
+          "destination": "../history/index.md",
+          "target": "history/index.md",
+          "graph_target": "history/index",
+          "line": 72,
+          "resolved": true
+        },
+        {
+          "destination": "07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 72,
+          "resolved": true
         }
       ],
       "asset_references": [],
-      "content_hash": "55a5a61df275fcf1be7dcdd8fb6ab59ee999d9da0847f8f4e053cbe374c23081",
-      "output_hash": "32745b1565d695ee47629aaa56d237f9e10990700e49df350589e3d4a2ccec49",
+      "content_hash": "a0e3a109cab4650d6534a11e988bc53630729659276281da17ff5ba08d8c5742",
+      "output_hash": "ced62007a29607fcbe356db0cf7e9b478f442e4fb7bc7fde46df79547d8157f3",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2214,7 +2338,7 @@
         "physics/positions-and-rate",
         "physics/the-balance-spring"
       ],
-      "inbound_link_count": 2,
+      "inbound_link_count": 3,
       "links": [
         {
           "destination": "../physics/amplitude.md",
@@ -2464,7 +2588,7 @@
       ],
       "asset_references": [],
       "content_hash": "9ad02bde03055e019964ddcf302856b47bdf34dfba5e5aa3dd2077c43e1df8d1",
-      "output_hash": "9a747519aa367bfecc7ee8b07f8451764044d7b81e1ce647778355739def7d4d",
+      "output_hash": "9b736be3327e5dce66383436f69374f4d3559d452a8cff9c4cf2a35ef5f78176",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3331,7 +3455,7 @@
         "physics/frequency",
         "start-here/read-me-first"
       ],
-      "inbound_link_count": 4,
+      "inbound_link_count": 5,
       "links": [
         {
           "destination": "1656-huygens-and-the-pendulum.md",
@@ -4974,7 +5098,7 @@
         "physics/amplitude",
         "physics/positions-and-rate"
       ],
-      "inbound_link_count": 11,
+      "inbound_link_count": 12,
       "links": [
         {
           "destination": "../anatomy/01-the-problem-of-timekeeping.md",
@@ -5114,11 +5238,18 @@
           "target": "graph/index.html",
           "line": 56,
           "resolved": true
+        },
+        {
+          "destination": "../anatomy/01-the-problem-of-timekeeping.md",
+          "target": "anatomy/01-the-problem-of-timekeeping.md",
+          "graph_target": "anatomy/01-the-problem-of-timekeeping",
+          "line": 61,
+          "resolved": true
         }
       ],
       "asset_references": [],
-      "content_hash": "5068e6397620d9d02f2ba9277edfc412601526436e8b41491a35a54f0fc5ab40",
-      "output_hash": "fd56c90607c721e98c9f96215a41859ce4c335c00dd22aafa10a406c9f372de3",
+      "content_hash": "164bda76cc60fac94af9e0ff7dd755f6472a13e75f41a8fce5fd5cce03a96a1f",
+      "output_hash": "0bb954ee2d0a1ac60db83f6d3f63e15ff8678c71a00dba62d8abb2ff00884bec",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -5340,7 +5471,7 @@
     },
     {
       "path": "backlinks.json",
-      "hash": "f4dcb2d62d28a8e9b8bc43f88f34e45c66cb65ba5df57a250dd347e349ab6ce4"
+      "hash": "dc61edf2167f0c170b93b4ebce63b0c444d9bdcbdad9d093554a2967a69c6f76"
     },
     {
       "path": "categories/anatomy/index.html",
@@ -5388,7 +5519,7 @@
     },
     {
       "path": "graph/data.json",
-      "hash": "af3073170f74643b3c649aec5af252692d50f6e24366ab990bef3273daa23f42"
+      "hash": "c22508b4179ea82414c818e411911bb24bbab8d119a7fc9eab7f6efa79573628"
     },
     {
       "path": "graph/index.html",
@@ -5396,11 +5527,11 @@
     },
     {
       "path": "graph.json",
-      "hash": "330abb7fbdeebfcd3d83f8e21cccc336e72a5973243b7b0d08470ef8dc39317d"
+      "hash": "d082ac6a4bdd9e763eceba066aa70e804da14c94d79c111f8a9a30075858bf48"
     },
     {
       "path": "meta.json",
-      "hash": "efaa060163d54bfbad002c3ca06389f7148b48943717e9e67345c8817e075a8e"
+      "hash": "447f7d6d264fe8d7189f86f25af9231826d05801c787d175ece1f3e9bdc213a6"
     },
     {
       "path": "robots.txt",
