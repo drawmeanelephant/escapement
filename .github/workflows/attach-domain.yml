@@ -29,16 +29,13 @@ jobs:
           API="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages"
           AUTH="Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"
 
-          echo "=== Pages projects in account ==="
-          curl -sS "${API}/projects?per_page=20" -H "$AUTH" \
-            | jq -r '.result[]? | "\(.name) -> \(.subdomain)"'
+          echo "=== List projects (no params, raw) ==="
+          curl -sS "${API}/projects" -H "$AUTH"
+          echo
 
-          echo "=== Domain map (which project claims ${DOMAIN}) ==="
-          for p in $(curl -sS "${API}/projects?per_page=20" -H "$AUTH" | jq -r '.result[]?.name'); do
-            echo "-- project: ${p}"
-            curl -sS "${API}/projects/${p}/domains" -H "$AUTH" \
-              | jq -r '.result[]? | "   domain: \(.name)  status: \(.status)"'
-          done
+          echo "=== Single project escapement-asw (raw) ==="
+          curl -sS "${API}/projects/escapement-asw" -H "$AUTH" | head -c 1200
+          echo
 
           echo "=== Attach ${DOMAIN} to escapement-asw ==="
           curl -sS -X POST "${API}/projects/escapement-asw/domains" \
