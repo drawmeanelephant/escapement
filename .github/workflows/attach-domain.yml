@@ -25,21 +25,25 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           DOMAIN: ${{ inputs.domain }}
         run: |
+          set +e
           API="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages"
           AUTH="Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"
 
-          echo "=== Pages projects in account ==="
-          curl -sS "${API}/projects?per_page=50" -H "$AUTH" \
-            | jq -r '.result[] | "\(.name) -> \(.subdomain)"'
+          echo "=== Pages projects in account (raw) ==="
+          curl -sS "${API}/projects?per_page=50" -H "$AUTH"
+          echo
 
-          echo "=== Domains configured on escapement-asw ==="
-          curl -sS "${API}/projects/escapement-asw/domains" -H "$AUTH" | jq .
+          echo "=== Domains configured on escapement-asw (raw) ==="
+          curl -sS "${API}/projects/escapement-asw/domains" -H "$AUTH"
+          echo
 
           echo "=== Attach ${DOMAIN} to escapement-asw ==="
           curl -sS -X POST "${API}/projects/escapement-asw/domains" \
             -H "$AUTH" -H "Content-Type: application/json" \
-            --data "{\"name\": \"${DOMAIN}\"}" | jq .
+            --data "{\"name\": \"${DOMAIN}\"}"
+          echo
 
           echo "=== Verify ${DOMAIN} ==="
           curl -sS -X POST "${API}/projects/escapement-asw/domains/${DOMAIN}/verify" \
-            -H "$AUTH" -H "Content-Type: application/json" --data '{}' | jq .
+            -H "$AUTH" -H "Content-Type: application/json" --data '{}'
+          echo
