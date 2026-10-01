@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       domain:
-        description: "Custom domain to attach to the escapement-asw Pages project"
+        description: "Custom domain to attach to the escapement Pages project"
         required: true
         default: "escapement.filed.fyi"
 
@@ -29,16 +29,12 @@ jobs:
           API="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages"
           AUTH="Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"
 
-          echo "=== List projects (no params, raw) ==="
-          curl -sS "${API}/projects" -H "$AUTH"
-          echo
+          echo "=== Pages projects in account ==="
+          curl -sS "${API}/projects" -H "$AUTH" \
+            | jq -r '.result[]? | "\(.name) -> \(.subdomain)  domains: \(.domains | join(", "))"'
 
-          echo "=== Single project escapement-asw (raw) ==="
-          curl -sS "${API}/projects/escapement-asw" -H "$AUTH" | head -c 1200
-          echo
-
-          echo "=== Attach ${DOMAIN} to escapement-asw ==="
-          curl -sS -X POST "${API}/projects/escapement-asw/domains" \
+          echo "=== Attach ${DOMAIN} to escapement ==="
+          curl -sS -X POST "${API}/projects/escapement/domains" \
             -H "$AUTH" -H "Content-Type: application/json" \
             --data "{\"name\": \"${DOMAIN}\"}"
           echo
