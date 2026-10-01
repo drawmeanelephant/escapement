@@ -1,0 +1,34 @@
+# Escapement — site configuration
+# Self-contained: no external fonts, CDNs, or runtime services.
+site_name: "Escapement"
+
+template: "templates/layout-editorial.html"
+
+content_dir: "content"
+output_dir: "public"
+asset_dir: "assets"
+# RAG bundles are exported into public/ so they ship with the site
+# (publish order: build, then rag).
+rag_dir: "public/rag-archive"
+
+theme: "retro"
+
+default_description: "How a mechanical watch actually works — an exhaustive, illustrated guide to gear trains, escapements, balance springs, complications, and the people who built them."
+
+site_links:
+  - label: "Start Here"
+    url: "/start-here/read-me-first/"
+  - label: "Anatomy"
+    url: "/anatomy/01-the-problem-of-timekeeping/"
+  - label: "Timeline"
+    url: "/history/"
+  - label: "Knowledge Graph"
+    url: "/graph/"
+  - label: "RSS Feed"
+    url: "/feed.xml"
+
+port: 8080
+
+# Set siteurl when deploying (e.g. https://user.github.io/escapement) so
+# canonical links, og:url, sitemap.xml, and robots.txt resolve correctly.
+# siteurl: "https://example.com"

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" font-family="Georgia, 'Times New Roman', serif">
+  <title>One tick in four events: lock, unlock, impulse, drop</title>
+
+  <text x="480" y="30" text-anchor="middle" font-size="24" fill="#1f2933" font-style="italic">One tick, four events</text>
+
+  <!-- panel frames -->
+  <g stroke="#b08968" stroke-width="1" stroke-dasharray="4 6" fill="none">
+    <rect x="20" y="50" width="215" height="200"/>
+    <rect x="255" y="50" width="215" height="200"/>
+    <rect x="490" y="50" width="215" height="200"/>
+    <rect x="725" y="50" width="215" height="200"/>
+  </g>
+
+  <!-- repeated motif: escape tooth (top), pallet stone (middle diamond), fork line -->
+  <!-- 1 LOCK -->
+  <g transform="translate(127,150)">
+    <path d="M-60 -70 L-38 -34 L-14 -46 L-40 -78 Z" fill="#7a4f2b"/>
+    <rect x="-16" y="-6" width="34" height="12" rx="3" fill="#1f2933" transform="rotate(-18)"/>
+    <line x1="0" y1="0" x2="0" y2="52" stroke="#1f2933" stroke-width="4"/>
+    <circle cx="0" cy="60" r="7" fill="none" stroke="#1f2933" stroke-width="3"/>
+  </g>
+  <text x="127" y="238" text-anchor="middle" font-size="17" fill="#1f2933">1 · Lock</text>
+  <text x="127" y="258" text-anchor="middle" font-size="12" fill="#7a4f2b">tooth rests on the pallet; balance free</text>
+
+  <!-- 2 UNLOCK -->
+  <g transform="translate(362,150)">
+    <path d="M-60 -70 L-38 -34 L-14 -46 L-40 -78 Z" fill="#7a4f2b"/>
+    <rect x="-14" y="-8" width="34" height="12" rx="3" fill="#1f2933" transform="rotate(-28)"/>
+    <line x1="2" y1="0" x2="14" y2="52" stroke="#1f2933" stroke-width="4"/>
+    <circle cx="16" cy="60" r="7" fill="none" stroke="#1f2933" stroke-width="3"/>
+    <path d="M28 30 a34 34 0 0 1 -18 26" stroke="#7a4f2b" stroke-width="2.5" fill="none" marker-end="url(#a2)"/>
+  </g>
+  <text x="362" y="238" text-anchor="middle" font-size="17" fill="#1f2933">2 · Unlock</text>
+  <text x="362" y="258" text-anchor="middle" font-size="12" fill="#7a4f2b">impulse jewel nudges the fork aside</text>
+
+  <!-- 3 IMPULSE -->
+  <g transform="translate(597,150)">
+    <path d="M-56 -74 L-30 -42 L-6 -56 L-34 -84 Z" fill="#7a4f2b"/>
+    <rect x="-12" y="-12" width="34" height="12" rx="3" fill="#1f2933" transform="rotate(-38)"/>
+    <line x1="6" y1="0" x2="26" y2="50" stroke="#1f2933" stroke-width="4"/>
+    <circle cx="28" cy="58" r="7" fill="none" stroke="#1f2933" stroke-width="3"/>
+    <path d="M-30 -46 L4 0" stroke="#7a4f2b" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M40 24 a30 30 0 0 1 -8 30" stroke="#7a4f2b" stroke-width="2.5" fill="none" marker-end="url(#a2)"/>
+  </g>
+  <text x="597" y="238" text-anchor="middle" font-size="17" fill="#1f2933">3 · Impulse</text>
+  <text x="597" y="258" text-anchor="middle" font-size="12" fill="#7a4f2b">the gift of energy: train → balance</text>
+
+  <!-- 4 DROP -->
+  <g transform="translate(832,150)">
+    <path d="M-26 -84 L-2 -52 L22 -64 L-2 -94 Z" fill="#7a4f2b"/>
+    <rect x="-16" y="-4" width="34" height="12" rx="3" fill="#1f2933" transform="rotate(-8)"/>
+    <line x1="-4" y1="0" x2="-12" y2="52" stroke="#1f2933" stroke-width="4"/>
+    <circle cx="-13" cy="60" r="7" fill="none" stroke="#1f2933" stroke-width="3"/>
+    <path d="M-4 -78 a26 26 0 0 1 20 22" stroke="#7a4f2b" stroke-width="2.5" fill="none" marker-end="url(#a2)"/>
+    <path d="M28 -30 l0 22" stroke="#7a4f2b" stroke-width="2.5" marker-end="url(#a2)"/>
+  </g>
+  <text x="832" y="238" text-anchor="middle" font-size="17" fill="#1f2933">4 · Drop</text>
+  <text x="832" y="258" text-anchor="middle" font-size="12" fill="#7a4f2b">tooth falls to the next pallet — the "tock"</text>
+
+  <defs>
+    <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#7a4f2b"/>
+    </marker>
+  </defs>
+</svg>

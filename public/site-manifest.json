@@ -1,0 +1,5659 @@
+{
+  "version": 2,
+  "pages": [
+    {
+      "identity": "about",
+      "source_path": "about.md",
+      "rendered": true,
+      "url": "/about/",
+      "title": "About \u0026 Colophon",
+      "date": "2026-09-30",
+      "tags": [
+        "colophon",
+        "guide"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "outbound_links": [
+        "complications/tourbillon",
+        "history/1675-the-balance-spring-race",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "inbound_link_count": 1,
+      "links": [
+        {
+          "destination": "history/1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "/graph/",
+          "target": "graph/index.html",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "start-here/read-me-first.md",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "start-here/the-five-minute-watch.md",
+          "target": "start-here/the-five-minute-watch.md",
+          "graph_target": "start-here/the-five-minute-watch",
+          "line": 47,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "0e2339d22cd74bfc10f9a961354c57f4a7ddde624fb76935ee33695693bccef1",
+      "output_hash": "e852feb3506cce9b01fe42df7365ba294ca167b28db40faa7deabcae41047225",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Who writes Escapement, how it is built, and why every claim on this site is meant to be checkable.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/01-the-problem-of-timekeeping",
+      "source_path": "anatomy/01-the-problem-of-timekeeping.md",
+      "rendered": true,
+      "url": "/anatomy/01-the-problem-of-timekeeping/",
+      "title": "Anatomy 1: The Problem of Timekeeping",
+      "date": "2026-09-23",
+      "tags": [
+        "balance",
+        "escapement",
+        "guide",
+        "physics",
+        "series-anatomy"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "history/1656-huygens-and-the-pendulum",
+        "maintenance/magnetism",
+        "physics/amplitude",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 3,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 52,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 63,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 64,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 65,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 66,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 68,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 69,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "6bb2aa95296634b0f55c2f769a185d7c9c5d0525b7e069f2c3a1fe3af872060f",
+      "output_hash": "a34962db0302bfdedcff439c667f6deb8330d2503c9fd6b52d3eff9c3a4c5cc1",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Why keeping time with a machine is hard at all: you need a repeating oscillator, a way to count it, and a way to pay for the counting.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/02-the-gear-train",
+      "source_path": "anatomy/02-the-gear-train.md",
+      "rendered": true,
+      "url": "/anatomy/02-the-gear-train/",
+      "title": "Anatomy 2: The Gear Train",
+      "date": "2026-09-24",
+      "tags": [
+        "escapement",
+        "gear-train",
+        "mainspring",
+        "series-anatomy"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/07-the-motion-works-and-dial",
+        "physics/friction-and-lubrication",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 12,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 26,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 59,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 61,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 68,
+          "resolved": true
+        }
+      ],
+      "asset_references": [
+        "img/gear-train.svg"
+      ],
+      "content_hash": "ff4e706a809e22b377a80977bdc5725c465906d0c8cf30af3481ded40d365ed3",
+      "output_hash": "69154bbd1fb131f155025be363e7dcb0784cac6d04e6d0363ca7b2f244dad5f8",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Barrel to escape wheel: how a train of wheels turns one rotation an hour into one a minute, and why every ratio is a compromise with friction.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/03-the-mainspring-and-barrel",
+      "source_path": "anatomy/03-the-mainspring-and-barrel.md",
+      "rendered": true,
+      "url": "/anatomy/03-the-mainspring-and-barrel/",
+      "title": "Anatomy 3: The Mainspring and Barrel",
+      "date": "2026-09-25",
+      "tags": [
+        "gear-train",
+        "mainspring",
+        "physics",
+        "power-reserve",
+        "series-anatomy"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "anatomy/04-the-escapement",
+        "complications/power-reserve",
+        "escapements/detent",
+        "physics/amplitude",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 25,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 14,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/power-reserve.md",
+          "target": "complications/power-reserve.md",
+          "graph_target": "complications/power-reserve",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/power-reserve.md",
+          "target": "complications/power-reserve.md",
+          "graph_target": "complications/power-reserve",
+          "line": 58,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 62,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "bd08269e236ad9501727e8c824f5689151ae71710022146ca44c961a9fbe1c08",
+      "output_hash": "044947f01926d89ec9802792d38c90bb96a87bf21e098843b09b6f4aeee84963",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The engine: a coiled steel ribbon whose torque falls as it unwinds — and the tricks (barrel, fusee, remontoir) that keep a watch honest about it.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/04-the-escapement",
+      "source_path": "anatomy/04-the-escapement.md",
+      "rendered": true,
+      "url": "/anatomy/04-the-escapement/",
+      "title": "Anatomy 4: The Escapement",
+      "date": "2026-09-26",
+      "tags": [
+        "balance",
+        "escapement",
+        "physics",
+        "series-anatomy"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "physics/frequency",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 10,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 60,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 61,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 62,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 67,
+          "resolved": true
+        }
+      ],
+      "asset_references": [
+        "img/escapement-cycle.svg"
+      ],
+      "content_hash": "aa43ff748c0e820b3ffd0885737c448f9b1de5ca7c7ed26108eae94a62d95d61",
+      "output_hash": "91010497b68a0a7da0db5b36c9d684ff02f77f924823ed52124e57223779258d",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The referee between the train and the balance: lock, impulse, drop — the two milliseconds that make the tick, and the geometry that makes it work.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/05-the-balance-assembly",
+      "source_path": "anatomy/05-the-balance-assembly.md",
+      "rendered": true,
+      "url": "/anatomy/05-the-balance-assembly/",
+      "title": "Anatomy 5: The Balance Assembly",
+      "date": "2026-09-27",
+      "tags": [
+        "balance",
+        "balance-spring",
+        "physics",
+        "series-anatomy",
+        "shock-protection"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/04-the-escapement",
+        "anatomy/06-the-keyless-works",
+        "escapements/swiss-lever",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 16,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md#shock-settings",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 53,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 59,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 68,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 71,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 73,
+          "resolved": true
+        }
+      ],
+      "asset_references": [
+        "img/balance-spring.svg"
+      ],
+      "content_hash": "d6d2d92d6590a9ad40b0085b2c8fc3bf751863edadaded2f3530fe192c5b3a32",
+      "output_hash": "7abda09d08497a3e1598ca2d4969aab3c57381bb5485f47288a86edb9a255395",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The oscillator that actually keeps time: balance wheel, hairspring, jewels, and the adjustment screws that let a watchmaker negotiate with physics.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/06-the-keyless-works",
+      "source_path": "anatomy/06-the-keyless-works.md",
+      "rendered": true,
+      "url": "/anatomy/06-the-keyless-works/",
+      "title": "Anatomy 6: The Keyless Works",
+      "date": "2026-09-28",
+      "tags": [
+        "gear-train",
+        "keyless-works",
+        "mainspring",
+        "series-anatomy"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/perpetual-calendar",
+        "maintenance/water-resistance",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 8,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 39,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/water-resistance.md",
+          "target": "maintenance/water-resistance.md",
+          "graph_target": "maintenance/water-resistance",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 55,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 60,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "38d34cb2a1751559a1df7d9a094fb1f8910c7d704dc0d4f2e6170bf09d200aa6",
+      "output_hash": "84ba4bfcf2fc211252c20c8f51dac77e01841b89642a34a17189a8e67ad5342e",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "One crown, two jobs: how a sliding pinion and a setting lever let you both wind the mainspring and set the hands without a key.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/07-the-motion-works-and-dial",
+      "source_path": "anatomy/07-the-motion-works-and-dial.md",
+      "rendered": true,
+      "url": "/anatomy/07-the-motion-works-and-dial/",
+      "title": "Anatomy 7: The Motion Works and Dial",
+      "date": "2026-09-29",
+      "tags": [
+        "dial-train",
+        "gear-train",
+        "keyless-works",
+        "series-anatomy"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "anatomy/04-the-escapement",
+        "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 8,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 12,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md#the-cannon-pinion-the-trains-one-intentional-slip",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 31,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 39,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/08-putting-it-together.md",
+          "target": "anatomy/08-putting-it-together.md",
+          "graph_target": "anatomy/08-putting-it-together",
+          "line": 59,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "17d625acb25d3d5ef1f20b15a7f124a8b0787b2605dcb401cf1ac7c53d6ac88a",
+      "output_hash": "548b43d12d7bc2b3eccce55ff196c49c5fd92d9829b94bac03d4ceeb063defd4",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "How the hands are geared to disagree by exactly 12:1, why the cannon pinion slips, and what dial feet have to do with all of it.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "anatomy/08-putting-it-together",
+      "source_path": "anatomy/08-putting-it-together.md",
+      "rendered": true,
+      "url": "/anatomy/08-putting-it-together/",
+      "title": "Anatomy 8: Putting It Together",
+      "date": "2026-09-30",
+      "tags": [
+        "balance",
+        "escapement",
+        "gear-train",
+        "lubrication",
+        "series-anatomy",
+        "service"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "escapements/co-axial",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "history/index",
+        "maintenance/water-resistance",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 4,
+      "links": [
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 32,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 54,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 56,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/water-resistance.md",
+          "target": "maintenance/water-resistance.md",
+          "graph_target": "maintenance/water-resistance",
+          "line": 59,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 65,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 66,
+          "resolved": true
+        },
+        {
+          "destination": "../history/index.md",
+          "target": "history/index.md",
+          "graph_target": "history/index",
+          "line": 67,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 67,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "55a5a61df275fcf1be7dcdd8fb6ab59ee999d9da0847f8f4e053cbe374c23081",
+      "output_hash": "5af9898ac9fedb81f007b0caf478ca5156dee9430709e26032baae762314b5d6",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A full watch teardown in service order — what comes apart first, what gets cleaned, what gets oiled, and how the subsystems reunite.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/chronograph",
+      "source_path": "complications/chronograph.md",
+      "rendered": true,
+      "url": "/complications/chronograph/",
+      "title": "The Chronograph",
+      "date": "2026-09-28",
+      "tags": [
+        "chronograph",
+        "complications",
+        "frequency",
+        "guide"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "movements/valjoux-7750",
+        "movements/zenith-el-primero",
+        "physics/frequency"
+      ],
+      "inbound_link_count": 15,
+      "links": [
+        {
+          "destination": "../movements/valjoux-7750.md",
+          "target": "movements/valjoux-7750.md",
+          "graph_target": "movements/valjoux-7750",
+          "line": 31,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 63,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "21862b532ec55908d9353a6fca58f03ff6e22a3aace7895ecfe035f8ecd2a413",
+      "output_hash": "6a6ab032dbd561a5542eccf8b15f7d37e5a99db0b0e975cb34c9acbfc503aed5",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A stopwatch on a wrist: column wheel vs cam, lateral clutch vs vertical, the heart-piece reset — how a chronograph counts without a computer.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/gmt-and-world-time",
+      "source_path": "complications/gmt-and-world-time.md",
+      "rendered": true,
+      "url": "/complications/gmt-and-world-time/",
+      "title": "GMT and World Time",
+      "date": "2026-09-29",
+      "tags": [
+        "complications",
+        "guide",
+        "history"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/index",
+        "complications/perpetual-calendar"
+      ],
+      "inbound_link_count": 1,
+      "links": [
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 16,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 48,
+          "resolved": true
+        },
+        {
+          "destination": "perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 50,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "d0c68726494a5a5e01cc7dbb65d441bc077ff70a4c9c4ce3f5c24ea6d1f264e3",
+      "output_hash": "89d4c5e5a0859888dae0a84b275c17c97562f20b8447c1e50bde3b8e9770f957",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Second time zones without a second watch: the extra hour hand, the 24-hour bezel, and Louis Cottier's world-time mechanism.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/index",
+      "source_path": "complications/index.md",
+      "rendered": true,
+      "url": "/complications/",
+      "title": "What Counts as a Complication",
+      "date": "2026-09-27",
+      "tags": [
+        "chronograph",
+        "guide",
+        "moonphase",
+        "perpetual-calendar",
+        "repeater",
+        "tourbillon"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "complications/chronograph",
+        "complications/gmt-and-world-time",
+        "complications/minute-repeater",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/power-reserve",
+        "complications/tourbillon"
+      ],
+      "inbound_link_count": 9,
+      "links": [
+        {
+          "destination": "chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 23,
+          "resolved": true
+        },
+        {
+          "destination": "moonphase.md",
+          "target": "complications/moonphase.md",
+          "graph_target": "complications/moonphase",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "minute-repeater.md",
+          "target": "complications/minute-repeater.md",
+          "graph_target": "complications/minute-repeater",
+          "line": 30,
+          "resolved": true
+        },
+        {
+          "destination": "tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "gmt-and-world-time.md",
+          "target": "complications/gmt-and-world-time.md",
+          "graph_target": "complications/gmt-and-world-time",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "power-reserve.md",
+          "target": "complications/power-reserve.md",
+          "graph_target": "complications/power-reserve",
+          "line": 39,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "849134c7311a75ff1d17b20d7bedc8176748d410e84e8a99f3f090625c7b084a",
+      "output_hash": "8eba81ecfe23726496292fa82066f415be7db05030b479ef8bf76bc1567a481f",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Anything that isn't just hours, minutes, and seconds — a taxonomy of watch complications and the one insight that explains almost all of them.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/minute-repeater",
+      "source_path": "complications/minute-repeater.md",
+      "rendered": true,
+      "url": "/complications/minute-repeater/",
+      "title": "The Minute Repeater",
+      "date": "2026-09-29",
+      "tags": [
+        "complications",
+        "guide",
+        "history",
+        "repeater"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "complications/tourbillon"
+      ],
+      "inbound_link_count": 5,
+      "links": [
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 55,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "00f0c7fdac1048d9d22786a19de68417787882c1156801072df4b7dd847bb66e",
+      "output_hash": "ef50ed501abaae610838bf2a4bd6685a5b68194102373f15ee37f24738be141e",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A watch that speaks the time: racks, snails, gongs, and the acoustics of striking hours, quarters, and minutes on demand.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/moonphase",
+      "source_path": "complications/moonphase.md",
+      "rendered": true,
+      "url": "/complications/moonphase/",
+      "title": "The Moonphase",
+      "date": "2026-09-30",
+      "tags": [
+        "complications",
+        "guide",
+        "moonphase"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "complications/index",
+        "complications/perpetual-calendar"
+      ],
+      "inbound_link_count": 3,
+      "links": [
+        {
+          "destination": "perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 52,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "8abdf831954f8be079e0ff2c39cff8b916a074b9b6ec597c5d703e71ddf5226c",
+      "output_hash": "9ead1d426154bd9f9d5195986cb68b71ef64cadb3fc9e4bed4b4396232d4aeaf",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A 59-tooth disc pretending to be the moon: how moonphase displays work, their real error rate, and the high-precision versions that chase a century of accuracy.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/perpetual-calendar",
+      "source_path": "complications/perpetual-calendar.md",
+      "rendered": true,
+      "url": "/complications/perpetual-calendar/",
+      "title": "The Perpetual Calendar",
+      "date": "2026-09-28",
+      "tags": [
+        "complications",
+        "guide",
+        "history",
+        "perpetual-calendar"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "complications/chronograph",
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/tourbillon"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 51,
+          "resolved": true
+        },
+        {
+          "destination": "minute-repeater.md",
+          "target": "complications/minute-repeater.md",
+          "graph_target": "complications/minute-repeater",
+          "line": 52,
+          "resolved": true
+        },
+        {
+          "destination": "tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 52,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 54,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "357f81bd1693540c989f490e25018fbfe0690f1e40ecd29b001414886fd5210b",
+      "output_hash": "c71492adfda9b15ecbc9df8db7c4de2d3b4968f3b94b3f020a2187dc82f483e4",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A watch that knows leap years: 48-month cams, the QP memory, the setting forbidden zones — and why most of them will be wrong on March 1, 2100.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/power-reserve",
+      "source_path": "complications/power-reserve.md",
+      "rendered": true,
+      "url": "/complications/power-reserve/",
+      "title": "Power Reserve",
+      "date": "2026-09-30",
+      "tags": [
+        "complications",
+        "guide",
+        "mainspring",
+        "power-reserve"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "complications/index",
+        "physics/amplitude",
+        "physics/isochronism"
+      ],
+      "inbound_link_count": 4,
+      "links": [
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 48,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "a8311caee3b923665e75b39e484e175bcf4531815c3910dc122e75bd998d3c22",
+      "output_hash": "2128f933984c0506355b31ec4c84761a99b73075b230fce4f55bdecf9b45ff92",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A gauge for the mainspring: differentials, indicator scales, and why a power-reserve display is harder to build than it looks.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "complications/tourbillon",
+      "source_path": "complications/tourbillon.md",
+      "rendered": true,
+      "url": "/complications/tourbillon/",
+      "title": "The Tourbillon",
+      "date": "2026-09-29",
+      "tags": [
+        "complications",
+        "history",
+        "physics",
+        "timeline",
+        "tourbillon"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/swiss-lever",
+        "physics/amplitude",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 12,
+      "links": [
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 56,
+          "resolved": true
+        }
+      ],
+      "asset_references": [
+        "img/tourbillon-cage.svg"
+      ],
+      "content_hash": "74c4905513fc3d248832b5e4b2c1b4bac01ad53687e028a582e5334dd7df7bb1",
+      "output_hash": "7fc6fe24c6430eee2d9aa441c5e3b20a0ee35ef0d4f6a024ed0bd7f33c8359ab",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Breguet's 1801 patent: a rotating cage that averages gravity's mischief — what it really does, why wristwatches arguably don't need it, and why we love it anyway.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/co-axial",
+      "source_path": "escapements/co-axial.md",
+      "rendered": true,
+      "url": "/escapements/co-axial/",
+      "title": "The Co-axial Escapement",
+      "date": "2026-09-28",
+      "tags": [
+        "escapement",
+        "lubrication",
+        "physics",
+        "timeline"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift"
+      ],
+      "inbound_link_count": 16,
+      "links": [
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 52,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 59,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "b810f0bfe12c2fb52b29e04e749dc6af2febcb79c58e1d6d96d409e78b6af192",
+      "output_hash": "19d3447ff7ff22497d5c4ce134af5db41b80f96e1368e482876510d90df392db",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "George Daniels' answer to sliding friction: separate locking from impulse so the escapement pushes instead of rubs — history, mechanics, and the trade-offs.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/compared",
+      "source_path": "escapements/compared.md",
+      "rendered": true,
+      "url": "/escapements/compared/",
+      "title": "Escapements, Compared",
+      "date": "2026-09-29",
+      "tags": [
+        "accuracy",
+        "escapement",
+        "guide",
+        "history"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/verge-and-foliot",
+        "physics/friction-and-lubrication",
+        "physics/isochronism"
+      ],
+      "inbound_link_count": 6,
+      "links": [
+        {
+          "destination": "verge-and-foliot.md",
+          "target": "escapements/verge-and-foliot.md",
+          "graph_target": "escapements/verge-and-foliot",
+          "line": 16,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 27,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 45,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "f77a3929a4e85d8af8ad645cb68169e1c4c33b114ae12783b08781aea9b8cb11",
+      "output_hash": "b8e9ca6c434555fe05f7a8b7c5e426f161de28763853176bf1bfcb982f666e0f",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "An open scorecard: accuracy ceiling, robustness, self-starting, service tolerance, and cost across the escapement family.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/cylinder-and-duplex",
+      "source_path": "escapements/cylinder-and-duplex.md",
+      "rendered": true,
+      "url": "/escapements/cylinder-and-duplex/",
+      "title": "Cylinder and Duplex",
+      "date": "2026-09-26",
+      "tags": [
+        "escapement",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/verge-and-foliot",
+        "physics/friction-and-lubrication"
+      ],
+      "inbound_link_count": 3,
+      "links": [
+        {
+          "destination": "verge-and-foliot.md",
+          "target": "escapements/verge-and-foliot.md",
+          "graph_target": "escapements/verge-and-foliot",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md#shock-settings",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 51,
+          "resolved": true
+        },
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 52,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "5dce65ff4f6639b0598764ff177f2cee9c69974f4e709adc67e312719c15b36d",
+      "output_hash": "44b6b87c2e4af13900185c9f927a4b9c3e93df8d369b026577ad9e4c484b88a7",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The watch escapements between the verge and the lever: the deadbeat cylinder, the clever duplex, and why both were displaced by the detached lever.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/detent",
+      "source_path": "escapements/detent.md",
+      "rendered": true,
+      "url": "/escapements/detent/",
+      "title": "The Detent Escapement",
+      "date": "2026-09-29",
+      "tags": [
+        "escapement",
+        "history",
+        "physics",
+        "power-reserve"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/co-axial",
+        "escapements/compared"
+      ],
+      "inbound_link_count": 13,
+      "links": [
+        {
+          "destination": "co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 51,
+          "resolved": true
+        },
+        {
+          "destination": "compared.md",
+          "target": "escapements/compared.md",
+          "graph_target": "escapements/compared",
+          "line": 54,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "273d571c02ddb39ec9e8217bb785308578ea6ed9cab088a500182ddaf9a6a546",
+      "output_hash": "e2c8a505dea295c7b3692bf60bd87a71efdfc8c122b6eb8eea94bc10cc4c6227",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The chronometer escapement: impulse with virtually no friction, absolute detachment — and why it rules the sea but never the wrist.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/index",
+      "source_path": "escapements/index.md",
+      "rendered": true,
+      "url": "/escapements/",
+      "title": "The Escapement Zoo",
+      "date": "2026-09-25",
+      "tags": [
+        "escapement",
+        "guide",
+        "history",
+        "physics"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "escapements/verge-and-foliot"
+      ],
+      "inbound_link_count": 1,
+      "links": [
+        {
+          "destination": "verge-and-foliot.md",
+          "target": "escapements/verge-and-foliot.md",
+          "graph_target": "escapements/verge-and-foliot",
+          "line": 32,
+          "resolved": true
+        },
+        {
+          "destination": "cylinder-and-duplex.md",
+          "target": "escapements/cylinder-and-duplex.md",
+          "graph_target": "escapements/cylinder-and-duplex",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "verge-and-foliot.md",
+          "target": "escapements/verge-and-foliot.md",
+          "graph_target": "escapements/verge-and-foliot",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "compared.md",
+          "target": "escapements/compared.md",
+          "graph_target": "escapements/compared",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "compared.md",
+          "target": "escapements/compared.md",
+          "graph_target": "escapements/compared",
+          "line": 54,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "f954dfe9bbc0ce2b0c4678453f4c0ea5770140b76b10acada356d44b6bae98d4",
+      "output_hash": "ba732c0137d67663965cb6c8a0afc34fb851f1061173eacbff7aab292019c1e0",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A tour of the escapement family tree: deadbeat, recoil, verge, cylinder, duplex, lever, co-axial, detent — and what each one believes about friction.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/swiss-lever",
+      "source_path": "escapements/swiss-lever.md",
+      "rendered": true,
+      "url": "/escapements/swiss-lever/",
+      "title": "The Swiss Lever Escapement",
+      "date": "2026-09-27",
+      "tags": [
+        "balance",
+        "escapement",
+        "physics",
+        "shock-protection"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "physics/amplitude"
+      ],
+      "inbound_link_count": 25,
+      "links": [
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 13,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 58,
+          "resolved": true
+        },
+        {
+          "destination": "co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 60,
+          "resolved": true
+        },
+        {
+          "destination": "detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 61,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "725be4e83e61408a5cf2b0b45ac0a805a15cd0cadfd882d8ac2c670390e6a0de",
+      "output_hash": "64fd69964bd9fd15bf14e15f5a8c50be6c4767e97ac3b4f3ab5af42776abea99",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The escapement in almost every mechanical watch since 1800: detached, self-starting, shock-tolerant — and the geometry that makes it all work.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/swiss-lever/drop-lock-and-lift",
+      "source_path": "escapements/swiss-lever/drop-lock-and-lift.md",
+      "rendered": true,
+      "url": "/escapements/swiss-lever/drop-lock-and-lift/",
+      "title": "Drop, Lock, and Lift",
+      "date": "2026-09-28",
+      "tags": [
+        "escapement",
+        "lubrication",
+        "physics",
+        "service"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "escapements/swiss-lever",
+        "physics/amplitude",
+        "physics/friction-and-lubrication"
+      ],
+      "inbound_link_count": 15,
+      "links": [
+        {
+          "destination": "../swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../swiss-lever.md#why-it-conquered-everything",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "../../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 56,
+          "resolved": true
+        },
+        {
+          "destination": "../../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 70,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "ce13b6a72f5807bd37d7a520bb4af7fc6e12494bb68cf66d82a80d05f200e4fe",
+      "output_hash": "e48df53f1f9958312c6a4cb58a723525624a787af44c33fc2ad1a85068a2541b",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The geometry of the Swiss lever in three numbers watchmakers obsess over: drop (lost motion), lock (safety margin), and lift (the impulse gift).",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "escapements/verge-and-foliot",
+      "source_path": "escapements/verge-and-foliot.md",
+      "rendered": true,
+      "url": "/escapements/verge-and-foliot/",
+      "title": "Verge and Foliot",
+      "date": "2026-09-25",
+      "tags": [
+        "escapement",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "outbound_links": [
+        "escapements/cylinder-and-duplex",
+        "escapements/swiss-lever",
+        "history/1656-huygens-and-the-pendulum",
+        "physics/isochronism"
+      ],
+      "inbound_link_count": 6,
+      "links": [
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "cylinder-and-duplex.md",
+          "target": "escapements/cylinder-and-duplex.md",
+          "graph_target": "escapements/cylinder-and-duplex",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 47,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "e1578a3117e668dade3f1b34ea5e90bba53b4156334e7d22997e24be4e08643d",
+      "output_hash": "34bda82f1ed7e6bc53311a68c8581f317024acfd6694107628f88cafee1a4480",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The first mechanical escapement, 1300s–1600s: a crown wheel, a verge, and a foliot bar — crude, brilliant, and losing minutes a day.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "glossary/glossary",
+      "source_path": "glossary/glossary.md",
+      "rendered": true,
+      "url": "/glossary/glossary/",
+      "title": "Glossary",
+      "date": "2026-09-30",
+      "tags": [
+        "balance",
+        "escapement",
+        "glossary",
+        "guide",
+        "physics"
+      ],
+      "categories": [
+        "glossary"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/chronograph",
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/power-reserve",
+        "complications/tourbillon",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "movements/index",
+        "physics/amplitude",
+        "physics/frequency",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 2,
+      "links": [
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 14,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 17,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 23,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 26,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/index.md",
+          "target": "movements/index.md",
+          "graph_target": "movements/index",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 32,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md#column-wheel-vs-cam",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 47,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 55,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 58,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 61,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 64,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 67,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 70,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 73,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 76,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md#lift",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 79,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 82,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 85,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 88,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/minute-repeater.md",
+          "target": "complications/minute-repeater.md",
+          "graph_target": "complications/minute-repeater",
+          "line": 91,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/moonphase.md",
+          "target": "complications/moonphase.md",
+          "graph_target": "complications/moonphase",
+          "line": 94,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 97,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/power-reserve.md",
+          "target": "complications/power-reserve.md",
+          "graph_target": "complications/power-reserve",
+          "line": 100,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 103,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 106,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md#shock-settings",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 109,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 112,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 115,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 118,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "9ad02bde03055e019964ddcf302856b47bdf34dfba5e5aa3dd2077c43e1df8d1",
+      "output_hash": "1c1d9d288039223f13162dc9db60edaae3470df53162ccd31d51001ccf80bddd",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "An A-Z of horological terms used across Escapement: amplitude to vph, with links to the pages that explain each one properly.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1656-huygens-and-the-pendulum",
+      "source_path": "history/1656-huygens-and-the-pendulum.md",
+      "rendered": true,
+      "url": "/history/1656-huygens-and-the-pendulum/",
+      "title": "1656 — Huygens and the Pendulum",
+      "date": "2026-09-24",
+      "tags": [
+        "history",
+        "physics",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "escapements/verge-and-foliot",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "physics/isochronism"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/verge-and-foliot.md",
+          "target": "escapements/verge-and-foliot.md",
+          "graph_target": "escapements/verge-and-foliot",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 48,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "94b16800a6fe1fca0e7e3880c9ee63a2482e30268351d2135f8b2cebffcfbea8",
+      "output_hash": "9d6372ad762c0bab7c41257def1e9381e927d582713420fb5b1bf18c5f99beac",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Christiaan Huygens, Salomon Coster, and the invention that made accurate clocks possible: swinging a weight on a rod and letting physics do the rest.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1675-the-balance-spring-race",
+      "source_path": "history/1675-the-balance-spring-race.md",
+      "rendered": true,
+      "url": "/history/1675-the-balance-spring-race/",
+      "title": "1675 — The Balance-Spring Race",
+      "date": "2026-09-24",
+      "tags": [
+        "balance-spring",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "history/1656-huygens-and-the-pendulum",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "physics/isochronism",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 30,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md#geometry-the-fight-against-the-spring-itself",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md#geometry-the-fight-against-the-spring-itself",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 42,
+          "resolved": true
+        },
+        {
+          "destination": "1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 46,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "ca9a219588f8fa3c5128ccb58e4f8915b3c1fef2cd613aee2403f71667e043e3",
+      "output_hash": "20ca458089f009718628ddef407db771d01a37ed1fa1b9f7980625edf6412f06",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Hooke, Huygens, and Hautefeuille claim the invention that made watches accurate — the first great priority scandal in science.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1761-harrison-and-the-longitude-prize",
+      "source_path": "history/1761-harrison-and-the-longitude-prize.md",
+      "rendered": true,
+      "url": "/history/1761-harrison-and-the-longitude-prize/",
+      "title": "1761 — Harrison and the Longitude Prize",
+      "date": "2026-09-25",
+      "tags": [
+        "accuracy",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/detent",
+        "history/1675-the-balance-spring-race",
+        "history/1770-mudge-and-the-lever",
+        "physics/isochronism",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "../physics/isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 24,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 47,
+          "resolved": true
+        },
+        {
+          "destination": "1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 50,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "defd0b674222dcd367646d61783055698ddbe5ff31bfd8b5873120a0827df093",
+      "output_hash": "f52257d94a96b4ba41e48ce4d3a32a16e9781af2b6fb82276418cc20daf60e10",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "A Yorkshire carpenter's clocks take on the astronomers, the Board of Longitude, and the sea itself — and win the prize for timekeeping.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1770-mudge-and-the-lever",
+      "source_path": "history/1770-mudge-and-the-lever.md",
+      "rendered": true,
+      "url": "/history/1770-mudge-and-the-lever/",
+      "title": "1770 — Mudge and the Lever",
+      "date": "2026-09-25",
+      "tags": [
+        "escapement",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "escapements/co-axial",
+        "escapements/cylinder-and-duplex",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "escapements/verge-and-foliot",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 14,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/cylinder-and-duplex.md",
+          "target": "escapements/cylinder-and-duplex.md",
+          "graph_target": "escapements/cylinder-and-duplex",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/verge-and-foliot.md",
+          "target": "escapements/verge-and-foliot.md",
+          "graph_target": "escapements/verge-and-foliot",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 31,
+          "resolved": true
+        },
+        {
+          "destination": "1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 42,
+          "resolved": true
+        },
+        {
+          "destination": "1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 45,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "8f1abf96210370190d5435e1addc1995cb3d6cdff947358be4771e972c4317ca",
+      "output_hash": "aca41822b56dff072607bd916fe64c81eb6a9da6fe10baf55c833e921ccbad28",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Thomas Mudge builds the first lever escapement watch — and the world takes fifty years to notice.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1850s-the-american-system",
+      "source_path": "history/1850s-the-american-system.md",
+      "rendered": true,
+      "url": "/history/1850s-the-american-system/",
+      "title": "1850s — The American System",
+      "date": "2026-09-26",
+      "tags": [
+        "gear-train",
+        "history",
+        "industrialization",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "anatomy/02-the-gear-train",
+        "escapements/swiss-lever",
+        "history/1770-mudge-and-the-lever",
+        "history/1927-the-quartz-clock",
+        "history/1969-the-quartz-crisis",
+        "maintenance/servicing"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/servicing.md",
+          "target": "maintenance/servicing.md",
+          "graph_target": "maintenance/servicing",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 42,
+          "resolved": true
+        },
+        {
+          "destination": "1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 48,
+          "resolved": true
+        },
+        {
+          "destination": "1927-the-quartz-clock.md",
+          "target": "history/1927-the-quartz-clock.md",
+          "graph_target": "history/1927-the-quartz-clock",
+          "line": 49,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "30589861bc41bef93b3832cc67cd7ef4533909f416ec0cdcf710a4af1339cc13",
+      "output_hash": "7f7cb4b665331c76c72515fbbcadd0c2312bc355844e7ec985530152184bfbf5",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Waltham, Elgin, and interchangeable parts: the decade the watch stopped being a craft object and became an industrial one.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1927-the-quartz-clock",
+      "source_path": "history/1927-the-quartz-clock.md",
+      "rendered": true,
+      "url": "/history/1927-the-quartz-clock/",
+      "title": "1927 — The Quartz Clock",
+      "date": "2026-09-26",
+      "tags": [
+        "frequency",
+        "history",
+        "quartz",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "complications/tourbillon",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis",
+        "physics/frequency",
+        "physics/the-balance-spring",
+        "start-here/the-five-minute-watch"
+      ],
+      "inbound_link_count": 4,
+      "links": [
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 13,
+          "resolved": true
+        },
+        {
+          "destination": "1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 13,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md#quartz-and-the-joke",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 42,
+          "resolved": true
+        },
+        {
+          "destination": "../start-here/the-five-minute-watch.md",
+          "target": "start-here/the-five-minute-watch.md",
+          "graph_target": "start-here/the-five-minute-watch",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 46,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "882587fcb3088b02b91b43fb21ec659edfc4bb073ccf26f0f66344e89e222848",
+      "output_hash": "0da1b116ee41dee5664ccb041463e89dabb9158520758f6c7795c16409649284",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Warren Marrison at Bell Labs builds the first quartz clock — and the mechanical watch starts a forty-year countdown it doesn't know about yet.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1969-the-quartz-crisis",
+      "source_path": "history/1969-the-quartz-crisis.md",
+      "rendered": true,
+      "url": "/history/1969-the-quartz-crisis/",
+      "title": "1969 — The Quartz Crisis",
+      "date": "2026-09-27",
+      "tags": [
+        "history",
+        "industrialization",
+        "quartz",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "complications/index",
+        "escapements/co-axial",
+        "history/1927-the-quartz-clock",
+        "history/1983-the-swatch-rescue",
+        "movements/index",
+        "movements/zenith-el-primero"
+      ],
+      "inbound_link_count": 10,
+      "links": [
+        {
+          "destination": "../movements/zenith-el-primero.md#the-1969-race",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/index.md",
+          "target": "movements/index.md",
+          "graph_target": "movements/index",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 42,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "1983-the-swatch-rescue.md",
+          "target": "history/1983-the-swatch-rescue.md",
+          "graph_target": "history/1983-the-swatch-rescue",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "1927-the-quartz-clock.md",
+          "target": "history/1927-the-quartz-clock.md",
+          "graph_target": "history/1927-the-quartz-clock",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "1983-the-swatch-rescue.md",
+          "target": "history/1983-the-swatch-rescue.md",
+          "graph_target": "history/1983-the-swatch-rescue",
+          "line": 51,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "926059a91f934b9b4c49057c5dc31c73097321d2a448cfd787b479a06f6b8321",
+      "output_hash": "f865b6f1692fa9264a2acafb0dfcbea4cbf6e67904f164cfa2640a65676ab754",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The Astron, the Beta race, and the collapse of Swiss watchmaking: the decade the mechanical watch stopped being an instrument.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/1983-the-swatch-rescue",
+      "source_path": "history/1983-the-swatch-rescue.md",
+      "rendered": true,
+      "url": "/history/1983-the-swatch-rescue/",
+      "title": "1983 — The Swatch Rescue",
+      "date": "2026-09-28",
+      "tags": [
+        "history",
+        "industrialization",
+        "quartz",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "complications/tourbillon",
+        "escapements/co-axial",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "history/1927-the-quartz-clock",
+        "history/1969-the-quartz-crisis",
+        "history/index",
+        "movements/index",
+        "movements/zenith-el-primero",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 3,
+      "links": [
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 23,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/index.md",
+          "target": "movements/index.md",
+          "graph_target": "movements/index",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "1927-the-quartz-clock.md",
+          "target": "history/1927-the-quartz-clock.md",
+          "graph_target": "history/1927-the-quartz-clock",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "history/index.md",
+          "graph_target": "history/index",
+          "line": 51,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "6d8cd1f8af5a466319d6177bc90bc1a30ee76c50965a2a623bfb44525ef5af2d",
+      "output_hash": "3170d7cbd22bc7090d9d7ce50343791fb0ceaa1b006d7584ea61775e0a9cb521",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Nicolas Hayek, 51 parts, and the bet that saved Swiss horology: sell quartz cheap, sell mechanical expensive, and sell both as identity.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "history/index",
+      "source_path": "history/index.md",
+      "rendered": true,
+      "url": "/history/",
+      "title": "A Timeline of Timekeeping",
+      "date": "2026-09-24",
+      "tags": [
+        "guide",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "history"
+      ],
+      "outbound_links": [
+        "complications/tourbillon",
+        "escapements/index",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "history/1927-the-quartz-clock",
+        "history/1969-the-quartz-crisis",
+        "history/1983-the-swatch-rescue",
+        "physics/frequency",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 4,
+      "links": [
+        {
+          "destination": "1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 16,
+          "resolved": true
+        },
+        {
+          "destination": "1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "1770-mudge-and-the-lever.md",
+          "target": "history/1770-mudge-and-the-lever.md",
+          "graph_target": "history/1770-mudge-and-the-lever",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 24,
+          "resolved": true
+        },
+        {
+          "destination": "1927-the-quartz-clock.md",
+          "target": "history/1927-the-quartz-clock.md",
+          "graph_target": "history/1927-the-quartz-clock",
+          "line": 27,
+          "resolved": true
+        },
+        {
+          "destination": "1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "1983-the-swatch-rescue.md",
+          "target": "history/1983-the-swatch-rescue.md",
+          "graph_target": "history/1983-the-swatch-rescue",
+          "line": 31,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md#quartz-and-the-joke",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 39,
+          "resolved": true
+        },
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/index.md",
+          "target": "escapements/index.md",
+          "graph_target": "escapements/index",
+          "line": 44,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "273923410a22499bf38f30987f8dc5639b03e0d41198448aef94e1a68101870f",
+      "output_hash": "dbe3ca59c73161d308d942cc9327097759e9a9af80774edb556501c67ed0dbdb",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "From Huygens' pendulum to the Swatch rescue: the chronological archive of how the mechanical watch was invented, perfected, nearly killed, and reborn.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "index",
+      "source_path": "index.md",
+      "rendered": true,
+      "url": "/",
+      "title": "Escapement — How a Mechanical Watch Actually Works",
+      "date": "2026-09-30",
+      "tags": [
+        "escapement",
+        "guide",
+        "series-anatomy",
+        "timeline"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "outbound_links": [
+        "about",
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/08-putting-it-together",
+        "complications/chronograph",
+        "complications/perpetual-calendar",
+        "escapements/swiss-lever",
+        "glossary/glossary",
+        "history/1969-the-quartz-crisis",
+        "history/index",
+        "maintenance/servicing",
+        "physics/amplitude",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 0,
+      "links": [
+        {
+          "destination": "anatomy/01-the-problem-of-timekeeping.md",
+          "target": "anatomy/01-the-problem-of-timekeeping.md",
+          "graph_target": "anatomy/01-the-problem-of-timekeeping",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "anatomy/08-putting-it-together.md",
+          "target": "anatomy/08-putting-it-together.md",
+          "graph_target": "anatomy/08-putting-it-together",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 26,
+          "resolved": true
+        },
+        {
+          "destination": "history/index.md",
+          "target": "history/index.md",
+          "graph_target": "history/index",
+          "line": 27,
+          "resolved": true
+        },
+        {
+          "destination": "maintenance/servicing.md",
+          "target": "maintenance/servicing.md",
+          "graph_target": "maintenance/servicing",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "glossary/glossary.md",
+          "target": "glossary/glossary.md",
+          "graph_target": "glossary/glossary",
+          "line": 30,
+          "resolved": true
+        },
+        {
+          "destination": "anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "complications/perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "history/1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 42,
+          "resolved": true
+        },
+        {
+          "destination": "/graph/",
+          "target": "graph/index.html",
+          "line": 47,
+          "resolved": true
+        },
+        {
+          "destination": "about.md",
+          "target": "about.md",
+          "graph_target": "about",
+          "line": 49,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "01d8a01993daa6b383bddbc003d2e3bed009a7ed1a8a563c9eb5adbf45dd8bd6",
+      "output_hash": "6112f3b270d391eceb9dfa4c31b8b59796610342e6dd7a09849ca61d73339dc4",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "An exhaustive, illustrated guide to the machine that lives on your wrist: gear trains, escapements, balance springs, complications, and the history that produced them.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "maintenance/magnetism",
+      "source_path": "maintenance/magnetism.md",
+      "rendered": true,
+      "url": "/maintenance/magnetism/",
+      "title": "Magnetism",
+      "date": "2026-09-29",
+      "tags": [
+        "balance-spring",
+        "guide",
+        "magnetism",
+        "service"
+      ],
+      "categories": [
+        "maintenance"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "maintenance/servicing",
+        "movements/index",
+        "physics/friction-and-lubrication",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 7,
+      "links": [
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 16,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md#materials-steel-nivarox-silicon",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/index.md",
+          "target": "movements/index.md",
+          "graph_target": "movements/index",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "servicing.md",
+          "target": "maintenance/servicing.md",
+          "graph_target": "maintenance/servicing",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 51,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "b028dd033602a982331cb279a58b73e1ed938779dd60323a58ccd5997ff0a3fc",
+      "output_hash": "cb715cca01d37ece211b3625c55ccb315b2fe107c13a63d9eac90b7d373fecab",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The most common modern watch problem and the cheapest to fix: what magnetic fields do to hairsprings, how to test, and how to demagnetize.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "maintenance/servicing",
+      "source_path": "maintenance/servicing.md",
+      "rendered": true,
+      "url": "/maintenance/servicing/",
+      "title": "Servicing",
+      "date": "2026-09-29",
+      "tags": [
+        "accuracy",
+        "guide",
+        "lubrication",
+        "service"
+      ],
+      "categories": [
+        "maintenance"
+      ],
+      "outbound_links": [
+        "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
+        "complications/chronograph",
+        "complications/minute-repeater",
+        "maintenance/water-resistance",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 5,
+      "links": [
+        {
+          "destination": "../anatomy/08-putting-it-together.md",
+          "target": "anatomy/08-putting-it-together.md",
+          "graph_target": "anatomy/08-putting-it-together",
+          "line": 17,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md#the-oil-schedule",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "water-resistance.md",
+          "target": "maintenance/water-resistance.md",
+          "graph_target": "maintenance/water-resistance",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 23,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/minute-repeater.md",
+          "target": "complications/minute-repeater.md",
+          "graph_target": "complications/minute-repeater",
+          "line": 54,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 56,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 57,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "918c0a031f37e73683501f315d8755db44f3196b6d7346621b9269adbd2dd6da",
+      "output_hash": "d17ec17b171b66b571df0034f9194412af3603a5a848ed979c62cdf71afa2614",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "What a service actually includes, when to schedule one, what it should cost in principle — and the failure signs that can't wait.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "maintenance/water-resistance",
+      "source_path": "maintenance/water-resistance.md",
+      "rendered": true,
+      "url": "/maintenance/water-resistance/",
+      "title": "Water Resistance",
+      "date": "2026-09-30",
+      "tags": [
+        "guide",
+        "keyless-works",
+        "service",
+        "water-resistance"
+      ],
+      "categories": [
+        "maintenance"
+      ],
+      "outbound_links": [
+        "anatomy/06-the-keyless-works",
+        "maintenance/servicing",
+        "start-here/read-me-first"
+      ],
+      "inbound_link_count": 4,
+      "links": [
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../start-here/read-me-first.md#path-1--the-machinist-8-parts-90-minutes",
+          "target": "start-here/read-me-first.md",
+          "graph_target": "start-here/read-me-first",
+          "line": 47,
+          "resolved": true
+        },
+        {
+          "destination": "servicing.md",
+          "target": "maintenance/servicing.md",
+          "graph_target": "maintenance/servicing",
+          "line": 48,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "d9b93507124f162c5303040c839a991d8d29f54a554ea005fb6d58ae62a00113",
+      "output_hash": "4711cb499a05d67321e9e8a071681140451ceb387409ce34362e468a82b73c2b",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "What 30m, 100m, and 200m actually mean, why depth ratings lie about swimming, and how gaskets age you out of the pool.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "movements/index",
+      "source_path": "movements/index.md",
+      "rendered": true,
+      "url": "/movements/",
+      "title": "How to Read a Calibre",
+      "date": "2026-09-28",
+      "tags": [
+        "calibre",
+        "escapement",
+        "gear-train",
+        "guide"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "outbound_links": [
+        "escapements/co-axial",
+        "escapements/swiss-lever",
+        "movements/omega-321",
+        "movements/patek-calibre-89",
+        "movements/rolex-3135",
+        "movements/valjoux-7750",
+        "movements/zenith-el-primero",
+        "physics/frequency",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 5,
+      "links": [
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "rolex-3135.md",
+          "target": "movements/rolex-3135.md",
+          "graph_target": "movements/rolex-3135",
+          "line": 23,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 31,
+          "resolved": true
+        },
+        {
+          "destination": "valjoux-7750.md",
+          "target": "movements/valjoux-7750.md",
+          "graph_target": "movements/valjoux-7750",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "omega-321.md",
+          "target": "movements/omega-321.md",
+          "graph_target": "movements/omega-321",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 39,
+          "resolved": true
+        },
+        {
+          "destination": "valjoux-7750.md",
+          "target": "movements/valjoux-7750.md",
+          "graph_target": "movements/valjoux-7750",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "rolex-3135.md",
+          "target": "movements/rolex-3135.md",
+          "graph_target": "movements/rolex-3135",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "patek-calibre-89.md",
+          "target": "movements/patek-calibre-89.md",
+          "graph_target": "movements/patek-calibre-89",
+          "line": 42,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "90c3b23960562c1d85684721fc91f1c8cd7bebb1a8b62bd33fb9010ae9b9e1f6",
+      "output_hash": "f05e6f14a83e40c9854433d11aef4bfeb0c55d816a48d6a7366ef5ac87367cc4",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "What a calibre number means, what separates a workhorse from a landmark, and how to evaluate any movement with five questions.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "movements/omega-321",
+      "source_path": "movements/omega-321.md",
+      "rendered": true,
+      "url": "/movements/omega-321/",
+      "title": "Omega Calibre 321",
+      "date": "2026-09-28",
+      "tags": [
+        "calibre",
+        "chronograph",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "outbound_links": [
+        "complications/chronograph",
+        "history/1969-the-quartz-crisis"
+      ],
+      "inbound_link_count": 2,
+      "links": [
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md#column-wheel-vs-cam",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 48,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 50,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "b9db6cf96cb6fbd37d8978f315be95d9d408b88a18594f334831dcf7e9761db6",
+      "output_hash": "ce953284d875e0f12a328fb0a7bdb4a6cb382f32afe9fc686bcad7286b4d40a3",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The column-wheel chronograph that timed the moon landings: Lemania roots, the Moonwatch story, and its 2019 revival.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "movements/patek-calibre-89",
+      "source_path": "movements/patek-calibre-89.md",
+      "rendered": true,
+      "url": "/movements/patek-calibre-89/",
+      "title": "Patek Philippe Calibre 89",
+      "date": "2026-09-30",
+      "tags": [
+        "calibre",
+        "complications",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "outbound_links": [
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/tourbillon",
+        "history/1969-the-quartz-crisis",
+        "movements/index"
+      ],
+      "inbound_link_count": 1,
+      "links": [
+        {
+          "destination": "../complications/perpetual-calendar.md",
+          "target": "complications/perpetual-calendar.md",
+          "graph_target": "complications/perpetual-calendar",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/minute-repeater.md",
+          "target": "complications/minute-repeater.md",
+          "graph_target": "complications/minute-repeater",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/moonphase.md",
+          "target": "complications/moonphase.md",
+          "graph_target": "complications/moonphase",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 33,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "index.md",
+          "target": "movements/index.md",
+          "graph_target": "movements/index",
+          "line": 50,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "ce3b8422531a67aeb21de0ce682fe8529dee5edff6f8a55ca548bf96162f6c14",
+      "output_hash": "c31bd7546e122e879983d8373bb0aaf08d6b419ae7376420e07dc183a25b5f0a",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The most complicated portable timepiece of its era: 33 complications, 1,728 components, and what happens when a project is allowed to take nine years.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "movements/rolex-3135",
+      "source_path": "movements/rolex-3135.md",
+      "rendered": true,
+      "url": "/movements/rolex-3135/",
+      "title": "Rolex Calibre 3135",
+      "date": "2026-09-29",
+      "tags": [
+        "accuracy",
+        "balance-spring",
+        "calibre",
+        "guide"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "complications/chronograph",
+        "complications/tourbillon",
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/swiss-lever",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 2,
+      "links": [
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md#the-hairspring",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/compared.md",
+          "target": "escapements/compared.md",
+          "graph_target": "escapements/compared",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/tourbillon.md",
+          "target": "complications/tourbillon.md",
+          "graph_target": "complications/tourbillon",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 46,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "a74a1954f0909dd3c88cb03566f06b53d7f03e397cda8d715e0ae48d6bef5a42",
+      "output_hash": "fd6e6070e6d1d29c9e6535ad97b81e2773233712bae76dfe544c3cfb8824577b",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The case for boring excellence: 1988-2018, 28,800 vph, Parachrom, and why the world's most famous watch brand made its name on reliability.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "movements/valjoux-7750",
+      "source_path": "movements/valjoux-7750.md",
+      "rendered": true,
+      "url": "/movements/valjoux-7750/",
+      "title": "Valjoux 7750",
+      "date": "2026-09-29",
+      "tags": [
+        "calibre",
+        "chronograph",
+        "guide",
+        "history"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "outbound_links": [
+        "complications/chronograph",
+        "escapements/compared",
+        "movements/zenith-el-primero"
+      ],
+      "inbound_link_count": 4,
+      "links": [
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md#column-wheel-vs-cam",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 22,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/compared.md",
+          "target": "escapements/compared.md",
+          "graph_target": "escapements/compared",
+          "line": 44,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md#lateral-clutch-vs-vertical-clutch",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 50,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "386625cabf0d2fd8754ab6bc982bb247e1a782f3188ab880d183530fcc2f76ea",
+      "output_hash": "de2f3438366f603b696a717b65cdfe165a38b575109d7886809b28814b0bf774",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The cam-lever chronograph workhorse: 1974 design, oscillating pinion, the movement inside half the chronographs you have ever seen.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "movements/zenith-el-primero",
+      "source_path": "movements/zenith-el-primero.md",
+      "rendered": true,
+      "url": "/movements/zenith-el-primero/",
+      "title": "Zenith El Primero",
+      "date": "2026-09-29",
+      "tags": [
+        "calibre",
+        "chronograph",
+        "frequency",
+        "history",
+        "timeline"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "outbound_links": [
+        "complications/chronograph",
+        "movements/omega-321",
+        "physics/frequency"
+      ],
+      "inbound_link_count": 8,
+      "links": [
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 27,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/frequency.md",
+          "target": "physics/frequency.md",
+          "graph_target": "physics/frequency",
+          "line": 47,
+          "resolved": true
+        },
+        {
+          "destination": "omega-321.md",
+          "target": "movements/omega-321.md",
+          "graph_target": "movements/omega-321",
+          "line": 49,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "392398730d1c8cb5bb465ca6d90ae1eaad84d72d4b5d974940110ced07151e25",
+      "output_hash": "cebdfbc56349d3ec7da11da9beae4175d4f50a761f266f6bfc8bb85b07106fb1",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The first integrated automatic chronograph with 36,000 vph: the 1969 race, the high-beat argument, and the movement that Rolex once borrowed.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "physics/amplitude",
+      "source_path": "physics/amplitude.md",
+      "rendered": true,
+      "url": "/physics/amplitude/",
+      "title": "Amplitude",
+      "date": "2026-09-27",
+      "tags": [
+        "accuracy",
+        "amplitude",
+        "lubrication",
+        "physics",
+        "service"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "maintenance/magnetism",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 16,
+      "links": [
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 32,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md#lift",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 57,
+          "resolved": true
+        },
+        {
+          "destination": "positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 61,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "976f88934c4612c96e8c338b5dabab3aabc435d1e9b03299a12ec1622d8bfb9e",
+      "output_hash": "081797e076d7844408e03030ab9f4ef9179eaeda593ca7aae84ca2419b297c3e",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The single number that tells you if a watch is healthy: how far the balance swings, what's normal, what's dangerous, and how to read it off a timegrapher.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "physics/frequency",
+      "source_path": "physics/frequency.md",
+      "rendered": true,
+      "url": "/physics/frequency/",
+      "title": "Frequency",
+      "date": "2026-09-28",
+      "tags": [
+        "accuracy",
+        "escapement",
+        "frequency",
+        "physics"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "complications/chronograph",
+        "escapements/swiss-lever",
+        "history/1656-huygens-and-the-pendulum",
+        "movements/valjoux-7750",
+        "physics/amplitude"
+      ],
+      "inbound_link_count": 10,
+      "links": [
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 10,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 24,
+          "resolved": true
+        },
+        {
+          "destination": "../complications/chronograph.md",
+          "target": "complications/chronograph.md",
+          "graph_target": "complications/chronograph",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/valjoux-7750.md",
+          "target": "movements/valjoux-7750.md",
+          "graph_target": "movements/valjoux-7750",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1656-huygens-and-the-pendulum.md",
+          "target": "history/1656-huygens-and-the-pendulum.md",
+          "graph_target": "history/1656-huygens-and-the-pendulum",
+          "line": 55,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "d2c1ac10431575d211ecde5506e28a45bd74aa32b59dc420902e58d755467512",
+      "output_hash": "120f0f5b2d206f32d717b00e7d4ded3b8cb98ad0ec6bc80571931cf6a03c23c5",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "18,000 vs 28,800 vs 36,000 vph: what beat rate buys you, what it costs, and why 4 Hz became the world's default.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "physics/friction-and-lubrication",
+      "source_path": "physics/friction-and-lubrication.md",
+      "rendered": true,
+      "url": "/physics/friction-and-lubrication/",
+      "title": "Friction and Lubrication",
+      "date": "2026-09-29",
+      "tags": [
+        "escapement",
+        "lubrication",
+        "physics",
+        "service",
+        "shock-protection"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "maintenance/magnetism",
+        "physics/amplitude",
+        "physics/isochronism"
+      ],
+      "inbound_link_count": 13,
+      "links": [
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 17,
+          "resolved": true
+        },
+        {
+          "destination": "amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 20,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 43,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 56,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 62,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/compared.md",
+          "target": "escapements/compared.md",
+          "graph_target": "escapements/compared",
+          "line": 65,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "b675ff3863629a9f36e78f6c5caefbc51c9ba30e419aa7d4edf22e8766aa0100",
+      "output_hash": "718d682aa7cd3024137860564055c0d80a3c6c38f5716c2a1ecac4a485dc63cd",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Oil is the watchmaker's real craft: which bearings get which drops, why epilame exists, and how friction becomes rate.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "physics/isochronism",
+      "source_path": "physics/isochronism.md",
+      "rendered": true,
+      "url": "/physics/isochronism/",
+      "title": "Isochronism",
+      "date": "2026-09-27",
+      "tags": [
+        "accuracy",
+        "amplitude",
+        "balance-spring",
+        "physics"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "outbound_links": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "maintenance/magnetism",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 13,
+      "links": [
+        {
+          "destination": "friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 13,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 14,
+          "resolved": true
+        },
+        {
+          "destination": "the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 18,
+          "resolved": true
+        },
+        {
+          "destination": "the-balance-spring.md#geometry-the-fight-against-the-spring-itself",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 24,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 29,
+          "resolved": true
+        },
+        {
+          "destination": "amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 58,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "852e18f035e40af7db89333673addfe9ddeb9c821d03d1b77995a5a8d34cca60",
+      "output_hash": "859a149ed7863d4d0fc5d955b549cb694329c0641206621663831a03b75f07e5",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The property that makes timekeeping possible — the oscillator's period staying constant as amplitude changes — and why perfect isochronism is a myth.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "physics/positions-and-rate",
+      "source_path": "physics/positions-and-rate.md",
+      "rendered": true,
+      "url": "/physics/positions-and-rate/",
+      "title": "Positions and Rate",
+      "date": "2026-09-28",
+      "tags": [
+        "accuracy",
+        "balance",
+        "guide",
+        "physics"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "maintenance/magnetism",
+        "movements/zenith-el-primero",
+        "physics/isochronism",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 19,
+      "links": [
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 26,
+          "resolved": true
+        },
+        {
+          "destination": "the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 32,
+          "resolved": true
+        },
+        {
+          "destination": "the-balance-spring.md#materials-steel-nivarox-silicon",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 35,
+          "resolved": true
+        },
+        {
+          "destination": "../movements/zenith-el-primero.md",
+          "target": "movements/zenith-el-primero.md",
+          "graph_target": "movements/zenith-el-primero",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 54,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 57,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "4b98145b6300ac7e107b6cd8c94e97ea22a7cd54429487defbf76ecfba3ae0fa",
+      "output_hash": "9c03063d422946ed1e614cd6c4417d0d6719ce05873568d9ea7a4bc204454401",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Why 'it gains five seconds a day' is an average of a hundred moving targets — positional variance, temperature, and what chronometer certification actually tests.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "physics/the-balance-spring",
+      "source_path": "physics/the-balance-spring.md",
+      "rendered": true,
+      "url": "/physics/the-balance-spring/",
+      "title": "The Balance Spring",
+      "date": "2026-09-26",
+      "tags": [
+        "balance",
+        "balance-spring",
+        "history",
+        "physics",
+        "silicon",
+        "timeline"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "outbound_links": [
+        "anatomy/05-the-balance-assembly",
+        "maintenance/magnetism",
+        "physics/isochronism",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 14,
+      "links": [
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "isochronism.md",
+          "target": "physics/isochronism.md",
+          "graph_target": "physics/isochronism",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 66,
+          "resolved": true
+        },
+        {
+          "destination": "positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 67,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "c8a705f3531db533e150d4ff914e1691a09909cc19a891977a74a98e4279b583",
+      "output_hash": "f523003eb29aa1f67fd8918d447910292f3e8abc54e9d762c19e5c0d356daa8f",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The coiled heart of the watch: Hooke, Huygens, the priority dispute, Phillips terminal curves, and the silicon revolution.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "start-here/read-me-first",
+      "source_path": "start-here/read-me-first.md",
+      "rendered": true,
+      "url": "/start-here/read-me-first/",
+      "title": "Read Me First",
+      "date": "2026-09-30",
+      "tags": [
+        "guide",
+        "series-anatomy"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "outbound_links": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "anatomy/08-putting-it-together",
+        "glossary/glossary",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis",
+        "history/index",
+        "maintenance/magnetism",
+        "maintenance/servicing",
+        "maintenance/water-resistance",
+        "physics/amplitude",
+        "physics/positions-and-rate"
+      ],
+      "inbound_link_count": 11,
+      "links": [
+        {
+          "destination": "../anatomy/01-the-problem-of-timekeeping.md",
+          "target": "anatomy/01-the-problem-of-timekeeping.md",
+          "graph_target": "anatomy/01-the-problem-of-timekeeping",
+          "line": 17,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 23,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 24,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/06-the-keyless-works.md",
+          "target": "anatomy/06-the-keyless-works.md",
+          "graph_target": "anatomy/06-the-keyless-works",
+          "line": 26,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 28,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/08-putting-it-together.md",
+          "target": "anatomy/08-putting-it-together.md",
+          "graph_target": "anatomy/08-putting-it-together",
+          "line": 30,
+          "resolved": true
+        },
+        {
+          "destination": "../history/index.md",
+          "target": "history/index.md",
+          "graph_target": "history/index",
+          "line": 36,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1675-the-balance-spring-race.md",
+          "target": "history/1675-the-balance-spring-race.md",
+          "graph_target": "history/1675-the-balance-spring-race",
+          "line": 37,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1761-harrison-and-the-longitude-prize.md",
+          "target": "history/1761-harrison-and-the-longitude-prize.md",
+          "graph_target": "history/1761-harrison-and-the-longitude-prize",
+          "line": 38,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1850s-the-american-system.md",
+          "target": "history/1850s-the-american-system.md",
+          "graph_target": "history/1850s-the-american-system",
+          "line": 39,
+          "resolved": true
+        },
+        {
+          "destination": "../history/1969-the-quartz-crisis.md",
+          "target": "history/1969-the-quartz-crisis.md",
+          "graph_target": "history/1969-the-quartz-crisis",
+          "line": 40,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/amplitude.md",
+          "target": "physics/amplitude.md",
+          "graph_target": "physics/amplitude",
+          "line": 45,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 46,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/magnetism.md",
+          "target": "maintenance/magnetism.md",
+          "graph_target": "maintenance/magnetism",
+          "line": 47,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/water-resistance.md",
+          "target": "maintenance/water-resistance.md",
+          "graph_target": "maintenance/water-resistance",
+          "line": 48,
+          "resolved": true
+        },
+        {
+          "destination": "../maintenance/servicing.md",
+          "target": "maintenance/servicing.md",
+          "graph_target": "maintenance/servicing",
+          "line": 49,
+          "resolved": true
+        },
+        {
+          "destination": "../glossary/glossary.md",
+          "target": "glossary/glossary.md",
+          "graph_target": "glossary/glossary",
+          "line": 50,
+          "resolved": true
+        },
+        {
+          "destination": "/graph/",
+          "target": "graph/index.html",
+          "line": 56,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "5068e6397620d9d02f2ba9277edfc412601526436e8b41491a35a54f0fc5ab40",
+      "output_hash": "1d874cbfdfca6f07c5b2f8bf697c213a9c79f84720f0f1c2fc79f3284f9574ce",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "Three reading paths through Escapement: the machinist, the historian, and the buyer — and what each path will teach you.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    },
+    {
+      "identity": "start-here/the-five-minute-watch",
+      "source_path": "start-here/the-five-minute-watch.md",
+      "rendered": true,
+      "url": "/start-here/the-five-minute-watch/",
+      "title": "The Five-Minute Watch",
+      "date": "2026-09-30",
+      "tags": [
+        "balance",
+        "escapement",
+        "gear-train",
+        "guide",
+        "mainspring"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "outbound_links": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/index",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "inbound_link_count": 2,
+      "links": [
+        {
+          "destination": "../complications/index.md",
+          "target": "complications/index.md",
+          "graph_target": "complications/index",
+          "line": 11,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 16,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/02-the-gear-train.md",
+          "target": "anatomy/02-the-gear-train.md",
+          "graph_target": "anatomy/02-the-gear-train",
+          "line": 19,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md#constant-force-tricks",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 21,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/07-the-motion-works-and-dial.md",
+          "target": "anatomy/07-the-motion-works-and-dial.md",
+          "graph_target": "anatomy/07-the-motion-works-and-dial",
+          "line": 25,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/04-the-escapement.md",
+          "target": "anatomy/04-the-escapement.md",
+          "graph_target": "anatomy/04-the-escapement",
+          "line": 27,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/05-the-balance-assembly.md",
+          "target": "anatomy/05-the-balance-assembly.md",
+          "graph_target": "anatomy/05-the-balance-assembly",
+          "line": 34,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever.md",
+          "target": "escapements/swiss-lever.md",
+          "graph_target": "escapements/swiss-lever",
+          "line": 41,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/03-the-mainspring-and-barrel.md",
+          "target": "anatomy/03-the-mainspring-and-barrel.md",
+          "graph_target": "anatomy/03-the-mainspring-and-barrel",
+          "line": 56,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/detent.md",
+          "target": "escapements/detent.md",
+          "graph_target": "escapements/detent",
+          "line": 56,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/friction-and-lubrication.md",
+          "target": "physics/friction-and-lubrication.md",
+          "graph_target": "physics/friction-and-lubrication",
+          "line": 57,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/positions-and-rate.md",
+          "target": "physics/positions-and-rate.md",
+          "graph_target": "physics/positions-and-rate",
+          "line": 58,
+          "resolved": true
+        },
+        {
+          "destination": "../physics/the-balance-spring.md",
+          "target": "physics/the-balance-spring.md",
+          "graph_target": "physics/the-balance-spring",
+          "line": 58,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/co-axial.md",
+          "target": "escapements/co-axial.md",
+          "graph_target": "escapements/co-axial",
+          "line": 59,
+          "resolved": true
+        },
+        {
+          "destination": "../escapements/swiss-lever/drop-lock-and-lift.md",
+          "target": "escapements/swiss-lever/drop-lock-and-lift.md",
+          "graph_target": "escapements/swiss-lever/drop-lock-and-lift",
+          "line": 59,
+          "resolved": true
+        },
+        {
+          "destination": "../anatomy/01-the-problem-of-timekeeping.md",
+          "target": "anatomy/01-the-problem-of-timekeeping.md",
+          "graph_target": "anatomy/01-the-problem-of-timekeeping",
+          "line": 61,
+          "resolved": true
+        }
+      ],
+      "asset_references": [],
+      "content_hash": "70aaf42e58d22e38d07d4ec7782ba21ee2cc71a75dd2e88b57cb7f5bd0a01cb1",
+      "output_hash": "889f6fe8f3282f0f1c79417a5755862e88d2e3e7ee45c1d90626cf6d8879632f",
+      "frontmatter": {
+        "animation_cues": "",
+        "author": "Buffy",
+        "compliance_modal": "",
+        "description": "The entire mechanical watch in one page: a spring, a train of wheels, an oscillator, and a mechanism that refuses to let either run free.",
+        "image": "",
+        "layout": "",
+        "publish": "true",
+        "slug": "",
+        "soundtrack_theme": "",
+        "video_script": ""
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/css/layout-editorial.css",
+      "hash": "c4f11d735b85036ec00b1702b2e4f09f7764fc86da814be3ad33f77891c1159c"
+    },
+    {
+      "path": "assets/css/search.css",
+      "hash": "5453173fae0232f483a536d7042fc52fa6f10da02a2fc713d1ceb384ff980f4b"
+    },
+    {
+      "path": "assets/css/theme-foundations.css",
+      "hash": "e123c7616ac29e6fc5c87239dd4afdbd5c6aff2940b5c8d9261d56e149a3e41a"
+    },
+    {
+      "path": "assets/graph/explorer.css",
+      "hash": "aa0d92d6b815887f6ae5b81b7f8ad5c6ba5acd60292dfd267e81a3153f32d8ae"
+    },
+    {
+      "path": "assets/graph/explorer.js",
+      "hash": "8621f246be46513b886b44ed29e4659e24062327b77da8e21cbcec3f5f7ef670"
+    },
+    {
+      "path": "assets/img/balance-spring.svg",
+      "hash": "3ec4d55d4d10219804a98e1075ce8453d115e5da46c7d08f701a55e5cd739639"
+    },
+    {
+      "path": "assets/img/escapement-cycle.svg",
+      "hash": "057beadd8a637a2405a51f3a5d94fbfd1eaba0120cdaf80e8b0c1eabf9670a28"
+    },
+    {
+      "path": "assets/img/gear-train.svg",
+      "hash": "1beca62354773a70aa6cb453e922f1244d1eb086030b9d4473f25943b5153787"
+    },
+    {
+      "path": "assets/img/tourbillon-cage.svg",
+      "hash": "95e263410bd6492a742aff59a49692342fde0e01bd9cdd6decc68dd3c22ca0c5"
+    },
+    {
+      "path": "assets/js/search.js",
+      "hash": "d477091ad3ee42a17a7d4e51f27d7b6c80229ebbf8237c6911539e35dac43a69"
+    },
+    {
+      "path": "backlinks.json",
+      "hash": "f4dcb2d62d28a8e9b8bc43f88f34e45c66cb65ba5df57a250dd347e349ab6ce4"
+    },
+    {
+      "path": "categories/anatomy/index.html",
+      "hash": "0a362e46f74cc7a9a6ae117faad424152ffcf8fe4d0d5d4942f0b6b9cde510d0"
+    },
+    {
+      "path": "categories/complications/index.html",
+      "hash": "42bb952931d931b796546d66850b3a966b1caa045ebe7509436679d0f15e6935"
+    },
+    {
+      "path": "categories/escapements/index.html",
+      "hash": "51317feba0d75550896b31fcb837d1bdfb044907c60372aa51135ab8f3f4887a"
+    },
+    {
+      "path": "categories/glossary/index.html",
+      "hash": "cb508472cf3b8b422d280472002f5d42bd7807755f66d10a7a4e0e11b0301299"
+    },
+    {
+      "path": "categories/history/index.html",
+      "hash": "c6c9c5590e8ca8744c2a0a25aa6090281bb5034ff03091bf032fd07991b2dac7"
+    },
+    {
+      "path": "categories/index.html",
+      "hash": "ea527128ad15b5946828f1eeb1276f61567ca9564de34426737e169d88be2265"
+    },
+    {
+      "path": "categories/maintenance/index.html",
+      "hash": "8ee6d12227a67c64c504e44ec0ecba596b35277c84eb9505e3070fc3784b974a"
+    },
+    {
+      "path": "categories/movements/index.html",
+      "hash": "7689b6b2b8f1f86396dcdb23e539d6f04c39adb262fc8abc8f7d1cb7b60066b5"
+    },
+    {
+      "path": "categories/orientation/index.html",
+      "hash": "dc40ab2fc4ccb68639da24a2bcaa6345d43285e37a6cff922f8646e7efa44e70"
+    },
+    {
+      "path": "categories/physics/index.html",
+      "hash": "78b047e61c54086bb42265e98a5bad331b884fb2f228dbc1de89b59c5b22d026"
+    },
+    {
+      "path": "feed.xml",
+      "hash": "2d934f3f76b8e287e0c92a0e88583f823c9d8fd5c353749b9e89602c5e82570b"
+    },
+    {
+      "path": "graph/data.json",
+      "hash": "af3073170f74643b3c649aec5af252692d50f6e24366ab990bef3273daa23f42"
+    },
+    {
+      "path": "graph/index.html",
+      "hash": "632a1e3edeb6dd89f3b19ad5fe5c6c10b9fcb617f4dfbbf69c3adb2ee616b4d3"
+    },
+    {
+      "path": "graph.json",
+      "hash": "330abb7fbdeebfcd3d83f8e21cccc336e72a5973243b7b0d08470ef8dc39317d"
+    },
+    {
+      "path": "meta.json",
+      "hash": "efaa060163d54bfbad002c3ca06389f7148b48943717e9e67345c8817e075a8e"
+    },
+    {
+      "path": "robots.txt",
+      "hash": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+      "path": "search.json",
+      "hash": "f1b4d20c03c13eef76018fabf010b815f7e384ccb33fc73882c3835de702585b"
+    },
+    {
+      "path": "sitemap.xml",
+      "hash": "01c40f91fe87f9efb4735ee4452bd6ff51a6c0bba29b910454695e833b9a4ecb"
+    },
+    {
+      "path": "tags/accuracy/index.html",
+      "hash": "f0c1a4673c233deb96083897b886056028ade015055643d98bf4bb68c7931186"
+    },
+    {
+      "path": "tags/amplitude/index.html",
+      "hash": "1e76d18266b6cdbcfb17a13527653834165ae592093e0bb8a6e253f52710915f"
+    },
+    {
+      "path": "tags/balance/index.html",
+      "hash": "ec52898b71cbd5e8f57615fc29d7d3ef1510a2d6990020c6cdab9ce825b76197"
+    },
+    {
+      "path": "tags/balance-spring/index.html",
+      "hash": "ef293fa7311e18f611225f38030d4d77a527dc4939e34ae6f5f27378a36b32a0"
+    },
+    {
+      "path": "tags/calibre/index.html",
+      "hash": "77248e461534113ca6804a5cc46b2da4137e43ff22297660002a62ad3bb663df"
+    },
+    {
+      "path": "tags/chronograph/index.html",
+      "hash": "1a8b127c88526159f0ecd1948c745487aa343205d6ad5d21249db354ee08814c"
+    },
+    {
+      "path": "tags/colophon/index.html",
+      "hash": "55cf2230735bf65cdc7cc7763a0b982a3fe1eb028ca7d20e9c5df048c9e1a924"
+    },
+    {
+      "path": "tags/complications/index.html",
+      "hash": "77faf78ff3f7845eda9fee3620548451b28dddf0c5bfe50182a05321e6d0e910"
+    },
+    {
+      "path": "tags/dial-train/index.html",
+      "hash": "21063416d7e3aa7f0036232ae12becd27a620d4a79a54c259315419ca15fc2c3"
+    },
+    {
+      "path": "tags/escapement/index.html",
+      "hash": "907596d81638e519440db70d3140a29c5c2fba9858da7fecb323eb1e091c871d"
+    },
+    {
+      "path": "tags/frequency/index.html",
+      "hash": "fbff7a6eac905bbef268ea4725c33a3ae0fa868db7b17f3b5cf4009a7aba5176"
+    },
+    {
+      "path": "tags/gear-train/index.html",
+      "hash": "f315f18ca82dca19f5f8e1336ff7cbea22fb8c6eb3c826124709f56930d34e5c"
+    },
+    {
+      "path": "tags/glossary/index.html",
+      "hash": "87bf0805cdde2adc4a99bb869fd9be84dc8b2a25cdb964ff17138463d468d0b2"
+    },
+    {
+      "path": "tags/guide/index.html",
+      "hash": "31a73506d6e4bf693ca2c0c717b15a3f190c08d6ea40a2df8acaa82d5fe3cdb9"
+    },
+    {
+      "path": "tags/history/index.html",
+      "hash": "13f8f9ca7e485f8028394344b42dd43d2a3776997b531ebd2deebff222905d23"
+    },
+    {
+      "path": "tags/index.html",
+      "hash": "2658112be465e15581fefde3444fbbb4a1ac6342fe4d0ac6c3357ce3e7ad076f"
+    },
+    {
+      "path": "tags/industrialization/index.html",
+      "hash": "b8fbc6e6bcf100a1f27b3fbf05d9b500711980b295786b868d4d4d2415602aac"
+    },
+    {
+      "path": "tags/keyless-works/index.html",
+      "hash": "f413eac371d6619980fded69f19b11f4ba12ea2caf6df1198ca1de594c333002"
+    },
+    {
+      "path": "tags/lubrication/index.html",
+      "hash": "195877d86074d2bce754ee79baa2771e0ee8766ee9cc741174f19b7ebfc46b65"
+    },
+    {
+      "path": "tags/magnetism/index.html",
+      "hash": "9039113da628e6fa57964bc707326b1d38933f1365d3b935c75aac4cb94075f4"
+    },
+    {
+      "path": "tags/mainspring/index.html",
+      "hash": "a69338a224fccbaf8039b6a7382d67a194ac2603e43f720c5dcb32f61afcd067"
+    },
+    {
+      "path": "tags/moonphase/index.html",
+      "hash": "697b94e7c3e41d057e1bbbf6ce84f849b676a45f8e9fdcfa52d5654d6259dff6"
+    },
+    {
+      "path": "tags/perpetual-calendar/index.html",
+      "hash": "ba2a9daa5752d0ea6c10c31c2fa63e8d2c10925d4ebc30c8128cd7ce184ba1bd"
+    },
+    {
+      "path": "tags/physics/index.html",
+      "hash": "6cd3a85299a08aaf7ca71a709a77eac13a63461e5e11329f18e71d66a6de76a7"
+    },
+    {
+      "path": "tags/power-reserve/index.html",
+      "hash": "caa294fdd935bf13cfefcfef78814f6281f475715e58a42bdc95e8caf56aaaa0"
+    },
+    {
+      "path": "tags/quartz/index.html",
+      "hash": "5a9e68eef4c32e149024dba9dc8e7027a1ad1c14b3fb4d7c1c339d8bf3649cf4"
+    },
+    {
+      "path": "tags/repeater/index.html",
+      "hash": "41e435eac8357364e0cf0682784d9b6cced5d1610b9feaf52ab6055ac0488e8d"
+    },
+    {
+      "path": "tags/series-anatomy/index.html",
+      "hash": "ed98917bffb5eb25e3f88a76b6fca33475f8fce264528234b205f284937f6113"
+    },
+    {
+      "path": "tags/service/index.html",
+      "hash": "4fac147f77d404edc0c6a75b7e7c49d9249ddf6d99a186ac1b40c00eb47dca28"
+    },
+    {
+      "path": "tags/shock-protection/index.html",
+      "hash": "397956a96bdc735f392b42fd0013b67f8fc4d0e313121f1b0cf5a4aba6725410"
+    },
+    {
+      "path": "tags/silicon/index.html",
+      "hash": "756b697d4389d49510a052e344492bcd9a5dc0aeb6ddea7a70afd1897b48d157"
+    },
+    {
+      "path": "tags/timeline/index.html",
+      "hash": "7becca5ac14202c8febf561b1e3f5980191664408276dbe1de211f0aacd1bcce"
+    },
+    {
+      "path": "tags/tourbillon/index.html",
+      "hash": "cb488baddfb94e0e239bb6b9d01407367f382a0d7b5e88ed1cd6daf0941346c4"
+    },
+    {
+      "path": "tags/water-resistance/index.html",
+      "hash": "4ba646d38a529d748aeb177ecf9447c56ca60bca3ab22f434109d204015fb1a0"
+    },
+    {
+      "path": "unresolved-notes/index.html",
+      "hash": "377d4efae6cf681f7bc6a126245d5c666867bb019212755c0b31b3ea1203e0e6"
+    }
+  ],
+  "sitemap": [
+    "/",
+    "/about/",
+    "/anatomy/01-the-problem-of-timekeeping/",
+    "/anatomy/02-the-gear-train/",
+    "/anatomy/03-the-mainspring-and-barrel/",
+    "/anatomy/04-the-escapement/",
+    "/anatomy/05-the-balance-assembly/",
+    "/anatomy/06-the-keyless-works/",
+    "/anatomy/07-the-motion-works-and-dial/",
+    "/anatomy/08-putting-it-together/",
+    "/categories/",
+    "/categories/anatomy/",
+    "/categories/complications/",
+    "/categories/escapements/",
+    "/categories/glossary/",
+    "/categories/history/",
+    "/categories/maintenance/",
+    "/categories/movements/",
+    "/categories/orientation/",
+    "/categories/physics/",
+    "/complications/",
+    "/complications/chronograph/",
+    "/complications/gmt-and-world-time/",
+    "/complications/minute-repeater/",
+    "/complications/moonphase/",
+    "/complications/perpetual-calendar/",
+    "/complications/power-reserve/",
+    "/complications/tourbillon/",
+    "/escapements/",
+    "/escapements/co-axial/",
+    "/escapements/compared/",
+    "/escapements/cylinder-and-duplex/",
+    "/escapements/detent/",
+    "/escapements/swiss-lever/",
+    "/escapements/swiss-lever/drop-lock-and-lift/",
+    "/escapements/verge-and-foliot/",
+    "/glossary/glossary/",
+    "/history/",
+    "/history/1656-huygens-and-the-pendulum/",
+    "/history/1675-the-balance-spring-race/",
+    "/history/1761-harrison-and-the-longitude-prize/",
+    "/history/1770-mudge-and-the-lever/",
+    "/history/1850s-the-american-system/",
+    "/history/1927-the-quartz-clock/",
+    "/history/1969-the-quartz-crisis/",
+    "/history/1983-the-swatch-rescue/",
+    "/maintenance/magnetism/",
+    "/maintenance/servicing/",
+    "/maintenance/water-resistance/",
+    "/movements/",
+    "/movements/omega-321/",
+    "/movements/patek-calibre-89/",
+    "/movements/rolex-3135/",
+    "/movements/valjoux-7750/",
+    "/movements/zenith-el-primero/",
+    "/physics/amplitude/",
+    "/physics/frequency/",
+    "/physics/friction-and-lubrication/",
+    "/physics/isochronism/",
+    "/physics/positions-and-rate/",
+    "/physics/the-balance-spring/",
+    "/start-here/read-me-first/",
+    "/start-here/the-five-minute-watch/",
+    "/tags/",
+    "/tags/accuracy/",
+    "/tags/amplitude/",
+    "/tags/balance-spring/",
+    "/tags/balance/",
+    "/tags/calibre/",
+    "/tags/chronograph/",
+    "/tags/colophon/",
+    "/tags/complications/",
+    "/tags/dial-train/",
+    "/tags/escapement/",
+    "/tags/frequency/",
+    "/tags/gear-train/",
+    "/tags/glossary/",
+    "/tags/guide/",
+    "/tags/history/",
+    "/tags/industrialization/",
+    "/tags/keyless-works/",
+    "/tags/lubrication/",
+    "/tags/magnetism/",
+    "/tags/mainspring/",
+    "/tags/moonphase/",
+    "/tags/perpetual-calendar/",
+    "/tags/physics/",
+    "/tags/power-reserve/",
+    "/tags/quartz/",
+    "/tags/repeater/",
+    "/tags/series-anatomy/",
+    "/tags/service/",
+    "/tags/shock-protection/",
+    "/tags/silicon/",
+    "/tags/timeline/",
+    "/tags/tourbillon/",
+    "/tags/water-resistance/",
+    "/unresolved-notes/"
+  ],
+  "output_captured": true
+}

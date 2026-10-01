@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="terminal">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{if .Site.SiteName}}{{.Title}} - {{.Site.SiteName}}{{else}}{{.Title}}{{end}}</title>
+    <meta name="description" content="{{.Description}}">
+    <meta property="og:title" content="{{.Title}}">
+    <meta property="og:description" content="{{.Description}}">
+    <meta property="og:image" content="{{.Image}}">
+    <meta property="og:type" content="website">
+    {{if .CanonicalURL}}<link rel="canonical" href="{{.CanonicalURL}}">
+    <meta property="og:url" content="{{.CanonicalURL}}">{{end}}
+    <!-- Terminal: local-first, framework-free, offline. No CDN. -->
+    <link rel="stylesheet" href="/assets/css/theme-foundations.css">
+    <link rel="stylesheet" href="/assets/css/layout-terminal.css">
+    <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+    <a href="#main-content" class="t-skip">Skip to content</a>
+
+    <header class="t-masthead">
+        <nav id="site-navigation" aria-label="Main navigation" class="t-nav">
+            <a class="t-brand" href="/">
+                <span class="t-prompt" aria-hidden="true">&gt;_</span>
+                <img src="/assets/img/mascot-default.jpeg" alt="Raoul(s), the La Famille octopus mascot" width="30" height="30" />
+                <span>{{.Site.SiteName}}</span>
+            </a>
+            {{if .Site.SiteLinks}}
+            <ul class="t-links">
+                {{range .Site.SiteLinks}}<li><a href="{{.URL}}">{{.Label}}</a></li>{{end}}
+            </ul>
+            {{end}}
+            {{ template "search_modal" . }}
+        </nav>
+    </header>
+
+    <main id="main-content" class="t-main">
+        <article class="t-window">
+            <div class="t-titlebar">
+                <span class="t-dots" aria-hidden="true">
+                    <span class="t-dot t-dot--r"></span>
+                    <span class="t-dot t-dot--y"></span>
+                    <span class="t-dot t-dot--g"></span>
+                </span>
+                <span class="t-titlepath">~/{{.Site.SiteName}}</span>
+            </div>
+            <div class="t-article-body">
+                {{if or .Date .Author}}
+                <p class="t-kicker">
+                    {{if .Date}}<time>{{.Date}}</time>{{end}}{{if and .Date .Author}} // {{end}}{{if .Author}}by {{.Author}}{{end}}
+                </p>
+                {{end}}
+                <h1 class="t-title">{{.Title}}</h1>
+                {{if .Description}}<p class="t-meta">{{.Description}}</p>{{end}}
+
+                <div class="t-prose">
+                    {{.Content}}
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <footer class="t-mastfoot">
+        <div class="t-foot-window">
+            <span class="t-foot-status"><span aria-hidden="true">&gt;_</span> SYSTEM STATUS: ONLINE</span>
+            <span>Built with La Famille &mdash; static sites in pure Go.</span>
+        </div>
+    </footer>
+
+{{if .ComplianceModal}}
+    <dialog open class="t-compliance" aria-labelledby="t-compliance-title">
+        <article>
+            <h2 id="t-compliance-title">Compliance Required</h2>
+            <p>{{.ComplianceModal}}</p>
+            <form method="dialog">
+                <button type="submit" class="t-agree" autofocus>I Reluctantly Agree</button>
+            </form>
+        </article>
+    </dialog>
+{{end}}
+<script src="/assets/js/search.js"></script>
+</body>
+</html>

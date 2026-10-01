@@ -1,0 +1,3446 @@
+{
+  "base_path": "",
+  "nodes": [
+    {
+      "author": "Buffy",
+      "url": "/about/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "about",
+      "title": "About \u0026 Colophon",
+      "inbound": [
+        "index"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "tags": [
+        "colophon",
+        "guide"
+      ],
+      "outbound": [
+        "complications/tourbillon",
+        "history/1675-the-balance-spring-race",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "word_count": 298,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/01-the-problem-of-timekeeping/",
+      "type": "page",
+      "date": "2026-09-23",
+      "id": "anatomy/01-the-problem-of-timekeeping",
+      "title": "Anatomy 1: The Problem of Timekeeping",
+      "inbound": [
+        "index",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "guide",
+        "escapement",
+        "balance",
+        "physics"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "history/1656-huygens-and-the-pendulum",
+        "maintenance/magnetism",
+        "physics/amplitude",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "start-here/read-me-first"
+      ],
+      "word_count": 449,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/02-the-gear-train/",
+      "type": "page",
+      "date": "2026-09-24",
+      "id": "anatomy/02-the-gear-train",
+      "title": "Anatomy 2: The Gear Train",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/minute-repeater",
+        "complications/power-reserve",
+        "glossary/glossary",
+        "history/1850s-the-american-system",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "gear-train",
+        "mainspring",
+        "escapement"
+      ],
+      "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/07-the-motion-works-and-dial",
+        "physics/friction-and-lubrication",
+        "start-here/read-me-first"
+      ],
+      "word_count": 474,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/03-the-mainspring-and-barrel/",
+      "type": "page",
+      "date": "2026-09-25",
+      "id": "anatomy/03-the-mainspring-and-barrel",
+      "title": "Anatomy 3: The Mainspring and Barrel",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
+        "complications/power-reserve",
+        "escapements/compared",
+        "escapements/detent",
+        "glossary/glossary",
+        "history/1761-harrison-and-the-longitude-prize",
+        "physics/isochronism",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "mainspring",
+        "gear-train",
+        "power-reserve",
+        "physics"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/04-the-escapement",
+        "complications/power-reserve",
+        "escapements/detent",
+        "physics/amplitude",
+        "start-here/read-me-first"
+      ],
+      "word_count": 417,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/04-the-escapement/",
+      "type": "page",
+      "date": "2026-09-26",
+      "id": "anatomy/04-the-escapement",
+      "title": "Anatomy 4: The Escapement",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/07-the-motion-works-and-dial",
+        "anatomy/08-putting-it-together",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "escapement",
+        "balance",
+        "physics"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "physics/frequency",
+        "start-here/read-me-first"
+      ],
+      "word_count": 444,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/05-the-balance-assembly/",
+      "type": "page",
+      "date": "2026-09-27",
+      "id": "anatomy/05-the-balance-assembly",
+      "title": "Anatomy 5: The Balance Assembly",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/04-the-escapement",
+        "anatomy/08-putting-it-together",
+        "complications/tourbillon",
+        "glossary/glossary",
+        "index",
+        "maintenance/magnetism",
+        "movements/rolex-3135",
+        "physics/amplitude",
+        "physics/frequency",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "balance",
+        "balance-spring",
+        "physics",
+        "shock-protection"
+      ],
+      "outbound": [
+        "anatomy/04-the-escapement",
+        "anatomy/06-the-keyless-works",
+        "escapements/swiss-lever",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring",
+        "start-here/read-me-first"
+      ],
+      "word_count": 475,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/06-the-keyless-works/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "anatomy/06-the-keyless-works",
+      "title": "Anatomy 6: The Keyless Works",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/07-the-motion-works-and-dial",
+        "anatomy/08-putting-it-together",
+        "glossary/glossary",
+        "maintenance/servicing",
+        "maintenance/water-resistance",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "keyless-works",
+        "gear-train",
+        "mainspring"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/perpetual-calendar",
+        "maintenance/water-resistance",
+        "start-here/read-me-first"
+      ],
+      "word_count": 373,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/07-the-motion-works-and-dial/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "anatomy/07-the-motion-works-and-dial",
+      "title": "Anatomy 7: The Motion Works and Dial",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/06-the-keyless-works",
+        "complications/gmt-and-world-time",
+        "glossary/glossary",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "dial-train",
+        "gear-train",
+        "keyless-works"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/04-the-escapement",
+        "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
+        "start-here/read-me-first"
+      ],
+      "word_count": 369,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/anatomy/08-putting-it-together/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "anatomy/08-putting-it-together",
+      "title": "Anatomy 8: Putting It Together",
+      "inbound": [
+        "anatomy/07-the-motion-works-and-dial",
+        "index",
+        "maintenance/servicing",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "tags": [
+        "series-anatomy",
+        "service",
+        "gear-train",
+        "escapement",
+        "balance",
+        "lubrication"
+      ],
+      "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "escapements/co-axial",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "history/index",
+        "maintenance/water-resistance",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "start-here/read-me-first"
+      ],
+      "word_count": 404,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/chronograph/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "complications/chronograph",
+      "title": "The Chronograph",
+      "inbound": [
+        "complications/index",
+        "complications/perpetual-calendar",
+        "glossary/glossary",
+        "index",
+        "maintenance/servicing",
+        "movements/omega-321",
+        "movements/rolex-3135",
+        "movements/valjoux-7750",
+        "movements/zenith-el-primero",
+        "physics/frequency"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "chronograph",
+        "complications",
+        "guide",
+        "frequency"
+      ],
+      "outbound": [
+        "movements/valjoux-7750",
+        "movements/zenith-el-primero",
+        "physics/frequency"
+      ],
+      "word_count": 407,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/gmt-and-world-time/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "complications/gmt-and-world-time",
+      "title": "GMT and World Time",
+      "inbound": [
+        "complications/index"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "complications",
+        "guide",
+        "history"
+      ],
+      "outbound": [
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/index",
+        "complications/perpetual-calendar"
+      ],
+      "word_count": 362,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/",
+      "type": "page",
+      "date": "2026-09-27",
+      "id": "complications/index",
+      "title": "What Counts as a Complication",
+      "inbound": [
+        "complications/gmt-and-world-time",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/power-reserve",
+        "glossary/glossary",
+        "history/1969-the-quartz-crisis",
+        "movements/patek-calibre-89",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "guide",
+        "chronograph",
+        "perpetual-calendar",
+        "tourbillon",
+        "repeater",
+        "moonphase"
+      ],
+      "outbound": [
+        "complications/chronograph",
+        "complications/gmt-and-world-time",
+        "complications/minute-repeater",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/power-reserve",
+        "complications/tourbillon"
+      ],
+      "word_count": 326,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/minute-repeater/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "complications/minute-repeater",
+      "title": "The Minute Repeater",
+      "inbound": [
+        "complications/index",
+        "complications/perpetual-calendar",
+        "glossary/glossary",
+        "maintenance/servicing",
+        "movements/patek-calibre-89"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "repeater",
+        "complications",
+        "guide",
+        "history"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "complications/tourbillon"
+      ],
+      "word_count": 364,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/moonphase/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "complications/moonphase",
+      "title": "The Moonphase",
+      "inbound": [
+        "complications/index",
+        "glossary/glossary",
+        "movements/patek-calibre-89"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "moonphase",
+        "complications",
+        "guide"
+      ],
+      "outbound": [
+        "complications/index",
+        "complications/perpetual-calendar"
+      ],
+      "word_count": 320,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/perpetual-calendar/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "complications/perpetual-calendar",
+      "title": "The Perpetual Calendar",
+      "inbound": [
+        "anatomy/06-the-keyless-works",
+        "complications/gmt-and-world-time",
+        "complications/index",
+        "complications/moonphase",
+        "glossary/glossary",
+        "index",
+        "movements/patek-calibre-89"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "perpetual-calendar",
+        "complications",
+        "guide",
+        "history"
+      ],
+      "outbound": [
+        "complications/chronograph",
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/tourbillon"
+      ],
+      "word_count": 370,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/power-reserve/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "complications/power-reserve",
+      "title": "Power Reserve",
+      "inbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "complications/index",
+        "glossary/glossary"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "power-reserve",
+        "complications",
+        "mainspring",
+        "guide"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "complications/index",
+        "physics/amplitude",
+        "physics/isochronism"
+      ],
+      "word_count": 274,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/complications/tourbillon/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "complications/tourbillon",
+      "title": "The Tourbillon",
+      "inbound": [
+        "about",
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/perpetual-calendar",
+        "glossary/glossary",
+        "history/1927-the-quartz-clock",
+        "history/1983-the-swatch-rescue",
+        "history/index",
+        "movements/patek-calibre-89",
+        "movements/rolex-3135"
+      ],
+      "categories": [
+        "complications"
+      ],
+      "tags": [
+        "tourbillon",
+        "complications",
+        "history",
+        "physics",
+        "timeline"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/swiss-lever",
+        "physics/amplitude",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 349,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/co-axial/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "escapements/co-axial",
+      "title": "The Co-axial Escapement",
+      "inbound": [
+        "anatomy/04-the-escapement",
+        "anatomy/08-putting-it-together",
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/detent",
+        "escapements/index",
+        "escapements/swiss-lever",
+        "history/1770-mudge-and-the-lever",
+        "history/1969-the-quartz-crisis",
+        "history/1983-the-swatch-rescue",
+        "movements/index",
+        "movements/rolex-3135",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "physics",
+        "lubrication",
+        "timeline"
+      ],
+      "outbound": [
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift"
+      ],
+      "word_count": 388,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/compared/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "escapements/compared",
+      "title": "Escapements, Compared",
+      "inbound": [
+        "escapements/detent",
+        "escapements/index",
+        "movements/rolex-3135",
+        "movements/valjoux-7750",
+        "physics/friction-and-lubrication"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "guide",
+        "accuracy",
+        "history"
+      ],
+      "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/verge-and-foliot",
+        "physics/friction-and-lubrication",
+        "physics/isochronism"
+      ],
+      "word_count": 397,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/cylinder-and-duplex/",
+      "type": "page",
+      "date": "2026-09-26",
+      "id": "escapements/cylinder-and-duplex",
+      "title": "Cylinder and Duplex",
+      "inbound": [
+        "escapements/index",
+        "escapements/verge-and-foliot",
+        "history/1770-mudge-and-the-lever"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "history",
+        "timeline"
+      ],
+      "outbound": [
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/verge-and-foliot",
+        "physics/friction-and-lubrication"
+      ],
+      "word_count": 312,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/detent/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "escapements/detent",
+      "title": "The Detent Escapement",
+      "inbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/index",
+        "escapements/swiss-lever",
+        "glossary/glossary",
+        "history/1761-harrison-and-the-longitude-prize",
+        "physics/isochronism",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "history",
+        "physics",
+        "power-reserve"
+      ],
+      "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/co-axial",
+        "escapements/compared"
+      ],
+      "word_count": 333,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/",
+      "type": "page",
+      "date": "2026-09-25",
+      "id": "escapements/index",
+      "title": "The Escapement Zoo",
+      "inbound": [
+        "history/index"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "guide",
+        "history",
+        "physics"
+      ],
+      "outbound": [
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "escapements/verge-and-foliot"
+      ],
+      "word_count": 355,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/swiss-lever/",
+      "type": "page",
+      "date": "2026-09-27",
+      "id": "escapements/swiss-lever",
+      "title": "The Swiss Lever Escapement",
+      "inbound": [
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "complications/tourbillon",
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/index",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "escapements/verge-and-foliot",
+        "glossary/glossary",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "index",
+        "movements/index",
+        "movements/rolex-3135",
+        "physics/amplitude",
+        "physics/frequency",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "balance",
+        "physics",
+        "shock-protection"
+      ],
+      "outbound": [
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "physics/amplitude"
+      ],
+      "word_count": 426,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/swiss-lever/drop-lock-and-lift/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "escapements/swiss-lever/drop-lock-and-lift",
+      "title": "Drop, Lock, and Lift",
+      "inbound": [
+        "anatomy/04-the-escapement",
+        "anatomy/08-putting-it-together",
+        "escapements/co-axial",
+        "escapements/index",
+        "escapements/swiss-lever",
+        "glossary/glossary",
+        "history/1770-mudge-and-the-lever",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "physics",
+        "lubrication",
+        "service"
+      ],
+      "outbound": [
+        "escapements/swiss-lever",
+        "physics/amplitude",
+        "physics/friction-and-lubrication"
+      ],
+      "word_count": 511,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/escapements/verge-and-foliot/",
+      "type": "page",
+      "date": "2026-09-25",
+      "id": "escapements/verge-and-foliot",
+      "title": "Verge and Foliot",
+      "inbound": [
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/index",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1770-mudge-and-the-lever"
+      ],
+      "categories": [
+        "escapements"
+      ],
+      "tags": [
+        "escapement",
+        "history",
+        "timeline"
+      ],
+      "outbound": [
+        "escapements/cylinder-and-duplex",
+        "escapements/swiss-lever",
+        "history/1656-huygens-and-the-pendulum",
+        "physics/isochronism"
+      ],
+      "word_count": 309,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/glossary/glossary/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "glossary/glossary",
+      "title": "Glossary",
+      "inbound": [
+        "index",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "glossary"
+      ],
+      "tags": [
+        "guide",
+        "glossary",
+        "escapement",
+        "balance",
+        "physics"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/chronograph",
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/power-reserve",
+        "complications/tourbillon",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "movements/index",
+        "physics/amplitude",
+        "physics/frequency",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 478,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1656-huygens-and-the-pendulum/",
+      "type": "page",
+      "date": "2026-09-24",
+      "id": "history/1656-huygens-and-the-pendulum",
+      "title": "1656 — Huygens and the Pendulum",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "escapements/verge-and-foliot",
+        "history/1675-the-balance-spring-race",
+        "history/1927-the-quartz-clock",
+        "history/1983-the-swatch-rescue",
+        "history/index",
+        "physics/frequency"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "physics"
+      ],
+      "outbound": [
+        "escapements/verge-and-foliot",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "physics/isochronism"
+      ],
+      "word_count": 281,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1675-the-balance-spring-race/",
+      "type": "page",
+      "date": "2026-09-24",
+      "id": "history/1675-the-balance-spring-race",
+      "title": "1675 — The Balance-Spring Race",
+      "inbound": [
+        "about",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/index",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "balance-spring"
+      ],
+      "outbound": [
+        "history/1656-huygens-and-the-pendulum",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "physics/isochronism",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 272,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1761-harrison-and-the-longitude-prize/",
+      "type": "page",
+      "date": "2026-09-25",
+      "id": "history/1761-harrison-and-the-longitude-prize",
+      "title": "1761 — Harrison and the Longitude Prize",
+      "inbound": [
+        "history/1656-huygens-and-the-pendulum",
+        "history/1675-the-balance-spring-race",
+        "history/1770-mudge-and-the-lever",
+        "history/1983-the-swatch-rescue",
+        "history/index",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "accuracy"
+      ],
+      "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/detent",
+        "history/1675-the-balance-spring-race",
+        "history/1770-mudge-and-the-lever",
+        "physics/isochronism",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 281,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1770-mudge-and-the-lever/",
+      "type": "page",
+      "date": "2026-09-25",
+      "id": "history/1770-mudge-and-the-lever",
+      "title": "1770 — Mudge and the Lever",
+      "inbound": [
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1850s-the-american-system",
+        "history/1983-the-swatch-rescue",
+        "history/index"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "escapement"
+      ],
+      "outbound": [
+        "escapements/co-axial",
+        "escapements/cylinder-and-duplex",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "escapements/verge-and-foliot",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis"
+      ],
+      "word_count": 225,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1850s-the-american-system/",
+      "type": "page",
+      "date": "2026-09-26",
+      "id": "history/1850s-the-american-system",
+      "title": "1850s — The American System",
+      "inbound": [
+        "history/1675-the-balance-spring-race",
+        "history/1770-mudge-and-the-lever",
+        "history/1927-the-quartz-clock",
+        "history/1983-the-swatch-rescue",
+        "history/index",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "industrialization",
+        "gear-train"
+      ],
+      "outbound": [
+        "anatomy/02-the-gear-train",
+        "escapements/swiss-lever",
+        "history/1770-mudge-and-the-lever",
+        "history/1927-the-quartz-clock",
+        "history/1969-the-quartz-crisis",
+        "maintenance/servicing"
+      ],
+      "word_count": 252,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1927-the-quartz-clock/",
+      "type": "page",
+      "date": "2026-09-26",
+      "id": "history/1927-the-quartz-clock",
+      "title": "1927 — The Quartz Clock",
+      "inbound": [
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis",
+        "history/1983-the-swatch-rescue",
+        "history/index"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "quartz",
+        "frequency"
+      ],
+      "outbound": [
+        "complications/tourbillon",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis",
+        "physics/frequency",
+        "physics/the-balance-spring",
+        "start-here/the-five-minute-watch"
+      ],
+      "word_count": 259,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1969-the-quartz-crisis/",
+      "type": "page",
+      "date": "2026-09-27",
+      "id": "history/1969-the-quartz-crisis",
+      "title": "1969 — The Quartz Crisis",
+      "inbound": [
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "history/1927-the-quartz-clock",
+        "history/1983-the-swatch-rescue",
+        "history/index",
+        "index",
+        "movements/omega-321",
+        "movements/patek-calibre-89",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "quartz",
+        "industrialization"
+      ],
+      "outbound": [
+        "complications/index",
+        "escapements/co-axial",
+        "history/1927-the-quartz-clock",
+        "history/1983-the-swatch-rescue",
+        "movements/index",
+        "movements/zenith-el-primero"
+      ],
+      "word_count": 291,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/1983-the-swatch-rescue/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "history/1983-the-swatch-rescue",
+      "title": "1983 — The Swatch Rescue",
+      "inbound": [
+        "history/1969-the-quartz-crisis",
+        "history/index"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "industrialization",
+        "quartz"
+      ],
+      "outbound": [
+        "complications/tourbillon",
+        "escapements/co-axial",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "history/1927-the-quartz-clock",
+        "history/1969-the-quartz-crisis",
+        "history/index",
+        "movements/index",
+        "movements/zenith-el-primero",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 292,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/history/",
+      "type": "page",
+      "date": "2026-09-24",
+      "id": "history/index",
+      "title": "A Timeline of Timekeeping",
+      "inbound": [
+        "anatomy/08-putting-it-together",
+        "history/1983-the-swatch-rescue",
+        "index",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "history",
+        "timeline",
+        "guide"
+      ],
+      "outbound": [
+        "complications/tourbillon",
+        "escapements/index",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1770-mudge-and-the-lever",
+        "history/1850s-the-american-system",
+        "history/1927-the-quartz-clock",
+        "history/1969-the-quartz-crisis",
+        "history/1983-the-swatch-rescue",
+        "physics/frequency",
+        "start-here/read-me-first"
+      ],
+      "word_count": 257,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "index",
+      "title": "Escapement — How a Mechanical Watch Actually Works",
+      "inbound": [],
+      "categories": [
+        "orientation"
+      ],
+      "tags": [
+        "escapement",
+        "guide",
+        "series-anatomy",
+        "timeline"
+      ],
+      "outbound": [
+        "about",
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/08-putting-it-together",
+        "complications/chronograph",
+        "complications/perpetual-calendar",
+        "escapements/swiss-lever",
+        "glossary/glossary",
+        "history/1969-the-quartz-crisis",
+        "history/index",
+        "maintenance/servicing",
+        "physics/amplitude",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 315,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/maintenance/magnetism/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "maintenance/magnetism",
+      "title": "Magnetism",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "maintenance"
+      ],
+      "tags": [
+        "magnetism",
+        "service",
+        "balance-spring",
+        "guide"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "maintenance/servicing",
+        "movements/index",
+        "physics/friction-and-lubrication",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 292,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/maintenance/servicing/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "maintenance/servicing",
+      "title": "Servicing",
+      "inbound": [
+        "history/1850s-the-american-system",
+        "index",
+        "maintenance/magnetism",
+        "maintenance/water-resistance",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "maintenance"
+      ],
+      "tags": [
+        "service",
+        "lubrication",
+        "guide",
+        "accuracy"
+      ],
+      "outbound": [
+        "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
+        "complications/chronograph",
+        "complications/minute-repeater",
+        "maintenance/water-resistance",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 305,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/maintenance/water-resistance/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "maintenance/water-resistance",
+      "title": "Water Resistance",
+      "inbound": [
+        "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
+        "maintenance/servicing",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "maintenance"
+      ],
+      "tags": [
+        "water-resistance",
+        "service",
+        "guide",
+        "keyless-works"
+      ],
+      "outbound": [
+        "anatomy/06-the-keyless-works",
+        "maintenance/servicing",
+        "start-here/read-me-first"
+      ],
+      "word_count": 315,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/movements/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "movements/index",
+      "title": "How to Read a Calibre",
+      "inbound": [
+        "glossary/glossary",
+        "history/1969-the-quartz-crisis",
+        "history/1983-the-swatch-rescue",
+        "maintenance/magnetism",
+        "movements/patek-calibre-89"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "tags": [
+        "calibre",
+        "guide",
+        "gear-train",
+        "escapement"
+      ],
+      "outbound": [
+        "escapements/co-axial",
+        "escapements/swiss-lever",
+        "movements/omega-321",
+        "movements/patek-calibre-89",
+        "movements/rolex-3135",
+        "movements/valjoux-7750",
+        "movements/zenith-el-primero",
+        "physics/frequency",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 292,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/movements/omega-321/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "movements/omega-321",
+      "title": "Omega Calibre 321",
+      "inbound": [
+        "movements/index",
+        "movements/zenith-el-primero"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "tags": [
+        "calibre",
+        "chronograph",
+        "history",
+        "timeline"
+      ],
+      "outbound": [
+        "complications/chronograph",
+        "history/1969-the-quartz-crisis"
+      ],
+      "word_count": 308,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/movements/patek-calibre-89/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "movements/patek-calibre-89",
+      "title": "Patek Philippe Calibre 89",
+      "inbound": [
+        "movements/index"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "tags": [
+        "calibre",
+        "complications",
+        "history",
+        "timeline"
+      ],
+      "outbound": [
+        "complications/index",
+        "complications/minute-repeater",
+        "complications/moonphase",
+        "complications/perpetual-calendar",
+        "complications/tourbillon",
+        "history/1969-the-quartz-crisis",
+        "movements/index"
+      ],
+      "word_count": 306,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/movements/rolex-3135/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "movements/rolex-3135",
+      "title": "Rolex Calibre 3135",
+      "inbound": [
+        "movements/index"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "tags": [
+        "calibre",
+        "guide",
+        "balance-spring",
+        "accuracy"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "complications/chronograph",
+        "complications/tourbillon",
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/swiss-lever",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 264,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/movements/valjoux-7750/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "movements/valjoux-7750",
+      "title": "Valjoux 7750",
+      "inbound": [
+        "complications/chronograph",
+        "movements/index",
+        "physics/frequency"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "tags": [
+        "calibre",
+        "chronograph",
+        "guide",
+        "history"
+      ],
+      "outbound": [
+        "complications/chronograph",
+        "escapements/compared",
+        "movements/zenith-el-primero"
+      ],
+      "word_count": 291,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/movements/zenith-el-primero/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "movements/zenith-el-primero",
+      "title": "Zenith El Primero",
+      "inbound": [
+        "complications/chronograph",
+        "history/1969-the-quartz-crisis",
+        "history/1983-the-swatch-rescue",
+        "movements/index",
+        "movements/valjoux-7750",
+        "physics/positions-and-rate"
+      ],
+      "categories": [
+        "movements"
+      ],
+      "tags": [
+        "calibre",
+        "chronograph",
+        "frequency",
+        "history",
+        "timeline"
+      ],
+      "outbound": [
+        "complications/chronograph",
+        "movements/omega-321",
+        "physics/frequency"
+      ],
+      "word_count": 303,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/physics/amplitude/",
+      "type": "page",
+      "date": "2026-09-27",
+      "id": "physics/amplitude",
+      "title": "Amplitude",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/08-putting-it-together",
+        "complications/power-reserve",
+        "complications/tourbillon",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "glossary/glossary",
+        "index",
+        "maintenance/servicing",
+        "physics/frequency",
+        "physics/friction-and-lubrication",
+        "physics/isochronism",
+        "start-here/read-me-first"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "tags": [
+        "physics",
+        "amplitude",
+        "accuracy",
+        "service",
+        "lubrication"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "maintenance/magnetism",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 364,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/physics/frequency/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "physics/frequency",
+      "title": "Frequency",
+      "inbound": [
+        "anatomy/04-the-escapement",
+        "complications/chronograph",
+        "glossary/glossary",
+        "history/1927-the-quartz-clock",
+        "history/index",
+        "movements/index",
+        "movements/zenith-el-primero"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "tags": [
+        "physics",
+        "frequency",
+        "accuracy",
+        "escapement"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "complications/chronograph",
+        "escapements/swiss-lever",
+        "history/1656-huygens-and-the-pendulum",
+        "movements/valjoux-7750",
+        "physics/amplitude"
+      ],
+      "word_count": 386,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/physics/friction-and-lubrication/",
+      "type": "page",
+      "date": "2026-09-29",
+      "id": "physics/friction-and-lubrication",
+      "title": "Friction and Lubrication",
+      "inbound": [
+        "anatomy/02-the-gear-train",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/08-putting-it-together",
+        "escapements/compared",
+        "escapements/cylinder-and-duplex",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "glossary/glossary",
+        "maintenance/magnetism",
+        "maintenance/servicing",
+        "physics/isochronism",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "tags": [
+        "physics",
+        "lubrication",
+        "service",
+        "escapement",
+        "shock-protection"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "escapements/co-axial",
+        "escapements/compared",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "maintenance/magnetism",
+        "physics/amplitude",
+        "physics/isochronism"
+      ],
+      "word_count": 434,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/physics/isochronism/",
+      "type": "page",
+      "date": "2026-09-27",
+      "id": "physics/isochronism",
+      "title": "Isochronism",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/08-putting-it-together",
+        "complications/power-reserve",
+        "escapements/compared",
+        "escapements/verge-and-foliot",
+        "glossary/glossary",
+        "history/1656-huygens-and-the-pendulum",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "tags": [
+        "physics",
+        "balance-spring",
+        "amplitude",
+        "accuracy"
+      ],
+      "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "maintenance/magnetism",
+        "physics/amplitude",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 343,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/physics/positions-and-rate/",
+      "type": "page",
+      "date": "2026-09-28",
+      "id": "physics/positions-and-rate",
+      "title": "Positions and Rate",
+      "inbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/08-putting-it-together",
+        "complications/tourbillon",
+        "glossary/glossary",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1983-the-swatch-rescue",
+        "index",
+        "maintenance/servicing",
+        "movements/rolex-3135",
+        "physics/amplitude",
+        "physics/isochronism",
+        "physics/the-balance-spring",
+        "start-here/read-me-first",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "tags": [
+        "physics",
+        "accuracy",
+        "balance",
+        "guide"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "maintenance/magnetism",
+        "movements/zenith-el-primero",
+        "physics/isochronism",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 375,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/physics/the-balance-spring/",
+      "type": "page",
+      "date": "2026-09-26",
+      "id": "physics/the-balance-spring",
+      "title": "The Balance Spring",
+      "inbound": [
+        "anatomy/05-the-balance-assembly",
+        "glossary/glossary",
+        "history/1675-the-balance-spring-race",
+        "history/1927-the-quartz-clock",
+        "maintenance/magnetism",
+        "movements/index",
+        "physics/isochronism",
+        "physics/positions-and-rate",
+        "start-here/the-five-minute-watch"
+      ],
+      "categories": [
+        "physics"
+      ],
+      "tags": [
+        "balance-spring",
+        "balance",
+        "physics",
+        "history",
+        "silicon",
+        "timeline"
+      ],
+      "outbound": [
+        "anatomy/05-the-balance-assembly",
+        "maintenance/magnetism",
+        "physics/isochronism",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 480,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/start-here/read-me-first/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "start-here/read-me-first",
+      "title": "Read Me First",
+      "inbound": [
+        "about",
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "anatomy/08-putting-it-together",
+        "history/index",
+        "maintenance/water-resistance"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "tags": [
+        "guide",
+        "series-anatomy"
+      ],
+      "outbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
+        "anatomy/08-putting-it-together",
+        "glossary/glossary",
+        "history/1675-the-balance-spring-race",
+        "history/1761-harrison-and-the-longitude-prize",
+        "history/1850s-the-american-system",
+        "history/1969-the-quartz-crisis",
+        "history/index",
+        "maintenance/magnetism",
+        "maintenance/servicing",
+        "maintenance/water-resistance",
+        "physics/amplitude",
+        "physics/positions-and-rate"
+      ],
+      "word_count": 311,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    },
+    {
+      "author": "Buffy",
+      "url": "/start-here/the-five-minute-watch/",
+      "type": "page",
+      "date": "2026-09-30",
+      "id": "start-here/the-five-minute-watch",
+      "title": "The Five-Minute Watch",
+      "inbound": [
+        "about",
+        "history/1927-the-quartz-clock"
+      ],
+      "categories": [
+        "orientation"
+      ],
+      "tags": [
+        "guide",
+        "gear-train",
+        "escapement",
+        "balance",
+        "mainspring"
+      ],
+      "outbound": [
+        "anatomy/01-the-problem-of-timekeeping",
+        "anatomy/02-the-gear-train",
+        "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/04-the-escapement",
+        "anatomy/05-the-balance-assembly",
+        "anatomy/07-the-motion-works-and-dial",
+        "complications/index",
+        "escapements/co-axial",
+        "escapements/detent",
+        "escapements/swiss-lever",
+        "escapements/swiss-lever/drop-lock-and-lift",
+        "physics/friction-and-lubrication",
+        "physics/positions-and-rate",
+        "physics/the-balance-spring"
+      ],
+      "word_count": 396,
+      "orphan": false,
+      "stub": false,
+      "render": true
+    }
+  ],
+  "edges": [
+    [
+      "about",
+      "complications/tourbillon"
+    ],
+    [
+      "about",
+      "history/1675-the-balance-spring-race"
+    ],
+    [
+      "about",
+      "start-here/read-me-first"
+    ],
+    [
+      "about",
+      "start-here/the-five-minute-watch"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "maintenance/magnetism"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "physics/amplitude"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "physics/isochronism"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "physics/positions-and-rate"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/02-the-gear-train",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "anatomy/02-the-gear-train",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/02-the-gear-train",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "anatomy/02-the-gear-train",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "anatomy/02-the-gear-train",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "complications/power-reserve"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "escapements/detent"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "physics/amplitude"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "escapements/co-axial"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "escapements/detent"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "escapements/swiss-lever"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "physics/frequency"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "escapements/swiss-lever"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "physics/isochronism"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "physics/positions-and-rate"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "physics/the-balance-spring"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "maintenance/water-resistance"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "anatomy/08-putting-it-together"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "escapements/co-axial"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "history/index"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "maintenance/water-resistance"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "physics/amplitude"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "physics/isochronism"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "physics/positions-and-rate"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "start-here/read-me-first"
+    ],
+    [
+      "complications/chronograph",
+      "movements/valjoux-7750"
+    ],
+    [
+      "complications/chronograph",
+      "movements/zenith-el-primero"
+    ],
+    [
+      "complications/chronograph",
+      "physics/frequency"
+    ],
+    [
+      "complications/gmt-and-world-time",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "complications/gmt-and-world-time",
+      "complications/index"
+    ],
+    [
+      "complications/gmt-and-world-time",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "complications/index",
+      "complications/chronograph"
+    ],
+    [
+      "complications/index",
+      "complications/gmt-and-world-time"
+    ],
+    [
+      "complications/index",
+      "complications/minute-repeater"
+    ],
+    [
+      "complications/index",
+      "complications/moonphase"
+    ],
+    [
+      "complications/index",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "complications/index",
+      "complications/power-reserve"
+    ],
+    [
+      "complications/index",
+      "complications/tourbillon"
+    ],
+    [
+      "complications/minute-repeater",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "complications/minute-repeater",
+      "complications/tourbillon"
+    ],
+    [
+      "complications/moonphase",
+      "complications/index"
+    ],
+    [
+      "complications/moonphase",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "complications/perpetual-calendar",
+      "complications/chronograph"
+    ],
+    [
+      "complications/perpetual-calendar",
+      "complications/index"
+    ],
+    [
+      "complications/perpetual-calendar",
+      "complications/minute-repeater"
+    ],
+    [
+      "complications/perpetual-calendar",
+      "complications/tourbillon"
+    ],
+    [
+      "complications/power-reserve",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "complications/power-reserve",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "complications/power-reserve",
+      "complications/index"
+    ],
+    [
+      "complications/power-reserve",
+      "physics/amplitude"
+    ],
+    [
+      "complications/power-reserve",
+      "physics/isochronism"
+    ],
+    [
+      "complications/tourbillon",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "complications/tourbillon",
+      "escapements/swiss-lever"
+    ],
+    [
+      "complications/tourbillon",
+      "physics/amplitude"
+    ],
+    [
+      "complications/tourbillon",
+      "physics/positions-and-rate"
+    ],
+    [
+      "escapements/co-axial",
+      "escapements/detent"
+    ],
+    [
+      "escapements/co-axial",
+      "escapements/swiss-lever"
+    ],
+    [
+      "escapements/co-axial",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "escapements/compared",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "escapements/compared",
+      "escapements/co-axial"
+    ],
+    [
+      "escapements/compared",
+      "escapements/detent"
+    ],
+    [
+      "escapements/compared",
+      "escapements/swiss-lever"
+    ],
+    [
+      "escapements/compared",
+      "escapements/verge-and-foliot"
+    ],
+    [
+      "escapements/compared",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "escapements/compared",
+      "physics/isochronism"
+    ],
+    [
+      "escapements/cylinder-and-duplex",
+      "escapements/co-axial"
+    ],
+    [
+      "escapements/cylinder-and-duplex",
+      "escapements/detent"
+    ],
+    [
+      "escapements/cylinder-and-duplex",
+      "escapements/swiss-lever"
+    ],
+    [
+      "escapements/cylinder-and-duplex",
+      "escapements/verge-and-foliot"
+    ],
+    [
+      "escapements/cylinder-and-duplex",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "escapements/detent",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "escapements/detent",
+      "escapements/co-axial"
+    ],
+    [
+      "escapements/detent",
+      "escapements/compared"
+    ],
+    [
+      "escapements/index",
+      "escapements/co-axial"
+    ],
+    [
+      "escapements/index",
+      "escapements/compared"
+    ],
+    [
+      "escapements/index",
+      "escapements/cylinder-and-duplex"
+    ],
+    [
+      "escapements/index",
+      "escapements/detent"
+    ],
+    [
+      "escapements/index",
+      "escapements/swiss-lever"
+    ],
+    [
+      "escapements/index",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "escapements/index",
+      "escapements/verge-and-foliot"
+    ],
+    [
+      "escapements/swiss-lever",
+      "escapements/co-axial"
+    ],
+    [
+      "escapements/swiss-lever",
+      "escapements/detent"
+    ],
+    [
+      "escapements/swiss-lever",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "escapements/swiss-lever",
+      "physics/amplitude"
+    ],
+    [
+      "escapements/swiss-lever/drop-lock-and-lift",
+      "escapements/swiss-lever"
+    ],
+    [
+      "escapements/swiss-lever/drop-lock-and-lift",
+      "physics/amplitude"
+    ],
+    [
+      "escapements/swiss-lever/drop-lock-and-lift",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "escapements/verge-and-foliot",
+      "escapements/cylinder-and-duplex"
+    ],
+    [
+      "escapements/verge-and-foliot",
+      "escapements/swiss-lever"
+    ],
+    [
+      "escapements/verge-and-foliot",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "escapements/verge-and-foliot",
+      "physics/isochronism"
+    ],
+    [
+      "glossary/glossary",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "glossary/glossary",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "glossary/glossary",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "glossary/glossary",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "glossary/glossary",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "glossary/glossary",
+      "complications/chronograph"
+    ],
+    [
+      "glossary/glossary",
+      "complications/index"
+    ],
+    [
+      "glossary/glossary",
+      "complications/minute-repeater"
+    ],
+    [
+      "glossary/glossary",
+      "complications/moonphase"
+    ],
+    [
+      "glossary/glossary",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "glossary/glossary",
+      "complications/power-reserve"
+    ],
+    [
+      "glossary/glossary",
+      "complications/tourbillon"
+    ],
+    [
+      "glossary/glossary",
+      "escapements/detent"
+    ],
+    [
+      "glossary/glossary",
+      "escapements/swiss-lever"
+    ],
+    [
+      "glossary/glossary",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "glossary/glossary",
+      "movements/index"
+    ],
+    [
+      "glossary/glossary",
+      "physics/amplitude"
+    ],
+    [
+      "glossary/glossary",
+      "physics/frequency"
+    ],
+    [
+      "glossary/glossary",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "glossary/glossary",
+      "physics/isochronism"
+    ],
+    [
+      "glossary/glossary",
+      "physics/positions-and-rate"
+    ],
+    [
+      "glossary/glossary",
+      "physics/the-balance-spring"
+    ],
+    [
+      "history/1656-huygens-and-the-pendulum",
+      "escapements/verge-and-foliot"
+    ],
+    [
+      "history/1656-huygens-and-the-pendulum",
+      "history/1675-the-balance-spring-race"
+    ],
+    [
+      "history/1656-huygens-and-the-pendulum",
+      "history/1761-harrison-and-the-longitude-prize"
+    ],
+    [
+      "history/1656-huygens-and-the-pendulum",
+      "physics/isochronism"
+    ],
+    [
+      "history/1675-the-balance-spring-race",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "history/1675-the-balance-spring-race",
+      "history/1761-harrison-and-the-longitude-prize"
+    ],
+    [
+      "history/1675-the-balance-spring-race",
+      "history/1770-mudge-and-the-lever"
+    ],
+    [
+      "history/1675-the-balance-spring-race",
+      "history/1850s-the-american-system"
+    ],
+    [
+      "history/1675-the-balance-spring-race",
+      "physics/isochronism"
+    ],
+    [
+      "history/1675-the-balance-spring-race",
+      "physics/the-balance-spring"
+    ],
+    [
+      "history/1761-harrison-and-the-longitude-prize",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "history/1761-harrison-and-the-longitude-prize",
+      "escapements/detent"
+    ],
+    [
+      "history/1761-harrison-and-the-longitude-prize",
+      "history/1675-the-balance-spring-race"
+    ],
+    [
+      "history/1761-harrison-and-the-longitude-prize",
+      "history/1770-mudge-and-the-lever"
+    ],
+    [
+      "history/1761-harrison-and-the-longitude-prize",
+      "physics/isochronism"
+    ],
+    [
+      "history/1761-harrison-and-the-longitude-prize",
+      "physics/positions-and-rate"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "escapements/co-axial"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "escapements/cylinder-and-duplex"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "escapements/swiss-lever"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "escapements/verge-and-foliot"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "history/1675-the-balance-spring-race"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "history/1761-harrison-and-the-longitude-prize"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "history/1850s-the-american-system"
+    ],
+    [
+      "history/1770-mudge-and-the-lever",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "history/1850s-the-american-system",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "history/1850s-the-american-system",
+      "escapements/swiss-lever"
+    ],
+    [
+      "history/1850s-the-american-system",
+      "history/1770-mudge-and-the-lever"
+    ],
+    [
+      "history/1850s-the-american-system",
+      "history/1927-the-quartz-clock"
+    ],
+    [
+      "history/1850s-the-american-system",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "history/1850s-the-american-system",
+      "maintenance/servicing"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "complications/tourbillon"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "history/1850s-the-american-system"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "physics/frequency"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "physics/the-balance-spring"
+    ],
+    [
+      "history/1927-the-quartz-clock",
+      "start-here/the-five-minute-watch"
+    ],
+    [
+      "history/1969-the-quartz-crisis",
+      "complications/index"
+    ],
+    [
+      "history/1969-the-quartz-crisis",
+      "escapements/co-axial"
+    ],
+    [
+      "history/1969-the-quartz-crisis",
+      "history/1927-the-quartz-clock"
+    ],
+    [
+      "history/1969-the-quartz-crisis",
+      "history/1983-the-swatch-rescue"
+    ],
+    [
+      "history/1969-the-quartz-crisis",
+      "movements/index"
+    ],
+    [
+      "history/1969-the-quartz-crisis",
+      "movements/zenith-el-primero"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "complications/tourbillon"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "escapements/co-axial"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/1761-harrison-and-the-longitude-prize"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/1770-mudge-and-the-lever"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/1850s-the-american-system"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/1927-the-quartz-clock"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "history/index"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "movements/index"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "movements/zenith-el-primero"
+    ],
+    [
+      "history/1983-the-swatch-rescue",
+      "physics/positions-and-rate"
+    ],
+    [
+      "history/index",
+      "complications/tourbillon"
+    ],
+    [
+      "history/index",
+      "escapements/index"
+    ],
+    [
+      "history/index",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "history/index",
+      "history/1675-the-balance-spring-race"
+    ],
+    [
+      "history/index",
+      "history/1761-harrison-and-the-longitude-prize"
+    ],
+    [
+      "history/index",
+      "history/1770-mudge-and-the-lever"
+    ],
+    [
+      "history/index",
+      "history/1850s-the-american-system"
+    ],
+    [
+      "history/index",
+      "history/1927-the-quartz-clock"
+    ],
+    [
+      "history/index",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "history/index",
+      "history/1983-the-swatch-rescue"
+    ],
+    [
+      "history/index",
+      "physics/frequency"
+    ],
+    [
+      "history/index",
+      "start-here/read-me-first"
+    ],
+    [
+      "index",
+      "about"
+    ],
+    [
+      "index",
+      "anatomy/01-the-problem-of-timekeeping"
+    ],
+    [
+      "index",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "index",
+      "anatomy/08-putting-it-together"
+    ],
+    [
+      "index",
+      "complications/chronograph"
+    ],
+    [
+      "index",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "index",
+      "escapements/swiss-lever"
+    ],
+    [
+      "index",
+      "glossary/glossary"
+    ],
+    [
+      "index",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "index",
+      "history/index"
+    ],
+    [
+      "index",
+      "maintenance/servicing"
+    ],
+    [
+      "index",
+      "physics/amplitude"
+    ],
+    [
+      "index",
+      "physics/positions-and-rate"
+    ],
+    [
+      "maintenance/magnetism",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "maintenance/magnetism",
+      "maintenance/servicing"
+    ],
+    [
+      "maintenance/magnetism",
+      "movements/index"
+    ],
+    [
+      "maintenance/magnetism",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "maintenance/magnetism",
+      "physics/the-balance-spring"
+    ],
+    [
+      "maintenance/servicing",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "maintenance/servicing",
+      "anatomy/08-putting-it-together"
+    ],
+    [
+      "maintenance/servicing",
+      "complications/chronograph"
+    ],
+    [
+      "maintenance/servicing",
+      "complications/minute-repeater"
+    ],
+    [
+      "maintenance/servicing",
+      "maintenance/water-resistance"
+    ],
+    [
+      "maintenance/servicing",
+      "physics/amplitude"
+    ],
+    [
+      "maintenance/servicing",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "maintenance/servicing",
+      "physics/positions-and-rate"
+    ],
+    [
+      "maintenance/water-resistance",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "maintenance/water-resistance",
+      "maintenance/servicing"
+    ],
+    [
+      "maintenance/water-resistance",
+      "start-here/read-me-first"
+    ],
+    [
+      "movements/index",
+      "escapements/co-axial"
+    ],
+    [
+      "movements/index",
+      "escapements/swiss-lever"
+    ],
+    [
+      "movements/index",
+      "movements/omega-321"
+    ],
+    [
+      "movements/index",
+      "movements/patek-calibre-89"
+    ],
+    [
+      "movements/index",
+      "movements/rolex-3135"
+    ],
+    [
+      "movements/index",
+      "movements/valjoux-7750"
+    ],
+    [
+      "movements/index",
+      "movements/zenith-el-primero"
+    ],
+    [
+      "movements/index",
+      "physics/frequency"
+    ],
+    [
+      "movements/index",
+      "physics/the-balance-spring"
+    ],
+    [
+      "movements/omega-321",
+      "complications/chronograph"
+    ],
+    [
+      "movements/omega-321",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "complications/index"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "complications/minute-repeater"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "complications/moonphase"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "complications/perpetual-calendar"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "complications/tourbillon"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "movements/patek-calibre-89",
+      "movements/index"
+    ],
+    [
+      "movements/rolex-3135",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "movements/rolex-3135",
+      "complications/chronograph"
+    ],
+    [
+      "movements/rolex-3135",
+      "complications/tourbillon"
+    ],
+    [
+      "movements/rolex-3135",
+      "escapements/co-axial"
+    ],
+    [
+      "movements/rolex-3135",
+      "escapements/compared"
+    ],
+    [
+      "movements/rolex-3135",
+      "escapements/swiss-lever"
+    ],
+    [
+      "movements/rolex-3135",
+      "physics/positions-and-rate"
+    ],
+    [
+      "movements/valjoux-7750",
+      "complications/chronograph"
+    ],
+    [
+      "movements/valjoux-7750",
+      "escapements/compared"
+    ],
+    [
+      "movements/valjoux-7750",
+      "movements/zenith-el-primero"
+    ],
+    [
+      "movements/zenith-el-primero",
+      "complications/chronograph"
+    ],
+    [
+      "movements/zenith-el-primero",
+      "movements/omega-321"
+    ],
+    [
+      "movements/zenith-el-primero",
+      "physics/frequency"
+    ],
+    [
+      "physics/amplitude",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "physics/amplitude",
+      "escapements/swiss-lever"
+    ],
+    [
+      "physics/amplitude",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "physics/amplitude",
+      "maintenance/magnetism"
+    ],
+    [
+      "physics/amplitude",
+      "physics/positions-and-rate"
+    ],
+    [
+      "physics/frequency",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "physics/frequency",
+      "complications/chronograph"
+    ],
+    [
+      "physics/frequency",
+      "escapements/swiss-lever"
+    ],
+    [
+      "physics/frequency",
+      "history/1656-huygens-and-the-pendulum"
+    ],
+    [
+      "physics/frequency",
+      "movements/valjoux-7750"
+    ],
+    [
+      "physics/frequency",
+      "physics/amplitude"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "escapements/co-axial"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "escapements/compared"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "escapements/swiss-lever"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "maintenance/magnetism"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "physics/amplitude"
+    ],
+    [
+      "physics/friction-and-lubrication",
+      "physics/isochronism"
+    ],
+    [
+      "physics/isochronism",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "physics/isochronism",
+      "escapements/co-axial"
+    ],
+    [
+      "physics/isochronism",
+      "escapements/detent"
+    ],
+    [
+      "physics/isochronism",
+      "escapements/swiss-lever"
+    ],
+    [
+      "physics/isochronism",
+      "maintenance/magnetism"
+    ],
+    [
+      "physics/isochronism",
+      "physics/amplitude"
+    ],
+    [
+      "physics/isochronism",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "physics/isochronism",
+      "physics/positions-and-rate"
+    ],
+    [
+      "physics/isochronism",
+      "physics/the-balance-spring"
+    ],
+    [
+      "physics/positions-and-rate",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "physics/positions-and-rate",
+      "maintenance/magnetism"
+    ],
+    [
+      "physics/positions-and-rate",
+      "movements/zenith-el-primero"
+    ],
+    [
+      "physics/positions-and-rate",
+      "physics/isochronism"
+    ],
+    [
+      "physics/positions-and-rate",
+      "physics/the-balance-spring"
+    ],
+    [
+      "physics/the-balance-spring",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "physics/the-balance-spring",
+      "maintenance/magnetism"
+    ],
+    [
+      "physics/the-balance-spring",
+      "physics/isochronism"
+    ],
+    [
+      "physics/the-balance-spring",
+      "physics/positions-and-rate"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/01-the-problem-of-timekeeping"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/08-putting-it-together"
+    ],
+    [
+      "start-here/read-me-first",
+      "glossary/glossary"
+    ],
+    [
+      "start-here/read-me-first",
+      "history/1675-the-balance-spring-race"
+    ],
+    [
+      "start-here/read-me-first",
+      "history/1761-harrison-and-the-longitude-prize"
+    ],
+    [
+      "start-here/read-me-first",
+      "history/1850s-the-american-system"
+    ],
+    [
+      "start-here/read-me-first",
+      "history/1969-the-quartz-crisis"
+    ],
+    [
+      "start-here/read-me-first",
+      "history/index"
+    ],
+    [
+      "start-here/read-me-first",
+      "maintenance/magnetism"
+    ],
+    [
+      "start-here/read-me-first",
+      "maintenance/servicing"
+    ],
+    [
+      "start-here/read-me-first",
+      "maintenance/water-resistance"
+    ],
+    [
+      "start-here/read-me-first",
+      "physics/amplitude"
+    ],
+    [
+      "start-here/read-me-first",
+      "physics/positions-and-rate"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "anatomy/01-the-problem-of-timekeeping"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "anatomy/02-the-gear-train"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "complications/index"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "escapements/co-axial"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "escapements/detent"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "escapements/swiss-lever"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "physics/friction-and-lubrication"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "physics/positions-and-rate"
+    ],
+    [
+      "start-here/the-five-minute-watch",
+      "physics/the-balance-spring"
+    ]
+  ],
+  "large_site_threshold": 500
+}

@@ -1,0 +1,12 @@
+{{define "search_modal"}}
+<!-- Standalone search component, styled by /assets/css/search.css -->
+<div class="lf-search">
+    <form action="#" method="get" onsubmit="event.preventDefault();">
+        <label for="site-search" class="sr-only">Search site</label>
+        <input type="search" id="site-search" placeholder="Type / to search..."
+               class="lf-search-input"
+               autocomplete="off" aria-autocomplete="list" aria-controls="search-results-list" />
+    </form>
+    <ul id="search-results-list" role="listbox" aria-label="Search results" class="hidden"></ul>
+</div>
+{{end}}

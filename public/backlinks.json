@@ -1,0 +1,528 @@
+{
+  "about": [
+    "index"
+  ],
+  "anatomy/01-the-problem-of-timekeeping": [
+    "index",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch"
+  ],
+  "anatomy/02-the-gear-train": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/06-the-keyless-works",
+    "anatomy/07-the-motion-works-and-dial",
+    "anatomy/07-the-motion-works-and-dial",
+    "anatomy/07-the-motion-works-and-dial",
+    "complications/minute-repeater",
+    "complications/power-reserve",
+    "glossary/glossary",
+    "history/1850s-the-american-system",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch"
+  ],
+  "anatomy/03-the-mainspring-and-barrel": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/02-the-gear-train",
+    "anatomy/02-the-gear-train",
+    "anatomy/06-the-keyless-works",
+    "anatomy/06-the-keyless-works",
+    "anatomy/08-putting-it-together",
+    "complications/power-reserve",
+    "complications/power-reserve",
+    "complications/power-reserve",
+    "escapements/compared",
+    "escapements/detent",
+    "glossary/glossary",
+    "glossary/glossary",
+    "glossary/glossary",
+    "glossary/glossary",
+    "glossary/glossary",
+    "history/1761-harrison-and-the-longitude-prize",
+    "history/1761-harrison-and-the-longitude-prize",
+    "physics/isochronism",
+    "physics/isochronism",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch",
+    "start-here/the-five-minute-watch",
+    "start-here/the-five-minute-watch"
+  ],
+  "anatomy/04-the-escapement": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/02-the-gear-train",
+    "anatomy/02-the-gear-train",
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/07-the-motion-works-and-dial",
+    "anatomy/08-putting-it-together",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch"
+  ],
+  "anatomy/05-the-balance-assembly": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/04-the-escapement",
+    "anatomy/08-putting-it-together",
+    "complications/tourbillon",
+    "glossary/glossary",
+    "index",
+    "maintenance/magnetism",
+    "movements/rolex-3135",
+    "physics/amplitude",
+    "physics/frequency",
+    "physics/friction-and-lubrication",
+    "physics/positions-and-rate",
+    "physics/the-balance-spring",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch"
+  ],
+  "anatomy/06-the-keyless-works": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/07-the-motion-works-and-dial",
+    "anatomy/08-putting-it-together",
+    "glossary/glossary",
+    "maintenance/servicing",
+    "maintenance/water-resistance",
+    "start-here/read-me-first"
+  ],
+  "anatomy/07-the-motion-works-and-dial": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/02-the-gear-train",
+    "anatomy/06-the-keyless-works",
+    "anatomy/06-the-keyless-works",
+    "complications/gmt-and-world-time",
+    "glossary/glossary",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch"
+  ],
+  "anatomy/08-putting-it-together": [
+    "anatomy/07-the-motion-works-and-dial",
+    "index",
+    "maintenance/servicing",
+    "start-here/read-me-first"
+  ],
+  "complications/chronograph": [
+    "complications/index",
+    "complications/perpetual-calendar",
+    "glossary/glossary",
+    "glossary/glossary",
+    "index",
+    "maintenance/servicing",
+    "movements/omega-321",
+    "movements/omega-321",
+    "movements/rolex-3135",
+    "movements/valjoux-7750",
+    "movements/valjoux-7750",
+    "movements/valjoux-7750",
+    "movements/valjoux-7750",
+    "movements/zenith-el-primero",
+    "physics/frequency"
+  ],
+  "complications/gmt-and-world-time": [
+    "complications/index"
+  ],
+  "complications/index": [
+    "complications/gmt-and-world-time",
+    "complications/gmt-and-world-time",
+    "complications/moonphase",
+    "complications/perpetual-calendar",
+    "complications/power-reserve",
+    "glossary/glossary",
+    "history/1969-the-quartz-crisis",
+    "movements/patek-calibre-89",
+    "start-here/the-five-minute-watch"
+  ],
+  "complications/minute-repeater": [
+    "complications/index",
+    "complications/perpetual-calendar",
+    "glossary/glossary",
+    "maintenance/servicing",
+    "movements/patek-calibre-89"
+  ],
+  "complications/moonphase": [
+    "complications/index",
+    "glossary/glossary",
+    "movements/patek-calibre-89"
+  ],
+  "complications/perpetual-calendar": [
+    "anatomy/06-the-keyless-works",
+    "complications/gmt-and-world-time",
+    "complications/index",
+    "complications/moonphase",
+    "glossary/glossary",
+    "index",
+    "movements/patek-calibre-89"
+  ],
+  "complications/power-reserve": [
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/03-the-mainspring-and-barrel",
+    "complications/index",
+    "glossary/glossary"
+  ],
+  "complications/tourbillon": [
+    "about",
+    "complications/index",
+    "complications/minute-repeater",
+    "complications/perpetual-calendar",
+    "glossary/glossary",
+    "history/1927-the-quartz-clock",
+    "history/1983-the-swatch-rescue",
+    "history/1983-the-swatch-rescue",
+    "history/index",
+    "movements/patek-calibre-89",
+    "movements/patek-calibre-89",
+    "movements/rolex-3135"
+  ],
+  "escapements/co-axial": [
+    "anatomy/04-the-escapement",
+    "anatomy/08-putting-it-together",
+    "escapements/compared",
+    "escapements/cylinder-and-duplex",
+    "escapements/detent",
+    "escapements/index",
+    "escapements/index",
+    "escapements/swiss-lever",
+    "history/1770-mudge-and-the-lever",
+    "history/1969-the-quartz-crisis",
+    "history/1983-the-swatch-rescue",
+    "movements/index",
+    "movements/rolex-3135",
+    "physics/friction-and-lubrication",
+    "physics/isochronism",
+    "start-here/the-five-minute-watch"
+  ],
+  "escapements/compared": [
+    "escapements/detent",
+    "escapements/index",
+    "escapements/index",
+    "movements/rolex-3135",
+    "movements/valjoux-7750",
+    "physics/friction-and-lubrication"
+  ],
+  "escapements/cylinder-and-duplex": [
+    "escapements/index",
+    "escapements/verge-and-foliot",
+    "history/1770-mudge-and-the-lever"
+  ],
+  "escapements/detent": [
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/04-the-escapement",
+    "escapements/co-axial",
+    "escapements/compared",
+    "escapements/cylinder-and-duplex",
+    "escapements/index",
+    "escapements/index",
+    "escapements/swiss-lever",
+    "escapements/swiss-lever",
+    "glossary/glossary",
+    "history/1761-harrison-and-the-longitude-prize",
+    "physics/isochronism",
+    "start-here/the-five-minute-watch"
+  ],
+  "escapements/index": [
+    "history/index"
+  ],
+  "escapements/swiss-lever": [
+    "anatomy/04-the-escapement",
+    "anatomy/05-the-balance-assembly",
+    "complications/tourbillon",
+    "escapements/co-axial",
+    "escapements/compared",
+    "escapements/cylinder-and-duplex",
+    "escapements/cylinder-and-duplex",
+    "escapements/index",
+    "escapements/index",
+    "escapements/swiss-lever/drop-lock-and-lift",
+    "escapements/swiss-lever/drop-lock-and-lift",
+    "escapements/verge-and-foliot",
+    "glossary/glossary",
+    "glossary/glossary",
+    "history/1770-mudge-and-the-lever",
+    "history/1850s-the-american-system",
+    "index",
+    "movements/index",
+    "movements/rolex-3135",
+    "physics/amplitude",
+    "physics/amplitude",
+    "physics/frequency",
+    "physics/friction-and-lubrication",
+    "physics/isochronism",
+    "start-here/the-five-minute-watch"
+  ],
+  "escapements/swiss-lever/drop-lock-and-lift": [
+    "anatomy/04-the-escapement",
+    "anatomy/04-the-escapement",
+    "anatomy/08-putting-it-together",
+    "anatomy/08-putting-it-together",
+    "escapements/co-axial",
+    "escapements/index",
+    "escapements/swiss-lever",
+    "escapements/swiss-lever",
+    "glossary/glossary",
+    "glossary/glossary",
+    "glossary/glossary",
+    "history/1770-mudge-and-the-lever",
+    "physics/amplitude",
+    "physics/friction-and-lubrication",
+    "start-here/the-five-minute-watch"
+  ],
+  "escapements/verge-and-foliot": [
+    "escapements/compared",
+    "escapements/cylinder-and-duplex",
+    "escapements/index",
+    "escapements/index",
+    "history/1656-huygens-and-the-pendulum",
+    "history/1770-mudge-and-the-lever"
+  ],
+  "glossary/glossary": [
+    "index",
+    "start-here/read-me-first"
+  ],
+  "history/1656-huygens-and-the-pendulum": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "escapements/verge-and-foliot",
+    "history/1675-the-balance-spring-race",
+    "history/1927-the-quartz-clock",
+    "history/1983-the-swatch-rescue",
+    "history/index",
+    "physics/frequency"
+  ],
+  "history/1675-the-balance-spring-race": [
+    "about",
+    "history/1656-huygens-and-the-pendulum",
+    "history/1656-huygens-and-the-pendulum",
+    "history/1761-harrison-and-the-longitude-prize",
+    "history/1770-mudge-and-the-lever",
+    "history/index",
+    "start-here/read-me-first"
+  ],
+  "history/1761-harrison-and-the-longitude-prize": [
+    "history/1656-huygens-and-the-pendulum",
+    "history/1675-the-balance-spring-race",
+    "history/1770-mudge-and-the-lever",
+    "history/1770-mudge-and-the-lever",
+    "history/1983-the-swatch-rescue",
+    "history/index",
+    "start-here/read-me-first"
+  ],
+  "history/1770-mudge-and-the-lever": [
+    "history/1675-the-balance-spring-race",
+    "history/1761-harrison-and-the-longitude-prize",
+    "history/1761-harrison-and-the-longitude-prize",
+    "history/1761-harrison-and-the-longitude-prize",
+    "history/1850s-the-american-system",
+    "history/1983-the-swatch-rescue",
+    "history/index"
+  ],
+  "history/1850s-the-american-system": [
+    "history/1675-the-balance-spring-race",
+    "history/1770-mudge-and-the-lever",
+    "history/1770-mudge-and-the-lever",
+    "history/1927-the-quartz-clock",
+    "history/1983-the-swatch-rescue",
+    "history/index",
+    "start-here/read-me-first"
+  ],
+  "history/1927-the-quartz-clock": [
+    "history/1850s-the-american-system",
+    "history/1969-the-quartz-crisis",
+    "history/1983-the-swatch-rescue",
+    "history/index"
+  ],
+  "history/1969-the-quartz-crisis": [
+    "history/1770-mudge-and-the-lever",
+    "history/1850s-the-american-system",
+    "history/1927-the-quartz-clock",
+    "history/1927-the-quartz-clock",
+    "history/1983-the-swatch-rescue",
+    "history/index",
+    "index",
+    "movements/omega-321",
+    "movements/patek-calibre-89",
+    "start-here/read-me-first"
+  ],
+  "history/1983-the-swatch-rescue": [
+    "history/1969-the-quartz-crisis",
+    "history/1969-the-quartz-crisis",
+    "history/index"
+  ],
+  "history/index": [
+    "anatomy/08-putting-it-together",
+    "history/1983-the-swatch-rescue",
+    "index",
+    "start-here/read-me-first"
+  ],
+  "maintenance/magnetism": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "physics/amplitude",
+    "physics/friction-and-lubrication",
+    "physics/isochronism",
+    "physics/positions-and-rate",
+    "physics/the-balance-spring",
+    "start-here/read-me-first"
+  ],
+  "maintenance/servicing": [
+    "history/1850s-the-american-system",
+    "index",
+    "maintenance/magnetism",
+    "maintenance/water-resistance",
+    "start-here/read-me-first"
+  ],
+  "maintenance/water-resistance": [
+    "anatomy/06-the-keyless-works",
+    "anatomy/08-putting-it-together",
+    "maintenance/servicing",
+    "start-here/read-me-first"
+  ],
+  "movements/index": [
+    "glossary/glossary",
+    "history/1969-the-quartz-crisis",
+    "history/1983-the-swatch-rescue",
+    "maintenance/magnetism",
+    "movements/patek-calibre-89"
+  ],
+  "movements/omega-321": [
+    "movements/index",
+    "movements/zenith-el-primero"
+  ],
+  "movements/patek-calibre-89": [
+    "movements/index"
+  ],
+  "movements/rolex-3135": [
+    "movements/index",
+    "movements/index"
+  ],
+  "movements/valjoux-7750": [
+    "complications/chronograph",
+    "movements/index",
+    "movements/index",
+    "physics/frequency"
+  ],
+  "movements/zenith-el-primero": [
+    "complications/chronograph",
+    "history/1969-the-quartz-crisis",
+    "history/1969-the-quartz-crisis",
+    "history/1983-the-swatch-rescue",
+    "movements/index",
+    "movements/index",
+    "movements/valjoux-7750",
+    "physics/positions-and-rate"
+  ],
+  "physics/amplitude": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/08-putting-it-together",
+    "complications/power-reserve",
+    "complications/tourbillon",
+    "escapements/swiss-lever",
+    "escapements/swiss-lever/drop-lock-and-lift",
+    "glossary/glossary",
+    "index",
+    "maintenance/servicing",
+    "maintenance/servicing",
+    "maintenance/servicing",
+    "physics/frequency",
+    "physics/friction-and-lubrication",
+    "physics/isochronism",
+    "start-here/read-me-first"
+  ],
+  "physics/frequency": [
+    "anatomy/04-the-escapement",
+    "complications/chronograph",
+    "glossary/glossary",
+    "glossary/glossary",
+    "glossary/glossary",
+    "history/1927-the-quartz-clock",
+    "history/index",
+    "movements/index",
+    "movements/zenith-el-primero",
+    "movements/zenith-el-primero"
+  ],
+  "physics/friction-and-lubrication": [
+    "anatomy/02-the-gear-train",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/08-putting-it-together",
+    "escapements/compared",
+    "escapements/cylinder-and-duplex",
+    "escapements/swiss-lever/drop-lock-and-lift",
+    "glossary/glossary",
+    "glossary/glossary",
+    "glossary/glossary",
+    "maintenance/magnetism",
+    "maintenance/servicing",
+    "physics/isochronism",
+    "start-here/the-five-minute-watch"
+  ],
+  "physics/isochronism": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/08-putting-it-together",
+    "complications/power-reserve",
+    "escapements/compared",
+    "escapements/verge-and-foliot",
+    "glossary/glossary",
+    "history/1656-huygens-and-the-pendulum",
+    "history/1675-the-balance-spring-race",
+    "history/1761-harrison-and-the-longitude-prize",
+    "physics/friction-and-lubrication",
+    "physics/positions-and-rate",
+    "physics/the-balance-spring"
+  ],
+  "physics/positions-and-rate": [
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/08-putting-it-together",
+    "complications/tourbillon",
+    "complications/tourbillon",
+    "glossary/glossary",
+    "glossary/glossary",
+    "history/1761-harrison-and-the-longitude-prize",
+    "history/1983-the-swatch-rescue",
+    "index",
+    "maintenance/servicing",
+    "movements/rolex-3135",
+    "physics/amplitude",
+    "physics/amplitude",
+    "physics/isochronism",
+    "physics/isochronism",
+    "physics/the-balance-spring",
+    "start-here/read-me-first",
+    "start-here/the-five-minute-watch"
+  ],
+  "physics/the-balance-spring": [
+    "anatomy/05-the-balance-assembly",
+    "glossary/glossary",
+    "history/1675-the-balance-spring-race",
+    "history/1675-the-balance-spring-race",
+    "history/1675-the-balance-spring-race",
+    "history/1927-the-quartz-clock",
+    "maintenance/magnetism",
+    "maintenance/magnetism",
+    "movements/index",
+    "physics/isochronism",
+    "physics/isochronism",
+    "physics/positions-and-rate",
+    "physics/positions-and-rate",
+    "start-here/the-five-minute-watch"
+  ],
+  "start-here/read-me-first": [
+    "about",
+    "anatomy/01-the-problem-of-timekeeping",
+    "anatomy/02-the-gear-train",
+    "anatomy/03-the-mainspring-and-barrel",
+    "anatomy/04-the-escapement",
+    "anatomy/05-the-balance-assembly",
+    "anatomy/06-the-keyless-works",
+    "anatomy/07-the-motion-works-and-dial",
+    "anatomy/08-putting-it-together",
+    "history/index",
+    "maintenance/water-resistance"
+  ],
+  "start-here/the-five-minute-watch": [
+    "about",
+    "history/1927-the-quartz-clock"
+  ]
+}

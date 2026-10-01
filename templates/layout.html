@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="{{.Site.Theme}}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{if .Site.SiteName}}{{.Title}} - {{.Site.SiteName}}{{else}}{{.Title}}{{end}}</title>
+    <meta name="description" content="{{.Description}}">
+    <meta property="og:title" content="{{.Title}}">
+    <meta property="og:description" content="{{.Description}}">
+    <meta property="og:image" content="{{.Image}}">
+    <meta property="og:type" content="website">
+    {{if .CanonicalURL}}<link rel="canonical" href="{{.CanonicalURL}}">
+    <meta property="og:url" content="{{.CanonicalURL}}">{{end}}
+    <!-- Local-first stylesheets: no CDN, no framework, works offline. -->
+    <link rel="stylesheet" href="/assets/css/theme-foundations.css">
+    <link rel="stylesheet" href="/assets/css/theme.css">
+    <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
+    <header class="navbar">
+        <nav id="site-navigation" aria-label="Main navigation" class="site-nav">
+            <a class="brand" href="/">
+                <img src="/assets/img/mascot-default.jpeg" alt="Mascot" width="32" height="32">
+                <span>{{.Site.SiteName}}</span>
+            </a>
+            {{if .Site.SiteLinks}}
+            <ul class="site-links">
+                {{range .Site.SiteLinks}}<li><a href="{{.URL}}">{{.Label}}</a></li>{{end}}
+            </ul>
+            {{end}}
+            {{ template "search_modal" . }}
+        </nav>
+    </header>
+
+    <main id="main-content" class="page-container">
+        <article class="page-card">
+            <div class="page-head">
+                <h1>{{.Title}}</h1>
+                {{if or .Author .Date}}
+                <p class="page-meta">
+                    {{if .Author}}<span><strong>By</strong> {{.Author}}</span>{{if .Date}} &middot; {{end}}{{end}}
+                    {{if .Date}}<span><strong>Published</strong> {{.Date}}</span>{{end}}
+                </p>
+                {{- end -}}
+            </div>
+
+            <div class="prose">
+                {{.Content}}
+            </div>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <p>Built with La Famille &mdash; static sites in pure Go.</p>
+        </div>
+    </footer>
+
+{{if .ComplianceModal}}
+    <dialog open class="compliance-modal" aria-labelledby="compliance-title">
+        <article>
+            <h2 id="compliance-title">Compliance Required</h2>
+            <p>{{.ComplianceModal}}</p>
+            <form method="dialog">
+                <button class="button button-primary" autofocus>I Reluctantly Agree</button>
+            </form>
+        </article>
+    </dialog>
+{{end}}
+<script src="/assets/js/search.js"></script>
+</body>
+</html>

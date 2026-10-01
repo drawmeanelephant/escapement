@@ -1,0 +1,13 @@
+# La Famille static site build output
+# (public/ is committed in this repo so any static host can serve it directly)
+
+# Build cache
+.la-famille-cache.json
+.la-famille-vectors.json
+
+# Logs
+*.log
+la-famille.log
+
+# Configuration backups
+config.yaml.bak

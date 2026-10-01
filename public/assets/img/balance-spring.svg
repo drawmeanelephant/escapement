@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" font-family="Georgia, 'Times New Roman', serif">
+  <title>The balance assembly seen from above</title>
+
+  <text x="380" y="36" text-anchor="middle" font-size="24" fill="#1f2933" font-style="italic">The balance assembly, from above</text>
+
+  <!-- balance wheel -->
+  <g stroke="#1f2933" stroke-width="4" fill="none">
+    <circle cx="380" cy="260" r="150"/>
+    <circle cx="380" cy="260" r="128"/>
+    <circle cx="380" cy="260" r="18"/>
+    <!-- spokes -->
+    <line x1="380" y1="110" x2="380" y2="242"/>
+    <line x1="380" y1="278" x2="380" y2="410"/>
+    <line x1="230" y1="260" x2="362" y2="260"/>
+    <line x1="398" y1="260" x2="530" y2="260"/>
+    <line x1="274" y1="154" x2="367" y2="247"/>
+    <line x1="393" y1="273" x2="486" y2="366"/>
+    <line x1="274" y1="366" x2="367" y2="273"/>
+    <line x1="393" y1="247" x2="486" y2="154"/>
+  </g>
+
+  <!-- timing screws on rim -->
+  <g fill="#7a4f2b">
+    <circle cx="380" cy="110" r="8"/>
+    <circle cx="380" cy="410" r="8"/>
+    <circle cx="230" cy="260" r="8"/>
+    <circle cx="530" cy="260" r="8"/>
+    <circle cx="274" cy="154" r="8"/>
+    <circle cx="486" cy="366" r="8"/>
+    <circle cx="274" cy="366" r="8"/>
+    <circle cx="486" cy="154" r="8"/>
+  </g>
+
+  <!-- hairspring spiral -->
+  <path d="M380 260
+           C 380 240 400 232 414 244
+           C 432 258 428 288 402 298
+           C 366 312 330 288 330 250
+           C 330 202 382 172 428 190
+           C 482 212 490 286 448 328
+           C 402 372 316 356 292 292
+           C 264 218 320 138 400 132
+           C 492 124 556 208 536 300"
+        fill="none" stroke="#7a4f2b" stroke-width="3"/>
+
+  <!-- stud and index -->
+  <g stroke="#1f2933" stroke-width="3">
+    <line x1="536" y1="300" x2="620" y2="330"/>
+    <rect x="612" y="316" width="26" height="26" rx="4" fill="#1f2933"/>
+    <line x1="560" y1="238" x2="640" y2="238"/>
+    <rect x="628" y="218" width="34" height="40" rx="5" fill="none"/>
+    <path d="M556 224 L572 238 L556 252" fill="none"/>
+  </g>
+
+  <!-- labels -->
+  <g font-size="16" fill="#1f2933">
+    <text x="380" y="452" text-anchor="middle">balance wheel with timing screws</text>
+    <text x="120" y="260">hairspring</text>
+    <text x="120" y="282" font-size="12" fill="#7a4f2b">(balance spring)</text>
+    <text x="608" y="374" text-anchor="middle">stud</text>
+    <text x="645" y="202" text-anchor="middle">regulator</text>
+    <text x="645" y="184" text-anchor="middle" font-size="12" fill="#7a4f2b">curb pins set effective length</text>
+    <text x="380" y="266" text-anchor="middle" font-size="12" fill="#ffffff">collet</text>
+  </g>
+  <path d="M190 252 L318 272" stroke="#7a4f2b" stroke-width="1.5" marker-end="url(#a3)"/>
+  <defs>
+    <marker id="a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#7a4f2b"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,905 @@
+{
+  "about": {
+    "author": "Buffy",
+    "categories": [
+      "orientation"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "colophon",
+      "guide"
+    ],
+    "title": "About \u0026 Colophon",
+    "url": "/about/",
+    "word_count": 298
+  },
+  "anatomy/01-the-problem-of-timekeeping": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-23",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "guide",
+      "escapement",
+      "balance",
+      "physics"
+    ],
+    "title": "Anatomy 1: The Problem of Timekeeping",
+    "url": "/anatomy/01-the-problem-of-timekeeping/",
+    "word_count": 449
+  },
+  "anatomy/02-the-gear-train": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-24",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "gear-train",
+      "mainspring",
+      "escapement"
+    ],
+    "title": "Anatomy 2: The Gear Train",
+    "url": "/anatomy/02-the-gear-train/",
+    "word_count": 474
+  },
+  "anatomy/03-the-mainspring-and-barrel": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-25",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "mainspring",
+      "gear-train",
+      "power-reserve",
+      "physics"
+    ],
+    "title": "Anatomy 3: The Mainspring and Barrel",
+    "url": "/anatomy/03-the-mainspring-and-barrel/",
+    "word_count": 417
+  },
+  "anatomy/04-the-escapement": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-26",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "escapement",
+      "balance",
+      "physics"
+    ],
+    "title": "Anatomy 4: The Escapement",
+    "url": "/anatomy/04-the-escapement/",
+    "word_count": 444
+  },
+  "anatomy/05-the-balance-assembly": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-27",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "balance",
+      "balance-spring",
+      "physics",
+      "shock-protection"
+    ],
+    "title": "Anatomy 5: The Balance Assembly",
+    "url": "/anatomy/05-the-balance-assembly/",
+    "word_count": 475
+  },
+  "anatomy/06-the-keyless-works": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "keyless-works",
+      "gear-train",
+      "mainspring"
+    ],
+    "title": "Anatomy 6: The Keyless Works",
+    "url": "/anatomy/06-the-keyless-works/",
+    "word_count": 373
+  },
+  "anatomy/07-the-motion-works-and-dial": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "dial-train",
+      "gear-train",
+      "keyless-works"
+    ],
+    "title": "Anatomy 7: The Motion Works and Dial",
+    "url": "/anatomy/07-the-motion-works-and-dial/",
+    "word_count": 369
+  },
+  "anatomy/08-putting-it-together": {
+    "author": "Buffy",
+    "categories": [
+      "anatomy"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "series-anatomy",
+      "service",
+      "gear-train",
+      "escapement",
+      "balance",
+      "lubrication"
+    ],
+    "title": "Anatomy 8: Putting It Together",
+    "url": "/anatomy/08-putting-it-together/",
+    "word_count": 404
+  },
+  "complications/chronograph": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "chronograph",
+      "complications",
+      "guide",
+      "frequency"
+    ],
+    "title": "The Chronograph",
+    "url": "/complications/chronograph/",
+    "word_count": 407
+  },
+  "complications/gmt-and-world-time": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "complications",
+      "guide",
+      "history"
+    ],
+    "title": "GMT and World Time",
+    "url": "/complications/gmt-and-world-time/",
+    "word_count": 362
+  },
+  "complications/index": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-27",
+    "render": true,
+    "tags": [
+      "guide",
+      "chronograph",
+      "perpetual-calendar",
+      "tourbillon",
+      "repeater",
+      "moonphase"
+    ],
+    "title": "What Counts as a Complication",
+    "url": "/complications/",
+    "word_count": 326
+  },
+  "complications/minute-repeater": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "repeater",
+      "complications",
+      "guide",
+      "history"
+    ],
+    "title": "The Minute Repeater",
+    "url": "/complications/minute-repeater/",
+    "word_count": 364
+  },
+  "complications/moonphase": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "moonphase",
+      "complications",
+      "guide"
+    ],
+    "title": "The Moonphase",
+    "url": "/complications/moonphase/",
+    "word_count": 320
+  },
+  "complications/perpetual-calendar": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "perpetual-calendar",
+      "complications",
+      "guide",
+      "history"
+    ],
+    "title": "The Perpetual Calendar",
+    "url": "/complications/perpetual-calendar/",
+    "word_count": 370
+  },
+  "complications/power-reserve": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "power-reserve",
+      "complications",
+      "mainspring",
+      "guide"
+    ],
+    "title": "Power Reserve",
+    "url": "/complications/power-reserve/",
+    "word_count": 274
+  },
+  "complications/tourbillon": {
+    "author": "Buffy",
+    "categories": [
+      "complications"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "tourbillon",
+      "complications",
+      "history",
+      "physics",
+      "timeline"
+    ],
+    "title": "The Tourbillon",
+    "url": "/complications/tourbillon/",
+    "word_count": 349
+  },
+  "escapements/co-axial": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "escapement",
+      "physics",
+      "lubrication",
+      "timeline"
+    ],
+    "title": "The Co-axial Escapement",
+    "url": "/escapements/co-axial/",
+    "word_count": 388
+  },
+  "escapements/compared": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "escapement",
+      "guide",
+      "accuracy",
+      "history"
+    ],
+    "title": "Escapements, Compared",
+    "url": "/escapements/compared/",
+    "word_count": 397
+  },
+  "escapements/cylinder-and-duplex": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-26",
+    "render": true,
+    "tags": [
+      "escapement",
+      "history",
+      "timeline"
+    ],
+    "title": "Cylinder and Duplex",
+    "url": "/escapements/cylinder-and-duplex/",
+    "word_count": 312
+  },
+  "escapements/detent": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "escapement",
+      "history",
+      "physics",
+      "power-reserve"
+    ],
+    "title": "The Detent Escapement",
+    "url": "/escapements/detent/",
+    "word_count": 333
+  },
+  "escapements/index": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-25",
+    "render": true,
+    "tags": [
+      "escapement",
+      "guide",
+      "history",
+      "physics"
+    ],
+    "title": "The Escapement Zoo",
+    "url": "/escapements/",
+    "word_count": 355
+  },
+  "escapements/swiss-lever": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-27",
+    "render": true,
+    "tags": [
+      "escapement",
+      "balance",
+      "physics",
+      "shock-protection"
+    ],
+    "title": "The Swiss Lever Escapement",
+    "url": "/escapements/swiss-lever/",
+    "word_count": 426
+  },
+  "escapements/swiss-lever/drop-lock-and-lift": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "escapement",
+      "physics",
+      "lubrication",
+      "service"
+    ],
+    "title": "Drop, Lock, and Lift",
+    "url": "/escapements/swiss-lever/drop-lock-and-lift/",
+    "word_count": 511
+  },
+  "escapements/verge-and-foliot": {
+    "author": "Buffy",
+    "categories": [
+      "escapements"
+    ],
+    "date": "2026-09-25",
+    "render": true,
+    "tags": [
+      "escapement",
+      "history",
+      "timeline"
+    ],
+    "title": "Verge and Foliot",
+    "url": "/escapements/verge-and-foliot/",
+    "word_count": 309
+  },
+  "glossary/glossary": {
+    "author": "Buffy",
+    "categories": [
+      "glossary"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "guide",
+      "glossary",
+      "escapement",
+      "balance",
+      "physics"
+    ],
+    "title": "Glossary",
+    "url": "/glossary/glossary/",
+    "word_count": 478
+  },
+  "history/1656-huygens-and-the-pendulum": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-24",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "physics"
+    ],
+    "title": "1656 — Huygens and the Pendulum",
+    "url": "/history/1656-huygens-and-the-pendulum/",
+    "word_count": 281
+  },
+  "history/1675-the-balance-spring-race": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-24",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "balance-spring"
+    ],
+    "title": "1675 — The Balance-Spring Race",
+    "url": "/history/1675-the-balance-spring-race/",
+    "word_count": 272
+  },
+  "history/1761-harrison-and-the-longitude-prize": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-25",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "accuracy"
+    ],
+    "title": "1761 — Harrison and the Longitude Prize",
+    "url": "/history/1761-harrison-and-the-longitude-prize/",
+    "word_count": 281
+  },
+  "history/1770-mudge-and-the-lever": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-25",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "escapement"
+    ],
+    "title": "1770 — Mudge and the Lever",
+    "url": "/history/1770-mudge-and-the-lever/",
+    "word_count": 225
+  },
+  "history/1850s-the-american-system": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-26",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "industrialization",
+      "gear-train"
+    ],
+    "title": "1850s — The American System",
+    "url": "/history/1850s-the-american-system/",
+    "word_count": 252
+  },
+  "history/1927-the-quartz-clock": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-26",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "quartz",
+      "frequency"
+    ],
+    "title": "1927 — The Quartz Clock",
+    "url": "/history/1927-the-quartz-clock/",
+    "word_count": 259
+  },
+  "history/1969-the-quartz-crisis": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-27",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "quartz",
+      "industrialization"
+    ],
+    "title": "1969 — The Quartz Crisis",
+    "url": "/history/1969-the-quartz-crisis/",
+    "word_count": 291
+  },
+  "history/1983-the-swatch-rescue": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "industrialization",
+      "quartz"
+    ],
+    "title": "1983 — The Swatch Rescue",
+    "url": "/history/1983-the-swatch-rescue/",
+    "word_count": 292
+  },
+  "history/index": {
+    "author": "Buffy",
+    "categories": [
+      "history"
+    ],
+    "date": "2026-09-24",
+    "render": true,
+    "tags": [
+      "history",
+      "timeline",
+      "guide"
+    ],
+    "title": "A Timeline of Timekeeping",
+    "url": "/history/",
+    "word_count": 257
+  },
+  "index": {
+    "author": "Buffy",
+    "categories": [
+      "orientation"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "escapement",
+      "guide",
+      "series-anatomy",
+      "timeline"
+    ],
+    "title": "Escapement — How a Mechanical Watch Actually Works",
+    "url": "/",
+    "word_count": 315
+  },
+  "maintenance/magnetism": {
+    "author": "Buffy",
+    "categories": [
+      "maintenance"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "magnetism",
+      "service",
+      "balance-spring",
+      "guide"
+    ],
+    "title": "Magnetism",
+    "url": "/maintenance/magnetism/",
+    "word_count": 292
+  },
+  "maintenance/servicing": {
+    "author": "Buffy",
+    "categories": [
+      "maintenance"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "service",
+      "lubrication",
+      "guide",
+      "accuracy"
+    ],
+    "title": "Servicing",
+    "url": "/maintenance/servicing/",
+    "word_count": 305
+  },
+  "maintenance/water-resistance": {
+    "author": "Buffy",
+    "categories": [
+      "maintenance"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "water-resistance",
+      "service",
+      "guide",
+      "keyless-works"
+    ],
+    "title": "Water Resistance",
+    "url": "/maintenance/water-resistance/",
+    "word_count": 315
+  },
+  "movements/index": {
+    "author": "Buffy",
+    "categories": [
+      "movements"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "calibre",
+      "guide",
+      "gear-train",
+      "escapement"
+    ],
+    "title": "How to Read a Calibre",
+    "url": "/movements/",
+    "word_count": 292
+  },
+  "movements/omega-321": {
+    "author": "Buffy",
+    "categories": [
+      "movements"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "calibre",
+      "chronograph",
+      "history",
+      "timeline"
+    ],
+    "title": "Omega Calibre 321",
+    "url": "/movements/omega-321/",
+    "word_count": 308
+  },
+  "movements/patek-calibre-89": {
+    "author": "Buffy",
+    "categories": [
+      "movements"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "calibre",
+      "complications",
+      "history",
+      "timeline"
+    ],
+    "title": "Patek Philippe Calibre 89",
+    "url": "/movements/patek-calibre-89/",
+    "word_count": 306
+  },
+  "movements/rolex-3135": {
+    "author": "Buffy",
+    "categories": [
+      "movements"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "calibre",
+      "guide",
+      "balance-spring",
+      "accuracy"
+    ],
+    "title": "Rolex Calibre 3135",
+    "url": "/movements/rolex-3135/",
+    "word_count": 264
+  },
+  "movements/valjoux-7750": {
+    "author": "Buffy",
+    "categories": [
+      "movements"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "calibre",
+      "chronograph",
+      "guide",
+      "history"
+    ],
+    "title": "Valjoux 7750",
+    "url": "/movements/valjoux-7750/",
+    "word_count": 291
+  },
+  "movements/zenith-el-primero": {
+    "author": "Buffy",
+    "categories": [
+      "movements"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "calibre",
+      "chronograph",
+      "frequency",
+      "history",
+      "timeline"
+    ],
+    "title": "Zenith El Primero",
+    "url": "/movements/zenith-el-primero/",
+    "word_count": 303
+  },
+  "physics/amplitude": {
+    "author": "Buffy",
+    "categories": [
+      "physics"
+    ],
+    "date": "2026-09-27",
+    "render": true,
+    "tags": [
+      "physics",
+      "amplitude",
+      "accuracy",
+      "service",
+      "lubrication"
+    ],
+    "title": "Amplitude",
+    "url": "/physics/amplitude/",
+    "word_count": 364
+  },
+  "physics/frequency": {
+    "author": "Buffy",
+    "categories": [
+      "physics"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "physics",
+      "frequency",
+      "accuracy",
+      "escapement"
+    ],
+    "title": "Frequency",
+    "url": "/physics/frequency/",
+    "word_count": 386
+  },
+  "physics/friction-and-lubrication": {
+    "author": "Buffy",
+    "categories": [
+      "physics"
+    ],
+    "date": "2026-09-29",
+    "render": true,
+    "tags": [
+      "physics",
+      "lubrication",
+      "service",
+      "escapement",
+      "shock-protection"
+    ],
+    "title": "Friction and Lubrication",
+    "url": "/physics/friction-and-lubrication/",
+    "word_count": 434
+  },
+  "physics/isochronism": {
+    "author": "Buffy",
+    "categories": [
+      "physics"
+    ],
+    "date": "2026-09-27",
+    "render": true,
+    "tags": [
+      "physics",
+      "balance-spring",
+      "amplitude",
+      "accuracy"
+    ],
+    "title": "Isochronism",
+    "url": "/physics/isochronism/",
+    "word_count": 343
+  },
+  "physics/positions-and-rate": {
+    "author": "Buffy",
+    "categories": [
+      "physics"
+    ],
+    "date": "2026-09-28",
+    "render": true,
+    "tags": [
+      "physics",
+      "accuracy",
+      "balance",
+      "guide"
+    ],
+    "title": "Positions and Rate",
+    "url": "/physics/positions-and-rate/",
+    "word_count": 375
+  },
+  "physics/the-balance-spring": {
+    "author": "Buffy",
+    "categories": [
+      "physics"
+    ],
+    "date": "2026-09-26",
+    "render": true,
+    "tags": [
+      "balance-spring",
+      "balance",
+      "physics",
+      "history",
+      "silicon",
+      "timeline"
+    ],
+    "title": "The Balance Spring",
+    "url": "/physics/the-balance-spring/",
+    "word_count": 480
+  },
+  "start-here/read-me-first": {
+    "author": "Buffy",
+    "categories": [
+      "orientation"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "guide",
+      "series-anatomy"
+    ],
+    "title": "Read Me First",
+    "url": "/start-here/read-me-first/",
+    "word_count": 311
+  },
+  "start-here/the-five-minute-watch": {
+    "author": "Buffy",
+    "categories": [
+      "orientation"
+    ],
+    "date": "2026-09-30",
+    "render": true,
+    "tags": [
+      "guide",
+      "gear-train",
+      "escapement",
+      "balance",
+      "mainspring"
+    ],
+    "title": "The Five-Minute Watch",
+    "url": "/start-here/the-five-minute-watch/",
+    "word_count": 396
+  }
+}

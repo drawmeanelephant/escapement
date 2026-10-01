@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About &amp; Colophon - Escapement</title>
+    <meta name="description" content="Who writes Escapement, how it is built, and why every claim on this site is meant to be checkable.">
+    <meta property="og:title" content="About &amp; Colophon">
+    <meta property="og:description" content="Who writes Escapement, how it is built, and why every claim on this site is meant to be checkable.">
+    <meta property="og:image" content="">
+    <meta property="og:type" content="article">
+    
+    
+    <link rel="stylesheet" href="/assets/css/theme-foundations.css">
+    <link rel="stylesheet" href="/assets/css/layout-editorial.css">
+    <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+    <a href="#main-content" class="ed-skip">Skip to content</a>
+
+    <header class="ed-masthead">
+        <div class="ed-mast-inner">
+            <a class="ed-wordmark" href="/">Escapement</a>
+            <nav aria-label="Main navigation" class="ed-nav">
+                
+                <ul>
+                    <li><a href="/start-here/read-me-first/">Start Here</a></li><li><a href="/anatomy/01-the-problem-of-timekeeping/">Anatomy</a></li><li><a href="/history/">Timeline</a></li><li><a href="/graph/">Knowledge Graph</a></li><li><a href="/feed.xml">RSS Feed</a></li><li><a href="/tags/">Tags</a></li><li><a href="/categories/">Categories</a></li><li><a href="/unresolved-notes/">Unresolved Notes</a></li>
+                </ul>
+                
+                
+
+<div class="lf-search">
+    <form action="#" method="get" onsubmit="event.preventDefault();">
+        <label for="site-search" class="sr-only">Search site</label>
+        <input type="search" id="site-search" placeholder="Type / to search..."
+               class="lf-search-input"
+               autocomplete="off" aria-autocomplete="list" aria-controls="search-results-list" />
+    </form>
+    <ul id="search-results-list" role="listbox" aria-label="Search results" class="hidden"></ul>
+</div>
+
+            </nav>
+        </div>
+    </header>
+
+    <main id="main-content" class="ed-page">
+        <article class="ed-article">
+            <header class="ed-article-head">
+                
+                <p class="ed-dateline">
+                    <time>2026-09-30</time> &middot; By Buffy
+                </p>
+                
+                <h1 class="ed-title">About &amp; Colophon</h1>
+                <p class="ed-dek">Who writes Escapement, how it is built, and why every claim on this site is meant to be checkable.</p>
+            </header>
+
+            <div class="ed-prose">
+                <p><strong>Escapement</strong> is an independent explainer site about mechanical horology: how
+watches work, why they work <em>that</em> way, and what the last four hundred years of
+timekeeping got right and wrong.</p>
+<h2>Who writes this</h2>
+<p>Every page was written by <strong>Buffy</strong>, an AI coding agent, as part of an exercise in
+building a real, self-contained publication with
+<a href="https://github.com/drawmeanelephant/la-famille" rel="nofollow">La Famille</a>, a Go static site
+generator. No page is placeholder text. Where a claim is contested in horology —
+the <a href="../history/1675-the-balance-spring-race/" rel="nofollow">balance-spring priority dispute</a>,
+for instance, or whether a <a href="../complications/tourbillon/" rel="nofollow">tourbillon</a> helps a
+wristwatch at all — the page says so instead of picking a winner silently.</p>
+<h2>How it is built</h2>
+<ul>
+<li><strong>Generator:</strong> La Famille, from source or a release binary. The whole site is
+markdown, a config file, and hand-drawn SVG diagrams — no external fonts, no
+CDNs, no trackers,no runtime JavaScript dependencies beyond the self-contained
+<a href="/graph/" rel="nofollow">graph explorer</a> page the build emits.</li>
+<li><strong>Diagrams:</strong> every illustration is an SVG drawn for this site, stored in
+<code>assets/img/</code>, and rebuildable by editing the file with a text editor.</li>
+<li><strong>Portability:</strong> the built <code>public/</code> directory is a complete static artifact.
+Drop it on any static host. Serve it from a domain root (image paths are
+root-absolute <code>/assets/...</code>); from a subpath, adjust those few references.</li>
+<li><strong>Machine-readable corpus:</strong> each build publishes a <code>rag-archive/</code> whose
+<code>rag-content.md</code> is the entire site flattened into one coherent document,
+designed to be pasted into a prompt.</li>
+</ul>
+<h2>Corrections</h2>
+<p>Horology writing is full of confident myths (Breguet invented everything,
+the Swiss invented the lever, quartz killed mechanical forever). This site tries
+to date and attribute its claims; if you find one that is wrong, the fix is a
+markdown edit away.</p>
+<p>Continue with <a href="../start-here/read-me-first/" rel="nofollow">Read Me First</a> for the guided tour,
+or <a href="../start-here/the-five-minute-watch/" rel="nofollow">The Five-Minute Watch</a> for the whole
+machine in one page.</p>
+<p class="page-tags"><strong>Tags:</strong> <a class="tag-link" href="../tags/colophon/" rel="nofollow">colophon</a> <a class="tag-link" href="../tags/guide/" rel="nofollow">guide</a></p>
+            </div>
+        </article>
+    </main>
+
+    <footer class="ed-colophon">
+        <p>Set in system serifs. Built with Escapement.</p>
+    </footer>
+
+
+<script src="/assets/js/search.js"></script>
+<section class="backlinks-panel" aria-labelledby="backlinks-heading"><h2 id="backlinks-heading">Linked from</h2><ul>
+<li><a href="../">Escapement — How a Mechanical Watch Actually Works</a></li>
+</ul></section></body>
+</html>
