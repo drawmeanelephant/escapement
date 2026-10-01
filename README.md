@@ -34,10 +34,19 @@ GitHub Pages, Netlify, S3, plain nginx):
 rsync -a public/ user@host:/var/www/escapement/
 ```
 
-**Cloudflare Pages:** connect this repository (Workers & Pages → Create →
-Pages → Connect to Git), leave the build command **empty** and set the output
-directory to `public`. A subdomain like `escapement.example.com` is served at
-its domain root, so all root-absolute asset paths work unchanged.
+**Cloudflare Pages — two ways to deploy:**
+
+1. **GitHub Actions (push-to-deploy):** `.github/workflows/deploy.yml` deploys
+   `public/` to Cloudflare Pages on every push to `main`. It waits for two
+   repository secrets — `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` —
+   and skips quietly until they are configured.
+2. **Dashboard Git integration:** Workers & Pages → Create → Pages → Connect
+   to Git, leave the build command **empty** and set the output directory to
+   `public`.
+
+Either way, add your subdomain (e.g. `escapement.example.com`) under the
+Pages project's **Custom domains**. A subdomain is served at its domain root,
+so all root-absolute asset paths work unchanged.
 
 Two notes for portability:
 
