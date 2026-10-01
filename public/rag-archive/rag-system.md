@@ -1,66 +1,46 @@
 <file path=".github/workflows/deploy.yml">
 <content>
-name: Deploy to GitHub Pages
+name: Deploy to Cloudflare Pages
 
 on:
   push:
-    branches: ["main", "master"]
+    branches: ["main"]
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
-  group: "pages"
+  group: "cloudflare-pages"
   cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  deploy:
     runs-on: ubuntu-latest
+    env:
+      # Flip to "true" automatically once the repo secrets exist.
+      HAS_CF_SECRETS: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && secrets.CLOUDFLARE_ACCOUNT_ID != '' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+      - name: Skip until secrets are configured
+        if: env.HAS_CF_SECRETS != 'true'
+        run: echo "::notice::CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID repo secrets not configured yet — skipping deploy."
+
+      - name: Ensure Pages project exists
+        if: env.HAS_CF_SECRETS == 'true'
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v3
         with:
-          enablement: true
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages project create escapement-asw --production-branch=main
 
-      - name: Install La Famille
-        run: |
-          REPO="drawmeanelephant/la-famille"
-          TAG=$(curl -s "https://api.github.com/repos/$REPO/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
-          if [ -z "$TAG" ]; then TAG="v0.1.0-prealpha"; fi
-          VERSION="${TAG#v}"
-          ARCHIVE="la-famille_${VERSION}_linux_amd64.tar.gz"
-          URL="https://github.com/$REPO/releases/download/$TAG/$ARCHIVE"
-          echo "Downloading La Famille $TAG..."
-          curl -sL "$URL" -o /tmp/la-famille.tar.gz
-          tar -xzf /tmp/la-famille.tar.gz -C /usr/local/bin la-famille
-          chmod +x /usr/local/bin/la-famille
-          la-famille --version
-
-      - name: Build site
-        env:
-          SITE_URL: ${{ steps.pages.outputs.base_url }}
-        run: |
-          la-famille build --site-url "$SITE_URL"
-          la-famille publish-check --site-url "$SITE_URL"
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy public/ to Cloudflare Pages
+        if: env.HAS_CF_SECRETS == 'true'
+        uses: cloudflare/wrangler-action@v3
         with:
-          path: public
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=escapement-asw --branch=main --commit-dirty=true
 
 </content>
 </file>
@@ -93,13 +73,29 @@ fonts, no trackers, hand-drawn SVG diagrams only.
 
 ## Deploy
 
-`public/` is a complete static artifact. Serve it from a **domain root** on
-any static host (GitHub Pages, Netlify, Cloudflare Pages, S3, plain nginx):
+`public/` is a complete static artifact and is **committed to this repo**, so
+deploying is a matter of pointing a static host at it — no build step needed.
+Serve it from a **domain root** on any static host (Cloudflare Pages,
+GitHub Pages, Netlify, S3, plain nginx):
 
 ```bash
 # example: rsync to a web root
 rsync -a public/ user@host:/var/www/escapement/
 ```
+
+**Cloudflare Pages — two ways to deploy:**
+
+1. **GitHub Actions (push-to-deploy):** `.github/workflows/deploy.yml` deploys
+   `public/` to Cloudflare Pages on every push to `main`. It waits for two
+   repository secrets — `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` —
+   and skips quietly until they are configured.
+2. **Dashboard Git integration:** Workers & Pages → Create → Pages → Connect
+   to Git, leave the build command **empty** and set the output directory to
+   `public`.
+
+Either way, add your subdomain (e.g. `escapement.example.com`) under the
+Pages project's **Custom domains**. A subdomain is served at its domain root,
+so all root-absolute asset paths work unchanged.
 
 Two notes for portability:
 
@@ -122,6 +118,12 @@ la-famille --project-root . serve   # local preview
 
 The site builds from any checkout or release binary of la-famille — nothing in
 this directory depends on the generator repository.
+
+## License
+
+Content, diagrams, and templates are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse freely with
+attribution. The full text is in [LICENSE](LICENSE).
 
 ## Colophon
 

@@ -29,6 +29,5 @@ site_links:
 
 port: 8080
 
-# Set siteurl when deploying (e.g. https://user.github.io/escapement) so
-# canonical links, og:url, sitemap.xml, and robots.txt resolve correctly.
-# siteurl: "https://example.com"
+# Public base URL: canonical links, og:url, sitemap.xml, and robots.txt.
+siteurl: "https://escapement.filed.fyi"

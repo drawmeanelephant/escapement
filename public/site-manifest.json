@@ -60,7 +60,7 @@
       ],
       "asset_references": [],
       "content_hash": "0e2339d22cd74bfc10f9a961354c57f4a7ddde624fb76935ee33695693bccef1",
-      "output_hash": "e852feb3506cce9b01fe42df7365ba294ca167b28db40faa7deabcae41047225",
+      "output_hash": "ea3d4f5ae9ff154483b3f43b2062c9bf0853cd147308222121cea039e1a1ce8e",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -215,7 +215,7 @@
       ],
       "asset_references": [],
       "content_hash": "6bb2aa95296634b0f55c2f769a185d7c9c5d0525b7e069f2c3a1fe3af872060f",
-      "output_hash": "a34962db0302bfdedcff439c667f6deb8330d2503c9fd6b52d3eff9c3a4c5cc1",
+      "output_hash": "21e9774199401546e43e8858c0c5cc309e8df52ad421895e9c2a36d80a6a3061",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -308,7 +308,7 @@
         "img/gear-train.svg"
       ],
       "content_hash": "ff4e706a809e22b377a80977bdc5725c465906d0c8cf30af3481ded40d365ed3",
-      "output_hash": "69154bbd1fb131f155025be363e7dcb0784cac6d04e6d0363ca7b2f244dad5f8",
+      "output_hash": "f98a3c8511beca174a8b9aff756721873ac13350a5ad433790f2e7432683db5c",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -401,7 +401,7 @@
       ],
       "asset_references": [],
       "content_hash": "bd08269e236ad9501727e8c824f5689151ae71710022146ca44c961a9fbe1c08",
-      "output_hash": "044947f01926d89ec9802792d38c90bb96a87bf21e098843b09b6f4aeee84963",
+      "output_hash": "681c06e94c752297e479b1570859fc22f1d7379a0305843e7c5309be7ee161c9",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -503,7 +503,7 @@
         "img/escapement-cycle.svg"
       ],
       "content_hash": "aa43ff748c0e820b3ffd0885737c448f9b1de5ca7c7ed26108eae94a62d95d61",
-      "output_hash": "91010497b68a0a7da0db5b36c9d684ff02f77f924823ed52124e57223779258d",
+      "output_hash": "1434b899cd500767f20938131a519bed8028946c94912f736f0c4e6434e8309d",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -607,7 +607,7 @@
         "img/balance-spring.svg"
       ],
       "content_hash": "d6d2d92d6590a9ad40b0085b2c8fc3bf751863edadaded2f3530fe192c5b3a32",
-      "output_hash": "7abda09d08497a3e1598ca2d4969aab3c57381bb5485f47288a86edb9a255395",
+      "output_hash": "1fe5700e8bd1b8fa1d3fe6c2e064d1ad9b05a2a139d7f6f77087ace2d4396233",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -706,7 +706,7 @@
       ],
       "asset_references": [],
       "content_hash": "38d34cb2a1751559a1df7d9a094fb1f8910c7d704dc0d4f2e6170bf09d200aa6",
-      "output_hash": "84ba4bfcf2fc211252c20c8f51dac77e01841b89642a34a17189a8e67ad5342e",
+      "output_hash": "62eb2dd9ac08e231925b276a8f5b7f9d258971f6d6a5ee25470afe8c0bed7727",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -797,7 +797,7 @@
       ],
       "asset_references": [],
       "content_hash": "17d625acb25d3d5ef1f20b15a7f124a8b0787b2605dcb401cf1ac7c53d6ac88a",
-      "output_hash": "548b43d12d7bc2b3eccce55ff196c49c5fd92d9829b94bac03d4ceeb063defd4",
+      "output_hash": "04594e9fa448da516868213a1932f7657091a2dacdd59356d62ae7e3be639c52",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -947,7 +947,7 @@
       ],
       "asset_references": [],
       "content_hash": "55a5a61df275fcf1be7dcdd8fb6ab59ee999d9da0847f8f4e053cbe374c23081",
-      "output_hash": "5af9898ac9fedb81f007b0caf478ca5156dee9430709e26032baae762314b5d6",
+      "output_hash": "32745b1565d695ee47629aaa56d237f9e10990700e49df350589e3d4a2ccec49",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1008,7 +1008,7 @@
       ],
       "asset_references": [],
       "content_hash": "21862b532ec55908d9353a6fca58f03ff6e22a3aace7895ecfe035f8ecd2a413",
-      "output_hash": "6a6ab032dbd561a5542eccf8b15f7d37e5a99db0b0e975cb34c9acbfc503aed5",
+      "output_hash": "cfeebd889e6449e887a7e280cc223f25e9f0c141fc4a2ed3cef5973c573f0025",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1075,7 +1075,7 @@
       ],
       "asset_references": [],
       "content_hash": "d0c68726494a5a5e01cc7dbb65d441bc077ff70a4c9c4ce3f5c24ea6d1f264e3",
-      "output_hash": "89d4c5e5a0859888dae0a84b275c17c97562f20b8447c1e50bde3b8e9770f957",
+      "output_hash": "be8adaddb8d822f6cb34410a7c998150925b0c5c95c52c80b0fd7fae9e848d3f",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1170,7 +1170,7 @@
       ],
       "asset_references": [],
       "content_hash": "849134c7311a75ff1d17b20d7bedc8176748d410e84e8a99f3f090625c7b084a",
-      "output_hash": "8eba81ecfe23726496292fa82066f415be7db05030b479ef8bf76bc1567a481f",
+      "output_hash": "86b5a8db8c280d695f0ba58b1dd8012c9f1a60dfd8bc49067a263da392a9ee0d",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1223,7 +1223,7 @@
       ],
       "asset_references": [],
       "content_hash": "00f0c7fdac1048d9d22786a19de68417787882c1156801072df4b7dd847bb66e",
-      "output_hash": "ef50ed501abaae610838bf2a4bd6685a5b68194102373f15ee37f24738be141e",
+      "output_hash": "0cdc01431707f23180edacaba877653d9f9a3378bd7227b3e73d1bb783f0c37f",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1275,7 +1275,7 @@
       ],
       "asset_references": [],
       "content_hash": "8abdf831954f8be079e0ff2c39cff8b916a074b9b6ec597c5d703e71ddf5226c",
-      "output_hash": "9ead1d426154bd9f9d5195986cb68b71ef64cadb3fc9e4bed4b4396232d4aeaf",
+      "output_hash": "3bc2cf673ad80d9aea6d8d7697b3f50c507a052832542d86e11d6d9ec203479a",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1344,7 +1344,7 @@
       ],
       "asset_references": [],
       "content_hash": "357f81bd1693540c989f490e25018fbfe0690f1e40ecd29b001414886fd5210b",
-      "output_hash": "c71492adfda9b15ecbc9df8db7c4de2d3b4968f3b94b3f020a2187dc82f483e4",
+      "output_hash": "af0b2666f0c2b7ca40a802119f53aa0ba0d6bac771462f1972e603ac9816a377",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1435,7 +1435,7 @@
       ],
       "asset_references": [],
       "content_hash": "a8311caee3b923665e75b39e484e175bcf4531815c3910dc122e75bd998d3c22",
-      "output_hash": "2128f933984c0506355b31ec4c84761a99b73075b230fce4f55bdecf9b45ff92",
+      "output_hash": "a68c77f3d91b6dda9769593ee7dbe71b0eb4c43f4747de78df38d489e91a1c4b",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1514,7 +1514,7 @@
         "img/tourbillon-cage.svg"
       ],
       "content_hash": "74c4905513fc3d248832b5e4b2c1b4bac01ad53687e028a582e5334dd7df7bb1",
-      "output_hash": "7fc6fe24c6430eee2d9aa441c5e3b20a0ee35ef0d4f6a024ed0bd7f33c8359ab",
+      "output_hash": "d9860c46dfb64afe5ad0b651d690f0d6a4f97fc5f79ba244247f6a69e793efef",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1575,7 +1575,7 @@
       ],
       "asset_references": [],
       "content_hash": "b810f0bfe12c2fb52b29e04e749dc6af2febcb79c58e1d6d96d409e78b6af192",
-      "output_hash": "19d3447ff7ff22497d5c4ce134af5db41b80f96e1368e482876510d90df392db",
+      "output_hash": "4d2998febd2e4df164bd5bb5efa836b7d76b5fa9614be57dd92184350ea4f1f7",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1668,7 +1668,7 @@
       ],
       "asset_references": [],
       "content_hash": "f77a3929a4e85d8af8ad645cb68169e1c4c33b114ae12783b08781aea9b8cb11",
-      "output_hash": "b8e9ca6c434555fe05f7a8b7c5e426f161de28763853176bf1bfcb982f666e0f",
+      "output_hash": "9a7f491c4a363ee67234f5ec83d40237c5192d54f9b4a247436bb8f336022abe",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1751,7 +1751,7 @@
       ],
       "asset_references": [],
       "content_hash": "5dce65ff4f6639b0598764ff177f2cee9c69974f4e709adc67e312719c15b36d",
-      "output_hash": "44b6b87c2e4af13900185c9f927a4b9c3e93df8d369b026577ad9e4c484b88a7",
+      "output_hash": "5a8e3d2ebc10671728df10971a4558d9ecd784dbcd5bd26fbcabcc1ae9b4d602",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1812,7 +1812,7 @@
       ],
       "asset_references": [],
       "content_hash": "273d571c02ddb39ec9e8217bb785308578ea6ed9cab088a500182ddaf9a6a546",
-      "output_hash": "e2c8a505dea295c7b3692bf60bd87a71efdfc8c122b6eb8eea94bc10cc4c6227",
+      "output_hash": "d89f62a99d75468b9bc95791ba258dcbdb8ff11b6232b5a167ae4c8a61f5baef",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -1940,7 +1940,7 @@
       ],
       "asset_references": [],
       "content_hash": "f954dfe9bbc0ce2b0c4678453f4c0ea5770140b76b10acada356d44b6bae98d4",
-      "output_hash": "ba732c0137d67663965cb6c8a0afc34fb851f1061173eacbff7aab292019c1e0",
+      "output_hash": "c2cf4e9f1bfa053f0efbf7acd0679560496aad865e9b7ef0fdf4e1c58c4c5cd0",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2023,7 +2023,7 @@
       ],
       "asset_references": [],
       "content_hash": "725be4e83e61408a5cf2b0b45ac0a805a15cd0cadfd882d8ac2c670390e6a0de",
-      "output_hash": "64fd69964bd9fd15bf14e15f5a8c50be6c4767e97ac3b4f3ab5af42776abea99",
+      "output_hash": "8341705dbbdb7c9407929385e9198293dc8de056dc3e32006a5df1b1b0982a75",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2091,7 +2091,7 @@
       ],
       "asset_references": [],
       "content_hash": "ce13b6a72f5807bd37d7a520bb4af7fc6e12494bb68cf66d82a80d05f200e4fe",
-      "output_hash": "e48df53f1f9958312c6a4cb58a723525624a787af44c33fc2ad1a85068a2541b",
+      "output_hash": "381fdefb7cecaba986bc8d366e2d0fa99b35bc92d3c67799cacaa7c1840e80b0",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2159,7 +2159,7 @@
       ],
       "asset_references": [],
       "content_hash": "e1578a3117e668dade3f1b34ea5e90bba53b4156334e7d22997e24be4e08643d",
-      "output_hash": "34bda82f1ed7e6bc53311a68c8581f317024acfd6694107628f88cafee1a4480",
+      "output_hash": "8332f88ebf974732cb5ad47921d431420f2d446a1cc467609318fb5629408d80",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2464,7 +2464,7 @@
       ],
       "asset_references": [],
       "content_hash": "9ad02bde03055e019964ddcf302856b47bdf34dfba5e5aa3dd2077c43e1df8d1",
-      "output_hash": "1c1d9d288039223f13162dc9db60edaae3470df53162ccd31d51001ccf80bddd",
+      "output_hash": "9a747519aa367bfecc7ee8b07f8451764044d7b81e1ce647778355739def7d4d",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2539,7 +2539,7 @@
       ],
       "asset_references": [],
       "content_hash": "94b16800a6fe1fca0e7e3880c9ee63a2482e30268351d2135f8b2cebffcfbea8",
-      "output_hash": "9d6372ad762c0bab7c41257def1e9381e927d582713420fb5b1bf18c5f99beac",
+      "output_hash": "0390a18c400246165e834ab4dc92575c4ab76f0d3620ed6b31cef2089b65dfcd",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2637,7 +2637,7 @@
       ],
       "asset_references": [],
       "content_hash": "ca9a219588f8fa3c5128ccb58e4f8915b3c1fef2cd613aee2403f71667e043e3",
-      "output_hash": "20ca458089f009718628ddef407db771d01a37ed1fa1b9f7980625edf6412f06",
+      "output_hash": "b67029817f12a79d1503b08737b41641a315a1c91980715b7195ee6c6aed7086",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2742,7 +2742,7 @@
       ],
       "asset_references": [],
       "content_hash": "defd0b674222dcd367646d61783055698ddbe5ff31bfd8b5873120a0827df093",
-      "output_hash": "f52257d94a96b4ba41e48ce4d3a32a16e9781af2b6fb82276418cc20daf60e10",
+      "output_hash": "5748c8b847ff3e53ba8be8594fe9792dde4fd4448ba0c950798d32fa190e494a",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2864,7 +2864,7 @@
       ],
       "asset_references": [],
       "content_hash": "8f1abf96210370190d5435e1addc1995cb3d6cdff947358be4771e972c4317ca",
-      "output_hash": "aca41822b56dff072607bd916fe64c81eb6a9da6fe10baf55c833e921ccbad28",
+      "output_hash": "efe1c2931e3b42e8c724b358ee4c50479694d6306b17537c9af3cef452a4940b",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -2949,7 +2949,7 @@
       ],
       "asset_references": [],
       "content_hash": "30589861bc41bef93b3832cc67cd7ef4533909f416ec0cdcf710a4af1339cc13",
-      "output_hash": "7f7cb4b665331c76c72515fbbcadd0c2312bc355844e7ec985530152184bfbf5",
+      "output_hash": "3c987c78cfdca66c4efeb710446eafdfd7c3e3e6a4b1f248de44b7e7787f559f",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3049,7 +3049,7 @@
       ],
       "asset_references": [],
       "content_hash": "882587fcb3088b02b91b43fb21ec659edfc4bb073ccf26f0f66344e89e222848",
-      "output_hash": "0da1b116ee41dee5664ccb041463e89dabb9158520758f6c7795c16409649284",
+      "output_hash": "2b5fc2d4555c1c52f6abf38fe92bc9e24b6c72c2eb4f1e083a535ce0edc37852",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3148,7 +3148,7 @@
       ],
       "asset_references": [],
       "content_hash": "926059a91f934b9b4c49057c5dc31c73097321d2a448cfd787b479a06f6b8321",
-      "output_hash": "f865b6f1692fa9264a2acafb0dfcbea4cbf6e67904f164cfa2640a65676ab754",
+      "output_hash": "3475e284ec3190fd5e458e461d37a72d230e1105366440a4dad31fc1c0a9eff1",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3288,7 +3288,7 @@
       ],
       "asset_references": [],
       "content_hash": "6d8cd1f8af5a466319d6177bc90bc1a30ee76c50965a2a623bfb44525ef5af2d",
-      "output_hash": "3170d7cbd22bc7090d9d7ce50343791fb0ceaa1b006d7584ea61775e0a9cb521",
+      "output_hash": "e51728f9fc76d632a930cdbfd6411ca4d1b56c32170bb764895d8ef7ad21a5eb",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3420,7 +3420,7 @@
       ],
       "asset_references": [],
       "content_hash": "273923410a22499bf38f30987f8dc5639b03e0d41198448aef94e1a68101870f",
-      "output_hash": "dbe3ca59c73161d308d942cc9327097759e9a9af80774edb556501c67ed0dbdb",
+      "output_hash": "2b305ff1d92fa027750729e75eccc89e626c6ecccd3d5b2c4f9fd9d66b5a1787",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3567,7 +3567,7 @@
       ],
       "asset_references": [],
       "content_hash": "01d8a01993daa6b383bddbc003d2e3bed009a7ed1a8a563c9eb5adbf45dd8bd6",
-      "output_hash": "6112f3b270d391eceb9dfa4c31b8b59796610342e6dd7a09849ca61d73339dc4",
+      "output_hash": "0f10de59b44bb0081ac4344cdac3188c1998f14a81e845c09649a40aab34c8db",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3651,7 +3651,7 @@
       ],
       "asset_references": [],
       "content_hash": "b028dd033602a982331cb279a58b73e1ed938779dd60323a58ccd5997ff0a3fc",
-      "output_hash": "cb715cca01d37ece211b3625c55ccb315b2fe107c13a63d9eac90b7d373fecab",
+      "output_hash": "9a56a0a30183b9768500b550a3336ef2c24662efec991419d65f03e01d63a05d",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3766,7 +3766,7 @@
       ],
       "asset_references": [],
       "content_hash": "918c0a031f37e73683501f315d8755db44f3196b6d7346621b9269adbd2dd6da",
-      "output_hash": "d17ec17b171b66b571df0034f9194412af3603a5a848ed979c62cdf71afa2614",
+      "output_hash": "df358f9b30f766215b5c7448c2cdd3499cd54e8b2635b21b6939c29952db081e",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3827,7 +3827,7 @@
       ],
       "asset_references": [],
       "content_hash": "d9b93507124f162c5303040c839a991d8d29f54a554ea005fb6d58ae62a00113",
-      "output_hash": "4711cb499a05d67321e9e8a071681140451ceb387409ce34362e468a82b73c2b",
+      "output_hash": "704b7f9b93bd26dc4c436213f5b71d4eb7c9a052be6ff0a667f3f4cf56747363",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -3957,7 +3957,7 @@
       ],
       "asset_references": [],
       "content_hash": "90c3b23960562c1d85684721fc91f1c8cd7bebb1a8b62bd33fb9010ae9b9e1f6",
-      "output_hash": "f05e6f14a83e40c9854433d11aef4bfeb0c55d816a48d6a7366ef5ac87367cc4",
+      "output_hash": "b000445917ddd7997f40f431a501ad971ec647ad5752e5bf1b51ec7a398cde5b",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4017,7 +4017,7 @@
       ],
       "asset_references": [],
       "content_hash": "b9db6cf96cb6fbd37d8978f315be95d9d408b88a18594f334831dcf7e9761db6",
-      "output_hash": "ce953284d875e0f12a328fb0a7bdb4a6cb382f32afe9fc686bcad7286b4d40a3",
+      "output_hash": "1048f5da89142195aa77140e72f7574906b195fe673047ffd43ec409f4129c46",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4117,7 +4117,7 @@
       ],
       "asset_references": [],
       "content_hash": "ce3b8422531a67aeb21de0ce682fe8529dee5edff6f8a55ca548bf96162f6c14",
-      "output_hash": "c31bd7546e122e879983d8373bb0aaf08d6b419ae7376420e07dc183a25b5f0a",
+      "output_hash": "33926a67f61c63c38885661f0e26fbb8dbe8bd6931bff138a168a8eb043056a2",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4210,7 +4210,7 @@
       ],
       "asset_references": [],
       "content_hash": "a74a1954f0909dd3c88cb03566f06b53d7f03e397cda8d715e0ae48d6bef5a42",
-      "output_hash": "fd6e6070e6d1d29c9e6535ad97b81e2773233712bae76dfe544c3cfb8824577b",
+      "output_hash": "399a768961fc3885c4fd7e9acf26a4727bfb9d3cf308eded11313b472308db71",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4292,7 +4292,7 @@
       ],
       "asset_references": [],
       "content_hash": "386625cabf0d2fd8754ab6bc982bb247e1a782f3188ab880d183530fcc2f76ea",
-      "output_hash": "de2f3438366f603b696a717b65cdfe165a38b575109d7886809b28814b0bf774",
+      "output_hash": "1781568457c230ad593bc5ff3f23793eee389c470b72b033a6605433b0017a89",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4361,7 +4361,7 @@
       ],
       "asset_references": [],
       "content_hash": "392398730d1c8cb5bb465ca6d90ae1eaad84d72d4b5d974940110ced07151e25",
-      "output_hash": "cebdfbc56349d3ec7da11da9beae4175d4f50a761f266f6bfc8bb85b07106fb1",
+      "output_hash": "15c067ce870dc679ce77fa2809f8c11680cf1cbb526fcf24e26df11c8c36b760",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4453,7 +4453,7 @@
       ],
       "asset_references": [],
       "content_hash": "976f88934c4612c96e8c338b5dabab3aabc435d1e9b03299a12ec1622d8bfb9e",
-      "output_hash": "081797e076d7844408e03030ab9f4ef9179eaeda593ca7aae84ca2419b297c3e",
+      "output_hash": "bba3d8b3c74417c403cbfb9943de01d5c9a99c4fab370c89e6d859005917d25b",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4538,7 +4538,7 @@
       ],
       "asset_references": [],
       "content_hash": "d2c1ac10431575d211ecde5506e28a45bd74aa32b59dc420902e58d755467512",
-      "output_hash": "120f0f5b2d206f32d717b00e7d4ded3b8cb98ad0ec6bc80571931cf6a03c23c5",
+      "output_hash": "0dd17fac136cef415051f2e4c487d3570b2cfaf55bc86b8e00f716f4ce561973",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4640,7 +4640,7 @@
       ],
       "asset_references": [],
       "content_hash": "b675ff3863629a9f36e78f6c5caefbc51c9ba30e419aa7d4edf22e8766aa0100",
-      "output_hash": "718d682aa7cd3024137860564055c0d80a3c6c38f5716c2a1ecac4a485dc63cd",
+      "output_hash": "cdd6f81294b7a5e94b4c2f06047b0d7450764889a0033a8353683d0ac1cf509a",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4770,7 +4770,7 @@
       ],
       "asset_references": [],
       "content_hash": "852e18f035e40af7db89333673addfe9ddeb9c821d03d1b77995a5a8d34cca60",
-      "output_hash": "859a149ed7863d4d0fc5d955b549cb694329c0641206621663831a03b75f07e5",
+      "output_hash": "39d8d85f85d118c4a25d23a179c17fbfa68248e3679bdc75826927944f4118db",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4854,7 +4854,7 @@
       ],
       "asset_references": [],
       "content_hash": "4b98145b6300ac7e107b6cd8c94e97ea22a7cd54429487defbf76ecfba3ae0fa",
-      "output_hash": "9c03063d422946ed1e614cd6c4417d0d6719ce05873568d9ea7a4bc204454401",
+      "output_hash": "0734c381a96a189a3ac558dbb1741d8c9cca79759f671daced2f4f20d6916612",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -4925,7 +4925,7 @@
       ],
       "asset_references": [],
       "content_hash": "c8a705f3531db533e150d4ff914e1691a09909cc19a891977a74a98e4279b583",
-      "output_hash": "f523003eb29aa1f67fd8918d447910292f3e8abc54e9d762c19e5c0d356daa8f",
+      "output_hash": "94f09062787f6739ab5363fe1b11707b919913bba51caf1b0bcf88cefddb2f72",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -5118,7 +5118,7 @@
       ],
       "asset_references": [],
       "content_hash": "5068e6397620d9d02f2ba9277edfc412601526436e8b41491a35a54f0fc5ab40",
-      "output_hash": "1d874cbfdfca6f07c5b2f8bf697c213a9c79f84720f0f1c2fc79f3284f9574ce",
+      "output_hash": "fd56c90607c721e98c9f96215a41859ce4c335c00dd22aafa10a406c9f372de3",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -5282,7 +5282,7 @@
       ],
       "asset_references": [],
       "content_hash": "70aaf42e58d22e38d07d4ec7782ba21ee2cc71a75dd2e88b57cb7f5bd0a01cb1",
-      "output_hash": "889f6fe8f3282f0f1c79417a5755862e88d2e3e7ee45c1d90626cf6d8879632f",
+      "output_hash": "541ff6ba286c8f8681c32a145fda2b7f0579f0353490501902f2950dd1df3b25",
       "frontmatter": {
         "animation_cues": "",
         "author": "Buffy",
@@ -5344,47 +5344,47 @@
     },
     {
       "path": "categories/anatomy/index.html",
-      "hash": "0a362e46f74cc7a9a6ae117faad424152ffcf8fe4d0d5d4942f0b6b9cde510d0"
+      "hash": "8b8ddd10422ae6270d89d89840f35fe3bd60551da2946704ccb07d28801abc8f"
     },
     {
       "path": "categories/complications/index.html",
-      "hash": "42bb952931d931b796546d66850b3a966b1caa045ebe7509436679d0f15e6935"
+      "hash": "d57fbcc3acc0e395e835f49c310427e20e8483aee114f2d684e1b2406cda1ec1"
     },
     {
       "path": "categories/escapements/index.html",
-      "hash": "51317feba0d75550896b31fcb837d1bdfb044907c60372aa51135ab8f3f4887a"
+      "hash": "fd9774d60576160b125ea483404551cf628a658836b27889efab71b8403c4cf0"
     },
     {
       "path": "categories/glossary/index.html",
-      "hash": "cb508472cf3b8b422d280472002f5d42bd7807755f66d10a7a4e0e11b0301299"
+      "hash": "f811fb146c35a220d4bd14ec72c50b8bf790786018da4e33f7500f817ab38578"
     },
     {
       "path": "categories/history/index.html",
-      "hash": "c6c9c5590e8ca8744c2a0a25aa6090281bb5034ff03091bf032fd07991b2dac7"
+      "hash": "3f73f42b3f206214a819a3d76ddf08236ec1abcdfcd951baf30675f6164080ed"
     },
     {
       "path": "categories/index.html",
-      "hash": "ea527128ad15b5946828f1eeb1276f61567ca9564de34426737e169d88be2265"
+      "hash": "246985da4bdd7fe685c47e20781f0e22225fb0d3dd3099aa5037f685caa2a4e3"
     },
     {
       "path": "categories/maintenance/index.html",
-      "hash": "8ee6d12227a67c64c504e44ec0ecba596b35277c84eb9505e3070fc3784b974a"
+      "hash": "5ea681ff86a5a0b49c9def63ad7a517912a0c69ddb89f59fc65d1ca082d8b654"
     },
     {
       "path": "categories/movements/index.html",
-      "hash": "7689b6b2b8f1f86396dcdb23e539d6f04c39adb262fc8abc8f7d1cb7b60066b5"
+      "hash": "20d98949f3ab1d31194b5a4d93739bee7990cd77aff493677eab1f46fb3a8c39"
     },
     {
       "path": "categories/orientation/index.html",
-      "hash": "dc40ab2fc4ccb68639da24a2bcaa6345d43285e37a6cff922f8646e7efa44e70"
+      "hash": "f14516293488f0c50768f3a72c24a68556692fe47b51f237807d715bb2ca2eab"
     },
     {
       "path": "categories/physics/index.html",
-      "hash": "78b047e61c54086bb42265e98a5bad331b884fb2f228dbc1de89b59c5b22d026"
+      "hash": "e00ea7baccf13d525b8abfd54c6f011b1b263519163937161c0b4e920dc5f989"
     },
     {
       "path": "feed.xml",
-      "hash": "2d934f3f76b8e287e0c92a0e88583f823c9d8fd5c353749b9e89602c5e82570b"
+      "hash": "573cf8b81895c3abb25ab5beb8857bac563a8ec4e5ef9eea0db9bf9096a33114"
     },
     {
       "path": "graph/data.json",
@@ -5392,7 +5392,7 @@
     },
     {
       "path": "graph/index.html",
-      "hash": "632a1e3edeb6dd89f3b19ad5fe5c6c10b9fcb617f4dfbbf69c3adb2ee616b4d3"
+      "hash": "be5a8b9e50ec1870a15e12c5ea57410e75323c4708760c689b9d708db10446ff"
     },
     {
       "path": "graph.json",
@@ -5404,7 +5404,7 @@
     },
     {
       "path": "robots.txt",
-      "hash": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+      "hash": "727c48adc1326fc2a67306774ccd1fa63e11b64b4a392d78284c088789c44dbe"
     },
     {
       "path": "search.json",
@@ -5412,248 +5412,248 @@
     },
     {
       "path": "sitemap.xml",
-      "hash": "01c40f91fe87f9efb4735ee4452bd6ff51a6c0bba29b910454695e833b9a4ecb"
+      "hash": "5a14ba2973c1adb5a9a2cb6985ccab98dd65ae57b850fa892c39cdd84b440d9d"
     },
     {
       "path": "tags/accuracy/index.html",
-      "hash": "f0c1a4673c233deb96083897b886056028ade015055643d98bf4bb68c7931186"
+      "hash": "3e9f0d609f7b82a58f53e7e4d066743ddb55b1d610b18a35f5c5632d633c0399"
     },
     {
       "path": "tags/amplitude/index.html",
-      "hash": "1e76d18266b6cdbcfb17a13527653834165ae592093e0bb8a6e253f52710915f"
+      "hash": "08fa261d54f833cb85c8ae9611aaf037c9b4a9e105cf3fb73ad51b58cfff7ad4"
     },
     {
       "path": "tags/balance/index.html",
-      "hash": "ec52898b71cbd5e8f57615fc29d7d3ef1510a2d6990020c6cdab9ce825b76197"
+      "hash": "8d5ad1fb0f3ed088e9586431ffb4018cc585b67db2c2cc7f4e9f8ddd933b3fa3"
     },
     {
       "path": "tags/balance-spring/index.html",
-      "hash": "ef293fa7311e18f611225f38030d4d77a527dc4939e34ae6f5f27378a36b32a0"
+      "hash": "3ab42319df9cd145dfe2a3f077d6c962fcd590a70409f2ebd6b08245d6afb534"
     },
     {
       "path": "tags/calibre/index.html",
-      "hash": "77248e461534113ca6804a5cc46b2da4137e43ff22297660002a62ad3bb663df"
+      "hash": "4cef576b198467d1300c69cc4bdea4f0bd363d1966e1972d3c25010d009e0fb1"
     },
     {
       "path": "tags/chronograph/index.html",
-      "hash": "1a8b127c88526159f0ecd1948c745487aa343205d6ad5d21249db354ee08814c"
+      "hash": "3a43c33c272b4650c703d4a8a82590cfe7c309e6ccf1f594e1b0c26ec650cdd5"
     },
     {
       "path": "tags/colophon/index.html",
-      "hash": "55cf2230735bf65cdc7cc7763a0b982a3fe1eb028ca7d20e9c5df048c9e1a924"
+      "hash": "4769b6e6b5e64773f0f2b2a677e9147ff4a6a66ea925defcf58cb425db7261fc"
     },
     {
       "path": "tags/complications/index.html",
-      "hash": "77faf78ff3f7845eda9fee3620548451b28dddf0c5bfe50182a05321e6d0e910"
+      "hash": "b6f3060f2ae813e95f4ecaddfe0daeff6de95d25dfec35d02d2258de6d15f917"
     },
     {
       "path": "tags/dial-train/index.html",
-      "hash": "21063416d7e3aa7f0036232ae12becd27a620d4a79a54c259315419ca15fc2c3"
+      "hash": "d1b0a75cc0635115e2dd3842a2349b988ab5eb05329b82557812576cbe5a6ee2"
     },
     {
       "path": "tags/escapement/index.html",
-      "hash": "907596d81638e519440db70d3140a29c5c2fba9858da7fecb323eb1e091c871d"
+      "hash": "73689f7ffaa453451ffd195933d1e482d932a85d4fc2ea9411d91e5ded38cd5a"
     },
     {
       "path": "tags/frequency/index.html",
-      "hash": "fbff7a6eac905bbef268ea4725c33a3ae0fa868db7b17f3b5cf4009a7aba5176"
+      "hash": "2f8bc836129a36747c1b7007dc4c9e9ebcc43c38ee29cbf74d7848c1845bf8a3"
     },
     {
       "path": "tags/gear-train/index.html",
-      "hash": "f315f18ca82dca19f5f8e1336ff7cbea22fb8c6eb3c826124709f56930d34e5c"
+      "hash": "d94017155be52058300e9202c451c27ac78ff4699b10288ed658eb11ffb48245"
     },
     {
       "path": "tags/glossary/index.html",
-      "hash": "87bf0805cdde2adc4a99bb869fd9be84dc8b2a25cdb964ff17138463d468d0b2"
+      "hash": "4bfdc628c4bcfbf324baa9149e5c9b1eb85899d41f604d3b99fbd74c8a9cb5b2"
     },
     {
       "path": "tags/guide/index.html",
-      "hash": "31a73506d6e4bf693ca2c0c717b15a3f190c08d6ea40a2df8acaa82d5fe3cdb9"
+      "hash": "f4502c6f63243b8547869e588ed61699c67ffda478e715691498c4d022ac940a"
     },
     {
       "path": "tags/history/index.html",
-      "hash": "13f8f9ca7e485f8028394344b42dd43d2a3776997b531ebd2deebff222905d23"
+      "hash": "e33d61d2d6af387b2ca8f9bdf7fcf99cbc34a327ab00964b2934c3b14bff5d14"
     },
     {
       "path": "tags/index.html",
-      "hash": "2658112be465e15581fefde3444fbbb4a1ac6342fe4d0ac6c3357ce3e7ad076f"
+      "hash": "296ca65bbab50cd4e29a8fb3e52684b1c24a980a32515fea36fc172df9ea119d"
     },
     {
       "path": "tags/industrialization/index.html",
-      "hash": "b8fbc6e6bcf100a1f27b3fbf05d9b500711980b295786b868d4d4d2415602aac"
+      "hash": "df252d622e0a786d1d74eef7dc9bde0f983048845d21be053d0378376af2d04b"
     },
     {
       "path": "tags/keyless-works/index.html",
-      "hash": "f413eac371d6619980fded69f19b11f4ba12ea2caf6df1198ca1de594c333002"
+      "hash": "53a3a2702507d8e047da5aefd3bb1512c6d49cdec1dcc9606c7daf71289a9ab7"
     },
     {
       "path": "tags/lubrication/index.html",
-      "hash": "195877d86074d2bce754ee79baa2771e0ee8766ee9cc741174f19b7ebfc46b65"
+      "hash": "7c70409da3679a1d2a059a4cf5650c7bbdaf759543ad00ddf76c91cc2f91e8e0"
     },
     {
       "path": "tags/magnetism/index.html",
-      "hash": "9039113da628e6fa57964bc707326b1d38933f1365d3b935c75aac4cb94075f4"
+      "hash": "536e0d00c7a9d1a359eedf3dc405dbfc60339792313dcee8a49fbe7cec57fa00"
     },
     {
       "path": "tags/mainspring/index.html",
-      "hash": "a69338a224fccbaf8039b6a7382d67a194ac2603e43f720c5dcb32f61afcd067"
+      "hash": "18f6b02a423488c930488b910df461e34c2d554c8454aafe13dc2cdd09e22710"
     },
     {
       "path": "tags/moonphase/index.html",
-      "hash": "697b94e7c3e41d057e1bbbf6ce84f849b676a45f8e9fdcfa52d5654d6259dff6"
+      "hash": "f2b6e1b39c0c5d06fcaed4a03951dd9354535b5ef848bc8304d81ff23578b980"
     },
     {
       "path": "tags/perpetual-calendar/index.html",
-      "hash": "ba2a9daa5752d0ea6c10c31c2fa63e8d2c10925d4ebc30c8128cd7ce184ba1bd"
+      "hash": "dcde703761ed08db52f95fc6d774609c1e6aeff1da42692016bfba668c6b1a3b"
     },
     {
       "path": "tags/physics/index.html",
-      "hash": "6cd3a85299a08aaf7ca71a709a77eac13a63461e5e11329f18e71d66a6de76a7"
+      "hash": "190683afe57a52069ab5c8d9c7b6b9962d034ac949f8f1d52f6567097b14077e"
     },
     {
       "path": "tags/power-reserve/index.html",
-      "hash": "caa294fdd935bf13cfefcfef78814f6281f475715e58a42bdc95e8caf56aaaa0"
+      "hash": "e41318e51b292038c58d875741daf07a37ea130d8f358e0f4c53c506c46f91c9"
     },
     {
       "path": "tags/quartz/index.html",
-      "hash": "5a9e68eef4c32e149024dba9dc8e7027a1ad1c14b3fb4d7c1c339d8bf3649cf4"
+      "hash": "8d742b1ddd3741a68f8994d0290720b19efb78e3ee561762404df75fde60f25b"
     },
     {
       "path": "tags/repeater/index.html",
-      "hash": "41e435eac8357364e0cf0682784d9b6cced5d1610b9feaf52ab6055ac0488e8d"
+      "hash": "4a602f735b42b99b2be584d6a1dce217fd02c61a63c70279ba879100512ea1b9"
     },
     {
       "path": "tags/series-anatomy/index.html",
-      "hash": "ed98917bffb5eb25e3f88a76b6fca33475f8fce264528234b205f284937f6113"
+      "hash": "2b829ee27b5081e023af04079f2841c9e566bc90af5fc878f494af116ac3b09c"
     },
     {
       "path": "tags/service/index.html",
-      "hash": "4fac147f77d404edc0c6a75b7e7c49d9249ddf6d99a186ac1b40c00eb47dca28"
+      "hash": "580427654653a4ccbc1ca7d26fdb10916a6d7d1aeb4bfcc39bb7342ccefc724b"
     },
     {
       "path": "tags/shock-protection/index.html",
-      "hash": "397956a96bdc735f392b42fd0013b67f8fc4d0e313121f1b0cf5a4aba6725410"
+      "hash": "aeae721e81aa14ebe64a21c1e0ea24e58f4e2a4dcd8763719520f73e41da1796"
     },
     {
       "path": "tags/silicon/index.html",
-      "hash": "756b697d4389d49510a052e344492bcd9a5dc0aeb6ddea7a70afd1897b48d157"
+      "hash": "eb19d208a6e2d44dcb649b3f2738617fc1778499bbfdb462d1114d023f0a1ba6"
     },
     {
       "path": "tags/timeline/index.html",
-      "hash": "7becca5ac14202c8febf561b1e3f5980191664408276dbe1de211f0aacd1bcce"
+      "hash": "ffed9a736e45b5089f630cdc9495c59cacebb89b966aa5c1fe0e753a43edfee1"
     },
     {
       "path": "tags/tourbillon/index.html",
-      "hash": "cb488baddfb94e0e239bb6b9d01407367f382a0d7b5e88ed1cd6daf0941346c4"
+      "hash": "358b8c313ff6063eedc89458c442ae59595c21a386f85a5274c0b1ca21be6ac5"
     },
     {
       "path": "tags/water-resistance/index.html",
-      "hash": "4ba646d38a529d748aeb177ecf9447c56ca60bca3ab22f434109d204015fb1a0"
+      "hash": "e03a2ef3bad22486bf9f404a32cfd7d81c4562ef92d770a03262e607e088fba4"
     },
     {
       "path": "unresolved-notes/index.html",
-      "hash": "377d4efae6cf681f7bc6a126245d5c666867bb019212755c0b31b3ea1203e0e6"
+      "hash": "8a93202427ca3d045d85fb44ec3c5aae90205a7e39379181c1e9bc739fab64de"
     }
   ],
   "sitemap": [
-    "/",
-    "/about/",
-    "/anatomy/01-the-problem-of-timekeeping/",
-    "/anatomy/02-the-gear-train/",
-    "/anatomy/03-the-mainspring-and-barrel/",
-    "/anatomy/04-the-escapement/",
-    "/anatomy/05-the-balance-assembly/",
-    "/anatomy/06-the-keyless-works/",
-    "/anatomy/07-the-motion-works-and-dial/",
-    "/anatomy/08-putting-it-together/",
-    "/categories/",
-    "/categories/anatomy/",
-    "/categories/complications/",
-    "/categories/escapements/",
-    "/categories/glossary/",
-    "/categories/history/",
-    "/categories/maintenance/",
-    "/categories/movements/",
-    "/categories/orientation/",
-    "/categories/physics/",
-    "/complications/",
-    "/complications/chronograph/",
-    "/complications/gmt-and-world-time/",
-    "/complications/minute-repeater/",
-    "/complications/moonphase/",
-    "/complications/perpetual-calendar/",
-    "/complications/power-reserve/",
-    "/complications/tourbillon/",
-    "/escapements/",
-    "/escapements/co-axial/",
-    "/escapements/compared/",
-    "/escapements/cylinder-and-duplex/",
-    "/escapements/detent/",
-    "/escapements/swiss-lever/",
-    "/escapements/swiss-lever/drop-lock-and-lift/",
-    "/escapements/verge-and-foliot/",
-    "/glossary/glossary/",
-    "/history/",
-    "/history/1656-huygens-and-the-pendulum/",
-    "/history/1675-the-balance-spring-race/",
-    "/history/1761-harrison-and-the-longitude-prize/",
-    "/history/1770-mudge-and-the-lever/",
-    "/history/1850s-the-american-system/",
-    "/history/1927-the-quartz-clock/",
-    "/history/1969-the-quartz-crisis/",
-    "/history/1983-the-swatch-rescue/",
-    "/maintenance/magnetism/",
-    "/maintenance/servicing/",
-    "/maintenance/water-resistance/",
-    "/movements/",
-    "/movements/omega-321/",
-    "/movements/patek-calibre-89/",
-    "/movements/rolex-3135/",
-    "/movements/valjoux-7750/",
-    "/movements/zenith-el-primero/",
-    "/physics/amplitude/",
-    "/physics/frequency/",
-    "/physics/friction-and-lubrication/",
-    "/physics/isochronism/",
-    "/physics/positions-and-rate/",
-    "/physics/the-balance-spring/",
-    "/start-here/read-me-first/",
-    "/start-here/the-five-minute-watch/",
-    "/tags/",
-    "/tags/accuracy/",
-    "/tags/amplitude/",
-    "/tags/balance-spring/",
-    "/tags/balance/",
-    "/tags/calibre/",
-    "/tags/chronograph/",
-    "/tags/colophon/",
-    "/tags/complications/",
-    "/tags/dial-train/",
-    "/tags/escapement/",
-    "/tags/frequency/",
-    "/tags/gear-train/",
-    "/tags/glossary/",
-    "/tags/guide/",
-    "/tags/history/",
-    "/tags/industrialization/",
-    "/tags/keyless-works/",
-    "/tags/lubrication/",
-    "/tags/magnetism/",
-    "/tags/mainspring/",
-    "/tags/moonphase/",
-    "/tags/perpetual-calendar/",
-    "/tags/physics/",
-    "/tags/power-reserve/",
-    "/tags/quartz/",
-    "/tags/repeater/",
-    "/tags/series-anatomy/",
-    "/tags/service/",
-    "/tags/shock-protection/",
-    "/tags/silicon/",
-    "/tags/timeline/",
-    "/tags/tourbillon/",
-    "/tags/water-resistance/",
-    "/unresolved-notes/"
+    "https://escapement.filed.fyi/",
+    "https://escapement.filed.fyi/about/",
+    "https://escapement.filed.fyi/anatomy/01-the-problem-of-timekeeping/",
+    "https://escapement.filed.fyi/anatomy/02-the-gear-train/",
+    "https://escapement.filed.fyi/anatomy/03-the-mainspring-and-barrel/",
+    "https://escapement.filed.fyi/anatomy/04-the-escapement/",
+    "https://escapement.filed.fyi/anatomy/05-the-balance-assembly/",
+    "https://escapement.filed.fyi/anatomy/06-the-keyless-works/",
+    "https://escapement.filed.fyi/anatomy/07-the-motion-works-and-dial/",
+    "https://escapement.filed.fyi/anatomy/08-putting-it-together/",
+    "https://escapement.filed.fyi/categories/",
+    "https://escapement.filed.fyi/categories/anatomy/",
+    "https://escapement.filed.fyi/categories/complications/",
+    "https://escapement.filed.fyi/categories/escapements/",
+    "https://escapement.filed.fyi/categories/glossary/",
+    "https://escapement.filed.fyi/categories/history/",
+    "https://escapement.filed.fyi/categories/maintenance/",
+    "https://escapement.filed.fyi/categories/movements/",
+    "https://escapement.filed.fyi/categories/orientation/",
+    "https://escapement.filed.fyi/categories/physics/",
+    "https://escapement.filed.fyi/complications/",
+    "https://escapement.filed.fyi/complications/chronograph/",
+    "https://escapement.filed.fyi/complications/gmt-and-world-time/",
+    "https://escapement.filed.fyi/complications/minute-repeater/",
+    "https://escapement.filed.fyi/complications/moonphase/",
+    "https://escapement.filed.fyi/complications/perpetual-calendar/",
+    "https://escapement.filed.fyi/complications/power-reserve/",
+    "https://escapement.filed.fyi/complications/tourbillon/",
+    "https://escapement.filed.fyi/escapements/",
+    "https://escapement.filed.fyi/escapements/co-axial/",
+    "https://escapement.filed.fyi/escapements/compared/",
+    "https://escapement.filed.fyi/escapements/cylinder-and-duplex/",
+    "https://escapement.filed.fyi/escapements/detent/",
+    "https://escapement.filed.fyi/escapements/swiss-lever/",
+    "https://escapement.filed.fyi/escapements/swiss-lever/drop-lock-and-lift/",
+    "https://escapement.filed.fyi/escapements/verge-and-foliot/",
+    "https://escapement.filed.fyi/glossary/glossary/",
+    "https://escapement.filed.fyi/history/",
+    "https://escapement.filed.fyi/history/1656-huygens-and-the-pendulum/",
+    "https://escapement.filed.fyi/history/1675-the-balance-spring-race/",
+    "https://escapement.filed.fyi/history/1761-harrison-and-the-longitude-prize/",
+    "https://escapement.filed.fyi/history/1770-mudge-and-the-lever/",
+    "https://escapement.filed.fyi/history/1850s-the-american-system/",
+    "https://escapement.filed.fyi/history/1927-the-quartz-clock/",
+    "https://escapement.filed.fyi/history/1969-the-quartz-crisis/",
+    "https://escapement.filed.fyi/history/1983-the-swatch-rescue/",
+    "https://escapement.filed.fyi/maintenance/magnetism/",
+    "https://escapement.filed.fyi/maintenance/servicing/",
+    "https://escapement.filed.fyi/maintenance/water-resistance/",
+    "https://escapement.filed.fyi/movements/",
+    "https://escapement.filed.fyi/movements/omega-321/",
+    "https://escapement.filed.fyi/movements/patek-calibre-89/",
+    "https://escapement.filed.fyi/movements/rolex-3135/",
+    "https://escapement.filed.fyi/movements/valjoux-7750/",
+    "https://escapement.filed.fyi/movements/zenith-el-primero/",
+    "https://escapement.filed.fyi/physics/amplitude/",
+    "https://escapement.filed.fyi/physics/frequency/",
+    "https://escapement.filed.fyi/physics/friction-and-lubrication/",
+    "https://escapement.filed.fyi/physics/isochronism/",
+    "https://escapement.filed.fyi/physics/positions-and-rate/",
+    "https://escapement.filed.fyi/physics/the-balance-spring/",
+    "https://escapement.filed.fyi/start-here/read-me-first/",
+    "https://escapement.filed.fyi/start-here/the-five-minute-watch/",
+    "https://escapement.filed.fyi/tags/",
+    "https://escapement.filed.fyi/tags/accuracy/",
+    "https://escapement.filed.fyi/tags/amplitude/",
+    "https://escapement.filed.fyi/tags/balance-spring/",
+    "https://escapement.filed.fyi/tags/balance/",
+    "https://escapement.filed.fyi/tags/calibre/",
+    "https://escapement.filed.fyi/tags/chronograph/",
+    "https://escapement.filed.fyi/tags/colophon/",
+    "https://escapement.filed.fyi/tags/complications/",
+    "https://escapement.filed.fyi/tags/dial-train/",
+    "https://escapement.filed.fyi/tags/escapement/",
+    "https://escapement.filed.fyi/tags/frequency/",
+    "https://escapement.filed.fyi/tags/gear-train/",
+    "https://escapement.filed.fyi/tags/glossary/",
+    "https://escapement.filed.fyi/tags/guide/",
+    "https://escapement.filed.fyi/tags/history/",
+    "https://escapement.filed.fyi/tags/industrialization/",
+    "https://escapement.filed.fyi/tags/keyless-works/",
+    "https://escapement.filed.fyi/tags/lubrication/",
+    "https://escapement.filed.fyi/tags/magnetism/",
+    "https://escapement.filed.fyi/tags/mainspring/",
+    "https://escapement.filed.fyi/tags/moonphase/",
+    "https://escapement.filed.fyi/tags/perpetual-calendar/",
+    "https://escapement.filed.fyi/tags/physics/",
+    "https://escapement.filed.fyi/tags/power-reserve/",
+    "https://escapement.filed.fyi/tags/quartz/",
+    "https://escapement.filed.fyi/tags/repeater/",
+    "https://escapement.filed.fyi/tags/series-anatomy/",
+    "https://escapement.filed.fyi/tags/service/",
+    "https://escapement.filed.fyi/tags/shock-protection/",
+    "https://escapement.filed.fyi/tags/silicon/",
+    "https://escapement.filed.fyi/tags/timeline/",
+    "https://escapement.filed.fyi/tags/tourbillon/",
+    "https://escapement.filed.fyi/tags/water-resistance/",
+    "https://escapement.filed.fyi/unresolved-notes/"
   ],
   "output_captured": true
 }
