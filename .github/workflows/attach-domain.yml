@@ -18,23 +18,28 @@ jobs:
         if: env.HAS_CF_SECRETS != 'true'
         run: echo "::notice::CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID repo secrets not configured yet — skipping."
 
-      - name: Attach domain via Cloudflare API
+      - name: Diagnose and attach domain via Cloudflare API
         if: env.HAS_CF_SECRETS == 'true'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           DOMAIN: ${{ inputs.domain }}
         run: |
-          echo "--- Attach ${DOMAIN} to Pages project escapement-asw ---"
-          curl -sS -X POST \
-            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects/escapement-asw/domains" \
-            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
-            -H "Content-Type: application/json" \
-            --data "{\"name\": \"${DOMAIN}\"}"
-          echo
-          echo "--- Verify domain ---"
-          curl -sS -X POST \
-            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects/escapement-asw/domains/${DOMAIN}/verify" \
-            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
-            -H "Content-Type: application/json" --data '{}'
-          echo
+          API="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages"
+          AUTH="Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"
+
+          echo "=== Pages projects in account ==="
+          curl -sS "${API}/projects?per_page=50" -H "$AUTH" \
+            | jq -r '.result[] | "\(.name) -> \(.subdomain)"'
+
+          echo "=== Domains configured on escapement-asw ==="
+          curl -sS "${API}/projects/escapement-asw/domains" -H "$AUTH" | jq .
+
+          echo "=== Attach ${DOMAIN} to escapement-asw ==="
+          curl -sS -X POST "${API}/projects/escapement-asw/domains" \
+            -H "$AUTH" -H "Content-Type: application/json" \
+            --data "{\"name\": \"${DOMAIN}\"}" | jq .
+
+          echo "=== Verify ${DOMAIN} ==="
+          curl -sS -X POST "${API}/projects/escapement-asw/domains/${DOMAIN}/verify" \
+            -H "$AUTH" -H "Content-Type: application/json" --data '{}' | jq .
