@@ -55,3 +55,7 @@ Every technical term that has its own page is linked the first time it appears.
 Following links is not a detour — it is how the site is meant to be read. The
 build also emits a [Knowledge Graph](/graph/) page so you can see which pages
 lean on which.
+
+---
+
+**The guided path** → [Anatomy 1: The Problem of Timekeeping](../anatomy/01-the-problem-of-timekeeping.md)

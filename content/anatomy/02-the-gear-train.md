@@ -66,3 +66,7 @@ worn cannon pinions make watches "lose" their set time.
 
 Next: where the energy comes from —
 [The Mainspring and Barrel](../anatomy/03-the-mainspring-and-barrel.md).
+
+---
+
+**Anatomy 2 of 8** · ← [Anatomy 1: The Problem of Timekeeping](01-the-problem-of-timekeeping.md) · [Anatomy 3: The Mainspring and Barrel](03-the-mainspring-and-barrel.md) →

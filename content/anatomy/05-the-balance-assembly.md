@@ -71,3 +71,7 @@ period, counting 86,400 beats a day to within a few seconds.
 That last number — the [rate](../physics/positions-and-rate.md) — is where
 watchmaking stops being assembly and starts being adjustment. Next, though:
 [The Keyless Works](../anatomy/06-the-keyless-works.md).
+
+---
+
+**Anatomy 5 of 8** · ← [Anatomy 4: The Escapement](04-the-escapement.md) · [Anatomy 6: The Keyless Works](06-the-keyless-works.md) →

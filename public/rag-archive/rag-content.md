@@ -125,6 +125,10 @@ Plus two quiet support casts: the [keyless works](../anatomy/06-the-keyless-work
 for winding and setting, and the [motion works](../anatomy/07-the-motion-works-and-dial.md)
 for turning gear rotations into hand positions. Next: the train.
 
+---
+
+**Anatomy 1 of 8** · ← [Read Me First](../start-here/read-me-first.md) · [Anatomy 2: The Gear Train](02-the-gear-train.md) →
+
 </content>
 </file>
 
@@ -199,6 +203,10 @@ worn cannon pinions make watches "lose" their set time.
 Next: where the energy comes from —
 [The Mainspring and Barrel](../anatomy/03-the-mainspring-and-barrel.md).
 
+---
+
+**Anatomy 2 of 8** · ← [Anatomy 1: The Problem of Timekeeping](01-the-problem-of-timekeeping.md) · [Anatomy 3: The Mainspring and Barrel](03-the-mainspring-and-barrel.md) →
+
 </content>
 </file>
 
@@ -266,6 +274,10 @@ reserves is mostly a barrel-and-efficiency contest, not some new energy source.
 
 Next: the machine's conscience —
 [The Escapement](../anatomy/04-the-escapement.md).
+
+---
+
+**Anatomy 3 of 8** · ← [Anatomy 2: The Gear Train](02-the-gear-train.md) · [Anatomy 4: The Escapement](04-the-escapement.md) →
 
 </content>
 </file>
@@ -339,6 +351,10 @@ stealing accuracy?"
 
 Next: the timekeeper itself —
 [The Balance Assembly](../anatomy/05-the-balance-assembly.md).
+
+---
+
+**Anatomy 4 of 8** · ← [Anatomy 3: The Mainspring and Barrel](03-the-mainspring-and-barrel.md) · [Anatomy 5: The Balance Assembly](05-the-balance-assembly.md) →
 
 </content>
 </file>
@@ -419,6 +435,10 @@ That last number — the [rate](../physics/positions-and-rate.md) — is where
 watchmaking stops being assembly and starts being adjustment. Next, though:
 [The Keyless Works](../anatomy/06-the-keyless-works.md).
 
+---
+
+**Anatomy 5 of 8** · ← [Anatomy 4: The Escapement](04-the-escapement.md) · [Anatomy 6: The Keyless Works](06-the-keyless-works.md) →
+
 </content>
 </file>
 
@@ -485,6 +505,10 @@ position — is pure case-and-lever engineering.
 Next: turning rotations into hours —
 [The Motion Works and Dial](../anatomy/07-the-motion-works-and-dial.md).
 
+---
+
+**Anatomy 6 of 8** · ← [Anatomy 5: The Balance Assembly](05-the-balance-assembly.md) · [Anatomy 7: The Motion Works and Dial](07-the-motion-works-and-dial.md) →
+
 </content>
 </file>
 
@@ -549,6 +573,10 @@ Lume, printing, and finishing live here too — but the mechanical point is
 simple: between the fourth wheel and the tip of a hand there is nothing but
 exact ratios and controlled friction. Next, the finale:
 [Putting It Together](../anatomy/08-putting-it-together.md).
+
+---
+
+**Anatomy 7 of 8** · ← [Anatomy 6: The Keyless Works](06-the-keyless-works.md) · [Anatomy 8: Putting It Together](08-putting-it-together.md) →
 
 </content>
 </file>
@@ -623,6 +651,10 @@ You now know the whole machine. The deep dives await: the geometry of
 philosophy of the [co-axial](../escapements/co-axial.md), the science of
 [isochronism](../physics/isochronism.md), or the [timeline](../history/index.md)
 that produced every idea above.
+
+---
+
+**Anatomy 8 of 8** · ← [Anatomy 7: The Motion Works and Dial](07-the-motion-works-and-dial.md) · The guided path ends here — continue with the [Timeline](../history/index.md) or the [Glossary](../glossary/glossary.md).
 
 </content>
 </file>
@@ -3271,6 +3303,10 @@ Every technical term that has its own page is linked the first time it appears.
 Following links is not a detour — it is how the site is meant to be read. The
 build also emits a [Knowledge Graph](/graph/) page so you can see which pages
 lean on which.
+
+---
+
+**The guided path** → [Anatomy 1: The Problem of Timekeeping](../anatomy/01-the-problem-of-timekeeping.md)
 
 </content>
 </file>

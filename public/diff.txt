@@ -1,405 +1,44 @@
 Site diff: previous build → current build
-Pages: 0 added, 0 removed, 0 changed
+Pages: 0 added, 0 removed, 9 changed
+  ~ anatomy/01-the-problem-of-timekeeping (Anatomy 1: The Problem of Timekeeping)
+  ~ anatomy/02-the-gear-train (Anatomy 2: The Gear Train)
+  ~ anatomy/03-the-mainspring-and-barrel (Anatomy 3: The Mainspring and Barrel)
+  ~ anatomy/04-the-escapement (Anatomy 4: The Escapement)
+  ~ anatomy/05-the-balance-assembly (Anatomy 5: The Balance Assembly)
+  ~ anatomy/06-the-keyless-works (Anatomy 6: The Keyless Works)
+  ~ anatomy/07-the-motion-works-and-dial (Anatomy 7: The Motion Works and Dial)
+  ~ anatomy/08-putting-it-together (Anatomy 8: Putting It Together)
+  ~ start-here/read-me-first (Read Me First)
 Metadata: 0 field changes
 Taxonomy: 0 membership changes
-Links: 0 added, 0 removed
-Graph edges: 0 added, 0 removed
+Links: 16 added, 0 removed
+  + anatomy/01-the-problem-of-timekeeping → ../start-here/read-me-first.md
+  + anatomy/01-the-problem-of-timekeeping → 02-the-gear-train.md
+  + anatomy/02-the-gear-train → 01-the-problem-of-timekeeping.md
+  + anatomy/02-the-gear-train → 03-the-mainspring-and-barrel.md
+  + anatomy/03-the-mainspring-and-barrel → 02-the-gear-train.md
+  + anatomy/03-the-mainspring-and-barrel → 04-the-escapement.md
+  + anatomy/04-the-escapement → 03-the-mainspring-and-barrel.md
+  + anatomy/04-the-escapement → 05-the-balance-assembly.md
+  + anatomy/05-the-balance-assembly → 04-the-escapement.md
+  + anatomy/05-the-balance-assembly → 06-the-keyless-works.md
+  + anatomy/06-the-keyless-works → 05-the-balance-assembly.md
+  + anatomy/06-the-keyless-works → 07-the-motion-works-and-dial.md
+  + anatomy/07-the-motion-works-and-dial → 06-the-keyless-works.md
+  + anatomy/07-the-motion-works-and-dial → 08-putting-it-together.md
+  + anatomy/08-putting-it-together → ../glossary/glossary.md
+  + anatomy/08-putting-it-together → 07-the-motion-works-and-dial.md
+Graph edges: 5 added, 0 removed
+  + anatomy/02-the-gear-train → anatomy/01-the-problem-of-timekeeping
+  + anatomy/04-the-escapement → anatomy/03-the-mainspring-and-barrel
+  + anatomy/06-the-keyless-works → anatomy/05-the-balance-assembly
+  + anatomy/08-putting-it-together → anatomy/07-the-motion-works-and-dial
+  + anatomy/08-putting-it-together → glossary/glossary
 Orphans: 0 newly orphaned, 0 no longer orphaned
 Broken links: 0 newly broken, 0 resolved
-Published file modified: categories/anatomy/index.html
-Published file modified: categories/complications/index.html
-Published file modified: categories/escapements/index.html
-Published file modified: categories/glossary/index.html
-Published file modified: categories/history/index.html
-Published file modified: categories/index.html
-Published file modified: categories/maintenance/index.html
-Published file modified: categories/movements/index.html
-Published file modified: categories/orientation/index.html
-Published file modified: categories/physics/index.html
-Published file modified: feed.xml
-Published file modified: graph/index.html
-Published file modified: robots.txt
-Published file modified: sitemap.xml
-Published file modified: tags/accuracy/index.html
-Published file modified: tags/amplitude/index.html
-Published file modified: tags/balance-spring/index.html
-Published file modified: tags/balance/index.html
-Published file modified: tags/calibre/index.html
-Published file modified: tags/chronograph/index.html
-Published file modified: tags/colophon/index.html
-Published file modified: tags/complications/index.html
-Published file modified: tags/dial-train/index.html
-Published file modified: tags/escapement/index.html
-Published file modified: tags/frequency/index.html
-Published file modified: tags/gear-train/index.html
-Published file modified: tags/glossary/index.html
-Published file modified: tags/guide/index.html
-Published file modified: tags/history/index.html
-Published file modified: tags/index.html
-Published file modified: tags/industrialization/index.html
-Published file modified: tags/keyless-works/index.html
-Published file modified: tags/lubrication/index.html
-Published file modified: tags/magnetism/index.html
-Published file modified: tags/mainspring/index.html
-Published file modified: tags/moonphase/index.html
-Published file modified: tags/perpetual-calendar/index.html
-Published file modified: tags/physics/index.html
-Published file modified: tags/power-reserve/index.html
-Published file modified: tags/quartz/index.html
-Published file modified: tags/repeater/index.html
-Published file modified: tags/series-anatomy/index.html
-Published file modified: tags/service/index.html
-Published file modified: tags/shock-protection/index.html
-Published file modified: tags/silicon/index.html
-Published file modified: tags/timeline/index.html
-Published file modified: tags/tourbillon/index.html
-Published file modified: tags/water-resistance/index.html
-Published file modified: unresolved-notes/index.html
-Rendered output changed: about (About & Colophon)
-Rendered output changed: anatomy/01-the-problem-of-timekeeping (Anatomy 1: The Problem of Timekeeping)
-Rendered output changed: anatomy/02-the-gear-train (Anatomy 2: The Gear Train)
-Rendered output changed: anatomy/03-the-mainspring-and-barrel (Anatomy 3: The Mainspring and Barrel)
-Rendered output changed: anatomy/04-the-escapement (Anatomy 4: The Escapement)
-Rendered output changed: anatomy/05-the-balance-assembly (Anatomy 5: The Balance Assembly)
-Rendered output changed: anatomy/06-the-keyless-works (Anatomy 6: The Keyless Works)
-Rendered output changed: anatomy/07-the-motion-works-and-dial (Anatomy 7: The Motion Works and Dial)
-Rendered output changed: anatomy/08-putting-it-together (Anatomy 8: Putting It Together)
-Rendered output changed: complications/chronograph (The Chronograph)
-Rendered output changed: complications/gmt-and-world-time (GMT and World Time)
-Rendered output changed: complications/index (What Counts as a Complication)
-Rendered output changed: complications/minute-repeater (The Minute Repeater)
-Rendered output changed: complications/moonphase (The Moonphase)
-Rendered output changed: complications/perpetual-calendar (The Perpetual Calendar)
-Rendered output changed: complications/power-reserve (Power Reserve)
-Rendered output changed: complications/tourbillon (The Tourbillon)
-Rendered output changed: escapements/co-axial (The Co-axial Escapement)
-Rendered output changed: escapements/compared (Escapements, Compared)
-Rendered output changed: escapements/cylinder-and-duplex (Cylinder and Duplex)
-Rendered output changed: escapements/detent (The Detent Escapement)
-Rendered output changed: escapements/index (The Escapement Zoo)
-Rendered output changed: escapements/swiss-lever (The Swiss Lever Escapement)
-Rendered output changed: escapements/swiss-lever/drop-lock-and-lift (Drop, Lock, and Lift)
-Rendered output changed: escapements/verge-and-foliot (Verge and Foliot)
+Published file modified: backlinks.json
+Published file modified: graph.json
+Published file modified: graph/data.json
+Published file modified: meta.json
 Rendered output changed: glossary/glossary (Glossary)
-Rendered output changed: history/1656-huygens-and-the-pendulum (1656 — Huygens and the Pendulum)
-Rendered output changed: history/1675-the-balance-spring-race (1675 — The Balance-Spring Race)
-Rendered output changed: history/1761-harrison-and-the-longitude-prize (1761 — Harrison and the Longitude Prize)
-Rendered output changed: history/1770-mudge-and-the-lever (1770 — Mudge and the Lever)
-Rendered output changed: history/1850s-the-american-system (1850s — The American System)
-Rendered output changed: history/1927-the-quartz-clock (1927 — The Quartz Clock)
-Rendered output changed: history/1969-the-quartz-crisis (1969 — The Quartz Crisis)
-Rendered output changed: history/1983-the-swatch-rescue (1983 — The Swatch Rescue)
-Rendered output changed: history/index (A Timeline of Timekeeping)
-Rendered output changed: index (Escapement — How a Mechanical Watch Actually Works)
-Rendered output changed: maintenance/magnetism (Magnetism)
-Rendered output changed: maintenance/servicing (Servicing)
-Rendered output changed: maintenance/water-resistance (Water Resistance)
-Rendered output changed: movements/index (How to Read a Calibre)
-Rendered output changed: movements/omega-321 (Omega Calibre 321)
-Rendered output changed: movements/patek-calibre-89 (Patek Philippe Calibre 89)
-Rendered output changed: movements/rolex-3135 (Rolex Calibre 3135)
-Rendered output changed: movements/valjoux-7750 (Valjoux 7750)
-Rendered output changed: movements/zenith-el-primero (Zenith El Primero)
-Rendered output changed: physics/amplitude (Amplitude)
-Rendered output changed: physics/frequency (Frequency)
-Rendered output changed: physics/friction-and-lubrication (Friction and Lubrication)
-Rendered output changed: physics/isochronism (Isochronism)
-Rendered output changed: physics/positions-and-rate (Positions and Rate)
-Rendered output changed: physics/the-balance-spring (The Balance Spring)
-Rendered output changed: start-here/read-me-first (Read Me First)
-Rendered output changed: start-here/the-five-minute-watch (The Five-Minute Watch)
-Sitemap + https://escapement.filed.fyi/
-Sitemap + https://escapement.filed.fyi/about/
-Sitemap + https://escapement.filed.fyi/anatomy/01-the-problem-of-timekeeping/
-Sitemap + https://escapement.filed.fyi/anatomy/02-the-gear-train/
-Sitemap + https://escapement.filed.fyi/anatomy/03-the-mainspring-and-barrel/
-Sitemap + https://escapement.filed.fyi/anatomy/04-the-escapement/
-Sitemap + https://escapement.filed.fyi/anatomy/05-the-balance-assembly/
-Sitemap + https://escapement.filed.fyi/anatomy/06-the-keyless-works/
-Sitemap + https://escapement.filed.fyi/anatomy/07-the-motion-works-and-dial/
-Sitemap + https://escapement.filed.fyi/anatomy/08-putting-it-together/
-Sitemap + https://escapement.filed.fyi/categories/
-Sitemap + https://escapement.filed.fyi/categories/anatomy/
-Sitemap + https://escapement.filed.fyi/categories/complications/
-Sitemap + https://escapement.filed.fyi/categories/escapements/
-Sitemap + https://escapement.filed.fyi/categories/glossary/
-Sitemap + https://escapement.filed.fyi/categories/history/
-Sitemap + https://escapement.filed.fyi/categories/maintenance/
-Sitemap + https://escapement.filed.fyi/categories/movements/
-Sitemap + https://escapement.filed.fyi/categories/orientation/
-Sitemap + https://escapement.filed.fyi/categories/physics/
-Sitemap + https://escapement.filed.fyi/complications/
-Sitemap + https://escapement.filed.fyi/complications/chronograph/
-Sitemap + https://escapement.filed.fyi/complications/gmt-and-world-time/
-Sitemap + https://escapement.filed.fyi/complications/minute-repeater/
-Sitemap + https://escapement.filed.fyi/complications/moonphase/
-Sitemap + https://escapement.filed.fyi/complications/perpetual-calendar/
-Sitemap + https://escapement.filed.fyi/complications/power-reserve/
-Sitemap + https://escapement.filed.fyi/complications/tourbillon/
-Sitemap + https://escapement.filed.fyi/escapements/
-Sitemap + https://escapement.filed.fyi/escapements/co-axial/
-Sitemap + https://escapement.filed.fyi/escapements/compared/
-Sitemap + https://escapement.filed.fyi/escapements/cylinder-and-duplex/
-Sitemap + https://escapement.filed.fyi/escapements/detent/
-Sitemap + https://escapement.filed.fyi/escapements/swiss-lever/
-Sitemap + https://escapement.filed.fyi/escapements/swiss-lever/drop-lock-and-lift/
-Sitemap + https://escapement.filed.fyi/escapements/verge-and-foliot/
-Sitemap + https://escapement.filed.fyi/glossary/glossary/
-Sitemap + https://escapement.filed.fyi/history/
-Sitemap + https://escapement.filed.fyi/history/1656-huygens-and-the-pendulum/
-Sitemap + https://escapement.filed.fyi/history/1675-the-balance-spring-race/
-Sitemap + https://escapement.filed.fyi/history/1761-harrison-and-the-longitude-prize/
-Sitemap + https://escapement.filed.fyi/history/1770-mudge-and-the-lever/
-Sitemap + https://escapement.filed.fyi/history/1850s-the-american-system/
-Sitemap + https://escapement.filed.fyi/history/1927-the-quartz-clock/
-Sitemap + https://escapement.filed.fyi/history/1969-the-quartz-crisis/
-Sitemap + https://escapement.filed.fyi/history/1983-the-swatch-rescue/
-Sitemap + https://escapement.filed.fyi/maintenance/magnetism/
-Sitemap + https://escapement.filed.fyi/maintenance/servicing/
-Sitemap + https://escapement.filed.fyi/maintenance/water-resistance/
-Sitemap + https://escapement.filed.fyi/movements/
-Sitemap + https://escapement.filed.fyi/movements/omega-321/
-Sitemap + https://escapement.filed.fyi/movements/patek-calibre-89/
-Sitemap + https://escapement.filed.fyi/movements/rolex-3135/
-Sitemap + https://escapement.filed.fyi/movements/valjoux-7750/
-Sitemap + https://escapement.filed.fyi/movements/zenith-el-primero/
-Sitemap + https://escapement.filed.fyi/physics/amplitude/
-Sitemap + https://escapement.filed.fyi/physics/frequency/
-Sitemap + https://escapement.filed.fyi/physics/friction-and-lubrication/
-Sitemap + https://escapement.filed.fyi/physics/isochronism/
-Sitemap + https://escapement.filed.fyi/physics/positions-and-rate/
-Sitemap + https://escapement.filed.fyi/physics/the-balance-spring/
-Sitemap + https://escapement.filed.fyi/start-here/read-me-first/
-Sitemap + https://escapement.filed.fyi/start-here/the-five-minute-watch/
-Sitemap + https://escapement.filed.fyi/tags/
-Sitemap + https://escapement.filed.fyi/tags/accuracy/
-Sitemap + https://escapement.filed.fyi/tags/amplitude/
-Sitemap + https://escapement.filed.fyi/tags/balance-spring/
-Sitemap + https://escapement.filed.fyi/tags/balance/
-Sitemap + https://escapement.filed.fyi/tags/calibre/
-Sitemap + https://escapement.filed.fyi/tags/chronograph/
-Sitemap + https://escapement.filed.fyi/tags/colophon/
-Sitemap + https://escapement.filed.fyi/tags/complications/
-Sitemap + https://escapement.filed.fyi/tags/dial-train/
-Sitemap + https://escapement.filed.fyi/tags/escapement/
-Sitemap + https://escapement.filed.fyi/tags/frequency/
-Sitemap + https://escapement.filed.fyi/tags/gear-train/
-Sitemap + https://escapement.filed.fyi/tags/glossary/
-Sitemap + https://escapement.filed.fyi/tags/guide/
-Sitemap + https://escapement.filed.fyi/tags/history/
-Sitemap + https://escapement.filed.fyi/tags/industrialization/
-Sitemap + https://escapement.filed.fyi/tags/keyless-works/
-Sitemap + https://escapement.filed.fyi/tags/lubrication/
-Sitemap + https://escapement.filed.fyi/tags/magnetism/
-Sitemap + https://escapement.filed.fyi/tags/mainspring/
-Sitemap + https://escapement.filed.fyi/tags/moonphase/
-Sitemap + https://escapement.filed.fyi/tags/perpetual-calendar/
-Sitemap + https://escapement.filed.fyi/tags/physics/
-Sitemap + https://escapement.filed.fyi/tags/power-reserve/
-Sitemap + https://escapement.filed.fyi/tags/quartz/
-Sitemap + https://escapement.filed.fyi/tags/repeater/
-Sitemap + https://escapement.filed.fyi/tags/series-anatomy/
-Sitemap + https://escapement.filed.fyi/tags/service/
-Sitemap + https://escapement.filed.fyi/tags/shock-protection/
-Sitemap + https://escapement.filed.fyi/tags/silicon/
-Sitemap + https://escapement.filed.fyi/tags/timeline/
-Sitemap + https://escapement.filed.fyi/tags/tourbillon/
-Sitemap + https://escapement.filed.fyi/tags/water-resistance/
-Sitemap + https://escapement.filed.fyi/unresolved-notes/
-Sitemap - /
-Sitemap - /about/
-Sitemap - /anatomy/01-the-problem-of-timekeeping/
-Sitemap - /anatomy/02-the-gear-train/
-Sitemap - /anatomy/03-the-mainspring-and-barrel/
-Sitemap - /anatomy/04-the-escapement/
-Sitemap - /anatomy/05-the-balance-assembly/
-Sitemap - /anatomy/06-the-keyless-works/
-Sitemap - /anatomy/07-the-motion-works-and-dial/
-Sitemap - /anatomy/08-putting-it-together/
-Sitemap - /categories/
-Sitemap - /categories/anatomy/
-Sitemap - /categories/complications/
-Sitemap - /categories/escapements/
-Sitemap - /categories/glossary/
-Sitemap - /categories/history/
-Sitemap - /categories/maintenance/
-Sitemap - /categories/movements/
-Sitemap - /categories/orientation/
-Sitemap - /categories/physics/
-Sitemap - /complications/
-Sitemap - /complications/chronograph/
-Sitemap - /complications/gmt-and-world-time/
-Sitemap - /complications/minute-repeater/
-Sitemap - /complications/moonphase/
-Sitemap - /complications/perpetual-calendar/
-Sitemap - /complications/power-reserve/
-Sitemap - /complications/tourbillon/
-Sitemap - /escapements/
-Sitemap - /escapements/co-axial/
-Sitemap - /escapements/compared/
-Sitemap - /escapements/cylinder-and-duplex/
-Sitemap - /escapements/detent/
-Sitemap - /escapements/swiss-lever/
-Sitemap - /escapements/swiss-lever/drop-lock-and-lift/
-Sitemap - /escapements/verge-and-foliot/
-Sitemap - /glossary/glossary/
-Sitemap - /history/
-Sitemap - /history/1656-huygens-and-the-pendulum/
-Sitemap - /history/1675-the-balance-spring-race/
-Sitemap - /history/1761-harrison-and-the-longitude-prize/
-Sitemap - /history/1770-mudge-and-the-lever/
-Sitemap - /history/1850s-the-american-system/
-Sitemap - /history/1927-the-quartz-clock/
-Sitemap - /history/1969-the-quartz-crisis/
-Sitemap - /history/1983-the-swatch-rescue/
-Sitemap - /maintenance/magnetism/
-Sitemap - /maintenance/servicing/
-Sitemap - /maintenance/water-resistance/
-Sitemap - /movements/
-Sitemap - /movements/omega-321/
-Sitemap - /movements/patek-calibre-89/
-Sitemap - /movements/rolex-3135/
-Sitemap - /movements/valjoux-7750/
-Sitemap - /movements/zenith-el-primero/
-Sitemap - /physics/amplitude/
-Sitemap - /physics/frequency/
-Sitemap - /physics/friction-and-lubrication/
-Sitemap - /physics/isochronism/
-Sitemap - /physics/positions-and-rate/
-Sitemap - /physics/the-balance-spring/
-Sitemap - /start-here/read-me-first/
-Sitemap - /start-here/the-five-minute-watch/
-Sitemap - /tags/
-Sitemap - /tags/accuracy/
-Sitemap - /tags/amplitude/
-Sitemap - /tags/balance-spring/
-Sitemap - /tags/balance/
-Sitemap - /tags/calibre/
-Sitemap - /tags/chronograph/
-Sitemap - /tags/colophon/
-Sitemap - /tags/complications/
-Sitemap - /tags/dial-train/
-Sitemap - /tags/escapement/
-Sitemap - /tags/frequency/
-Sitemap - /tags/gear-train/
-Sitemap - /tags/glossary/
-Sitemap - /tags/guide/
-Sitemap - /tags/history/
-Sitemap - /tags/industrialization/
-Sitemap - /tags/keyless-works/
-Sitemap - /tags/lubrication/
-Sitemap - /tags/magnetism/
-Sitemap - /tags/mainspring/
-Sitemap - /tags/moonphase/
-Sitemap - /tags/perpetual-calendar/
-Sitemap - /tags/physics/
-Sitemap - /tags/power-reserve/
-Sitemap - /tags/quartz/
-Sitemap - /tags/repeater/
-Sitemap - /tags/series-anatomy/
-Sitemap - /tags/service/
-Sitemap - /tags/shock-protection/
-Sitemap - /tags/silicon/
-Sitemap - /tags/timeline/
-Sitemap - /tags/tourbillon/
-Sitemap - /tags/water-resistance/
-Sitemap - /unresolved-notes/
-Regressions: 98
-  ! sitemap:  sitemap entry lost: /
-  ! sitemap:  sitemap entry lost: /about/
-  ! sitemap:  sitemap entry lost: /anatomy/01-the-problem-of-timekeeping/
-  ! sitemap:  sitemap entry lost: /anatomy/02-the-gear-train/
-  ! sitemap:  sitemap entry lost: /anatomy/03-the-mainspring-and-barrel/
-  ! sitemap:  sitemap entry lost: /anatomy/04-the-escapement/
-  ! sitemap:  sitemap entry lost: /anatomy/05-the-balance-assembly/
-  ! sitemap:  sitemap entry lost: /anatomy/06-the-keyless-works/
-  ! sitemap:  sitemap entry lost: /anatomy/07-the-motion-works-and-dial/
-  ! sitemap:  sitemap entry lost: /anatomy/08-putting-it-together/
-  ! sitemap:  sitemap entry lost: /categories/
-  ! sitemap:  sitemap entry lost: /categories/anatomy/
-  ! sitemap:  sitemap entry lost: /categories/complications/
-  ! sitemap:  sitemap entry lost: /categories/escapements/
-  ! sitemap:  sitemap entry lost: /categories/glossary/
-  ! sitemap:  sitemap entry lost: /categories/history/
-  ! sitemap:  sitemap entry lost: /categories/maintenance/
-  ! sitemap:  sitemap entry lost: /categories/movements/
-  ! sitemap:  sitemap entry lost: /categories/orientation/
-  ! sitemap:  sitemap entry lost: /categories/physics/
-  ! sitemap:  sitemap entry lost: /complications/
-  ! sitemap:  sitemap entry lost: /complications/chronograph/
-  ! sitemap:  sitemap entry lost: /complications/gmt-and-world-time/
-  ! sitemap:  sitemap entry lost: /complications/minute-repeater/
-  ! sitemap:  sitemap entry lost: /complications/moonphase/
-  ! sitemap:  sitemap entry lost: /complications/perpetual-calendar/
-  ! sitemap:  sitemap entry lost: /complications/power-reserve/
-  ! sitemap:  sitemap entry lost: /complications/tourbillon/
-  ! sitemap:  sitemap entry lost: /escapements/
-  ! sitemap:  sitemap entry lost: /escapements/co-axial/
-  ! sitemap:  sitemap entry lost: /escapements/compared/
-  ! sitemap:  sitemap entry lost: /escapements/cylinder-and-duplex/
-  ! sitemap:  sitemap entry lost: /escapements/detent/
-  ! sitemap:  sitemap entry lost: /escapements/swiss-lever/
-  ! sitemap:  sitemap entry lost: /escapements/swiss-lever/drop-lock-and-lift/
-  ! sitemap:  sitemap entry lost: /escapements/verge-and-foliot/
-  ! sitemap:  sitemap entry lost: /glossary/glossary/
-  ! sitemap:  sitemap entry lost: /history/
-  ! sitemap:  sitemap entry lost: /history/1656-huygens-and-the-pendulum/
-  ! sitemap:  sitemap entry lost: /history/1675-the-balance-spring-race/
-  ! sitemap:  sitemap entry lost: /history/1761-harrison-and-the-longitude-prize/
-  ! sitemap:  sitemap entry lost: /history/1770-mudge-and-the-lever/
-  ! sitemap:  sitemap entry lost: /history/1850s-the-american-system/
-  ! sitemap:  sitemap entry lost: /history/1927-the-quartz-clock/
-  ! sitemap:  sitemap entry lost: /history/1969-the-quartz-crisis/
-  ! sitemap:  sitemap entry lost: /history/1983-the-swatch-rescue/
-  ! sitemap:  sitemap entry lost: /maintenance/magnetism/
-  ! sitemap:  sitemap entry lost: /maintenance/servicing/
-  ! sitemap:  sitemap entry lost: /maintenance/water-resistance/
-  ! sitemap:  sitemap entry lost: /movements/
-  ! sitemap:  sitemap entry lost: /movements/omega-321/
-  ! sitemap:  sitemap entry lost: /movements/patek-calibre-89/
-  ! sitemap:  sitemap entry lost: /movements/rolex-3135/
-  ! sitemap:  sitemap entry lost: /movements/valjoux-7750/
-  ! sitemap:  sitemap entry lost: /movements/zenith-el-primero/
-  ! sitemap:  sitemap entry lost: /physics/amplitude/
-  ! sitemap:  sitemap entry lost: /physics/frequency/
-  ! sitemap:  sitemap entry lost: /physics/friction-and-lubrication/
-  ! sitemap:  sitemap entry lost: /physics/isochronism/
-  ! sitemap:  sitemap entry lost: /physics/positions-and-rate/
-  ! sitemap:  sitemap entry lost: /physics/the-balance-spring/
-  ! sitemap:  sitemap entry lost: /start-here/read-me-first/
-  ! sitemap:  sitemap entry lost: /start-here/the-five-minute-watch/
-  ! sitemap:  sitemap entry lost: /tags/
-  ! sitemap:  sitemap entry lost: /tags/accuracy/
-  ! sitemap:  sitemap entry lost: /tags/amplitude/
-  ! sitemap:  sitemap entry lost: /tags/balance-spring/
-  ! sitemap:  sitemap entry lost: /tags/balance/
-  ! sitemap:  sitemap entry lost: /tags/calibre/
-  ! sitemap:  sitemap entry lost: /tags/chronograph/
-  ! sitemap:  sitemap entry lost: /tags/colophon/
-  ! sitemap:  sitemap entry lost: /tags/complications/
-  ! sitemap:  sitemap entry lost: /tags/dial-train/
-  ! sitemap:  sitemap entry lost: /tags/escapement/
-  ! sitemap:  sitemap entry lost: /tags/frequency/
-  ! sitemap:  sitemap entry lost: /tags/gear-train/
-  ! sitemap:  sitemap entry lost: /tags/glossary/
-  ! sitemap:  sitemap entry lost: /tags/guide/
-  ! sitemap:  sitemap entry lost: /tags/history/
-  ! sitemap:  sitemap entry lost: /tags/industrialization/
-  ! sitemap:  sitemap entry lost: /tags/keyless-works/
-  ! sitemap:  sitemap entry lost: /tags/lubrication/
-  ! sitemap:  sitemap entry lost: /tags/magnetism/
-  ! sitemap:  sitemap entry lost: /tags/mainspring/
-  ! sitemap:  sitemap entry lost: /tags/moonphase/
-  ! sitemap:  sitemap entry lost: /tags/perpetual-calendar/
-  ! sitemap:  sitemap entry lost: /tags/physics/
-  ! sitemap:  sitemap entry lost: /tags/power-reserve/
-  ! sitemap:  sitemap entry lost: /tags/quartz/
-  ! sitemap:  sitemap entry lost: /tags/repeater/
-  ! sitemap:  sitemap entry lost: /tags/series-anatomy/
-  ! sitemap:  sitemap entry lost: /tags/service/
-  ! sitemap:  sitemap entry lost: /tags/shock-protection/
-  ! sitemap:  sitemap entry lost: /tags/silicon/
-  ! sitemap:  sitemap entry lost: /tags/timeline/
-  ! sitemap:  sitemap entry lost: /tags/tourbillon/
-  ! sitemap:  sitemap entry lost: /tags/water-resistance/
-  ! sitemap:  sitemap entry lost: /unresolved-notes/
+Regressions: 0

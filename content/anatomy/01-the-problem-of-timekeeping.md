@@ -68,3 +68,7 @@ The mechanical watch answers all three requirements with four subsystems:
 Plus two quiet support casts: the [keyless works](../anatomy/06-the-keyless-works.md)
 for winding and setting, and the [motion works](../anatomy/07-the-motion-works-and-dial.md)
 for turning gear rotations into hand positions. Next: the train.
+
+---
+
+**Anatomy 1 of 8** · ← [Read Me First](../start-here/read-me-first.md) · [Anatomy 2: The Gear Train](02-the-gear-train.md) →

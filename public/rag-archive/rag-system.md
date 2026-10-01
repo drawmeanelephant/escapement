@@ -1,3 +1,77 @@
+<file path=".github/workflows/attach-domain.yml">
+<content>
+name: Attach custom domain
+
+on:
+  workflow_dispatch:
+    inputs:
+      domain:
+        description: "Custom domain to attach to the escapement Pages project"
+        required: true
+        default: "escapement.filed.fyi"
+
+jobs:
+  attach:
+    runs-on: ubuntu-latest
+    env:
+      HAS_CF_SECRETS: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && secrets.CLOUDFLARE_ACCOUNT_ID != '' }}
+    steps:
+      - name: Skip until secrets are configured
+        if: env.HAS_CF_SECRETS != 'true'
+        run: echo "::notice::CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID repo secrets not configured yet — skipping."
+
+      - name: Diagnose and attach domain via Cloudflare API
+        if: env.HAS_CF_SECRETS == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          DOMAIN: ${{ inputs.domain }}
+        run: |
+          set +e
+          API="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages"
+          AUTH="Authorization: Bearer ${CLOUDFLARE_API_TOKEN}"
+
+          echo "=== Pages projects in account ==="
+          curl -sS "${API}/projects" -H "$AUTH" \
+            | jq -r '.result[]? | "\(.name) -> \(.subdomain)  domains: \(.domains | join(", "))"'
+
+          echo "=== Attach ${DOMAIN} to escapement ==="
+          curl -sS -X POST "${API}/projects/escapement/domains" \
+            -H "$AUTH" -H "Content-Type: application/json" \
+            --data "{\"name\": \"${DOMAIN}\"}"
+          echo
+
+</content>
+</file>
+
+<file path=".github/workflows/check.yml">
+<content>
+name: Check
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # public/ is generator output (builds wipe it), so the hand-written 404
+      # page lives in static/ and is staged in at ship time. deploy.yml does
+      # the same copy before uploading.
+      - name: Stage static extras into public/
+        run: cp static/404.html public/404.html
+
+      - name: Check internal links
+        run: python3 scripts/check-links.py public
+
+</content>
+</file>
+
 <file path=".github/workflows/deploy.yml">
 <content>
 name: Deploy to Cloudflare Pages
@@ -21,6 +95,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # public/ is generator output (builds wipe it), so the hand-written 404
+      # page lives in static/ and is staged in at ship time.
+      - name: Stage static extras into public/
+        run: cp static/404.html public/404.html
+
       - name: Skip until secrets are configured
         if: env.HAS_CF_SECRETS != 'true'
         run: echo "::notice::CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID repo secrets not configured yet — skipping deploy."
@@ -32,7 +111,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages project create escapement-asw --production-branch=main
+          command: pages project create escapement --production-branch=main
 
       - name: Deploy public/ to Cloudflare Pages
         if: env.HAS_CF_SECRETS == 'true'
@@ -40,7 +119,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy public --project-name=escapement-asw --branch=main --commit-dirty=true
+          command: pages deploy public --project-name=escapement --branch=main --commit-dirty=true
 
 </content>
 </file>

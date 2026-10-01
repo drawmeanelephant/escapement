@@ -58,3 +58,7 @@ position — is pure case-and-lever engineering.
 
 Next: turning rotations into hours —
 [The Motion Works and Dial](../anatomy/07-the-motion-works-and-dial.md).
+
+---
+
+**Anatomy 6 of 8** · ← [Anatomy 5: The Balance Assembly](05-the-balance-assembly.md) · [Anatomy 7: The Motion Works and Dial](07-the-motion-works-and-dial.md) →

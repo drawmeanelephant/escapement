@@ -1,0 +1,22 @@
+name: Check
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # public/ is generator output (builds wipe it), so the hand-written 404
+      # page lives in static/ and is staged in at ship time. deploy.yml does
+      # the same copy before uploading.
+      - name: Stage static extras into public/
+        run: cp static/404.html public/404.html
+
+      - name: Check internal links
+        run: python3 scripts/check-links.py public

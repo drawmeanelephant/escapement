@@ -37,6 +37,7 @@
       "id": "anatomy/01-the-problem-of-timekeeping",
       "title": "Anatomy 1: The Problem of Timekeeping",
       "inbound": [
+        "anatomy/02-the-gear-train",
         "index",
         "start-here/read-me-first",
         "start-here/the-five-minute-watch"
@@ -65,7 +66,7 @@
         "physics/positions-and-rate",
         "start-here/read-me-first"
       ],
-      "word_count": 449,
+      "word_count": 466,
       "orphan": false,
       "stub": false,
       "render": true
@@ -99,13 +100,14 @@
         "escapement"
       ],
       "outbound": [
+        "anatomy/01-the-problem-of-timekeeping",
         "anatomy/03-the-mainspring-and-barrel",
         "anatomy/04-the-escapement",
         "anatomy/07-the-motion-works-and-dial",
         "physics/friction-and-lubrication",
         "start-here/read-me-first"
       ],
-      "word_count": 474,
+      "word_count": 495,
       "orphan": false,
       "stub": false,
       "render": true
@@ -120,6 +122,7 @@
       "inbound": [
         "anatomy/01-the-problem-of-timekeeping",
         "anatomy/02-the-gear-train",
+        "anatomy/04-the-escapement",
         "anatomy/06-the-keyless-works",
         "anatomy/08-putting-it-together",
         "complications/power-reserve",
@@ -149,7 +152,7 @@
         "physics/amplitude",
         "start-here/read-me-first"
       ],
-      "word_count": 417,
+      "word_count": 435,
       "orphan": false,
       "stub": false,
       "render": true
@@ -181,6 +184,7 @@
         "physics"
       ],
       "outbound": [
+        "anatomy/03-the-mainspring-and-barrel",
         "anatomy/05-the-balance-assembly",
         "escapements/co-axial",
         "escapements/detent",
@@ -189,7 +193,7 @@
         "physics/frequency",
         "start-here/read-me-first"
       ],
-      "word_count": 444,
+      "word_count": 464,
       "orphan": false,
       "stub": false,
       "render": true
@@ -204,6 +208,7 @@
       "inbound": [
         "anatomy/01-the-problem-of-timekeeping",
         "anatomy/04-the-escapement",
+        "anatomy/06-the-keyless-works",
         "anatomy/08-putting-it-together",
         "complications/tourbillon",
         "glossary/glossary",
@@ -238,7 +243,7 @@
         "physics/the-balance-spring",
         "start-here/read-me-first"
       ],
-      "word_count": 475,
+      "word_count": 493,
       "orphan": false,
       "stub": false,
       "render": true
@@ -272,12 +277,13 @@
       "outbound": [
         "anatomy/02-the-gear-train",
         "anatomy/03-the-mainspring-and-barrel",
+        "anatomy/05-the-balance-assembly",
         "anatomy/07-the-motion-works-and-dial",
         "complications/perpetual-calendar",
         "maintenance/water-resistance",
         "start-here/read-me-first"
       ],
-      "word_count": 373,
+      "word_count": 394,
       "orphan": false,
       "stub": false,
       "render": true
@@ -293,6 +299,7 @@
         "anatomy/01-the-problem-of-timekeeping",
         "anatomy/02-the-gear-train",
         "anatomy/06-the-keyless-works",
+        "anatomy/08-putting-it-together",
         "complications/gmt-and-world-time",
         "glossary/glossary",
         "start-here/read-me-first",
@@ -314,7 +321,7 @@
         "anatomy/08-putting-it-together",
         "start-here/read-me-first"
       ],
-      "word_count": 369,
+      "word_count": 388,
       "orphan": false,
       "stub": false,
       "render": true
@@ -348,8 +355,10 @@
         "anatomy/04-the-escapement",
         "anatomy/05-the-balance-assembly",
         "anatomy/06-the-keyless-works",
+        "anatomy/07-the-motion-works-and-dial",
         "escapements/co-axial",
         "escapements/swiss-lever/drop-lock-and-lift",
+        "glossary/glossary",
         "history/index",
         "maintenance/water-resistance",
         "physics/amplitude",
@@ -358,7 +367,7 @@
         "physics/positions-and-rate",
         "start-here/read-me-first"
       ],
-      "word_count": 404,
+      "word_count": 432,
       "orphan": false,
       "stub": false,
       "render": true
@@ -953,6 +962,7 @@
       "id": "glossary/glossary",
       "title": "Glossary",
       "inbound": [
+        "anatomy/08-putting-it-together",
         "index",
         "start-here/read-me-first"
       ],
@@ -1984,7 +1994,7 @@
         "physics/amplitude",
         "physics/positions-and-rate"
       ],
-      "word_count": 311,
+      "word_count": 322,
       "orphan": false,
       "stub": false,
       "render": true
@@ -2099,6 +2109,10 @@
     ],
     [
       "anatomy/02-the-gear-train",
+      "anatomy/01-the-problem-of-timekeeping"
+    ],
+    [
+      "anatomy/02-the-gear-train",
       "anatomy/03-the-mainspring-and-barrel"
     ],
     [
@@ -2140,6 +2154,10 @@
     [
       "anatomy/03-the-mainspring-and-barrel",
       "start-here/read-me-first"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "anatomy/03-the-mainspring-and-barrel"
     ],
     [
       "anatomy/04-the-escapement",
@@ -2211,6 +2229,10 @@
     ],
     [
       "anatomy/06-the-keyless-works",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
       "anatomy/07-the-motion-works-and-dial"
     ],
     [
@@ -2263,11 +2285,19 @@
     ],
     [
       "anatomy/08-putting-it-together",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "anatomy/08-putting-it-together",
       "escapements/co-axial"
     ],
     [
       "anatomy/08-putting-it-together",
       "escapements/swiss-lever/drop-lock-and-lift"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "glossary/glossary"
     ],
     [
       "anatomy/08-putting-it-together",

@@ -291,6 +291,14 @@
       "anatomy/07-the-motion-works-and-dial"
     ],
     [
+      "anatomy/01-the-problem-of-timekeeping",
+      "start-here/read-me-first"
+    ],
+    [
+      "anatomy/01-the-problem-of-timekeeping",
+      "anatomy/02-the-gear-train"
+    ],
+    [
       "anatomy/02-the-gear-train",
       "start-here/read-me-first"
     ],
@@ -319,6 +327,14 @@
       "anatomy/03-the-mainspring-and-barrel"
     ],
     [
+      "anatomy/02-the-gear-train",
+      "anatomy/01-the-problem-of-timekeeping"
+    ],
+    [
+      "anatomy/02-the-gear-train",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
       "anatomy/03-the-mainspring-and-barrel",
       "start-here/read-me-first"
     ],
@@ -341,6 +357,14 @@
     [
       "anatomy/03-the-mainspring-and-barrel",
       "complications/power-reserve"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "anatomy/04-the-escapement"
+    ],
+    [
+      "anatomy/03-the-mainspring-and-barrel",
+      "anatomy/02-the-gear-train"
     ],
     [
       "anatomy/03-the-mainspring-and-barrel",
@@ -379,6 +403,14 @@
       "anatomy/05-the-balance-assembly"
     ],
     [
+      "anatomy/04-the-escapement",
+      "anatomy/03-the-mainspring-and-barrel"
+    ],
+    [
+      "anatomy/04-the-escapement",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
       "anatomy/05-the-balance-assembly",
       "start-here/read-me-first"
     ],
@@ -405,6 +437,14 @@
     [
       "anatomy/05-the-balance-assembly",
       "physics/positions-and-rate"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "anatomy/06-the-keyless-works"
+    ],
+    [
+      "anatomy/05-the-balance-assembly",
+      "anatomy/04-the-escapement"
     ],
     [
       "anatomy/05-the-balance-assembly",
@@ -443,6 +483,14 @@
       "anatomy/07-the-motion-works-and-dial"
     ],
     [
+      "anatomy/06-the-keyless-works",
+      "anatomy/05-the-balance-assembly"
+    ],
+    [
+      "anatomy/06-the-keyless-works",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
       "anatomy/07-the-motion-works-and-dial",
       "start-here/read-me-first"
     ],
@@ -465,6 +513,14 @@
     [
       "anatomy/07-the-motion-works-and-dial",
       "anatomy/02-the-gear-train"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "anatomy/08-putting-it-together"
+    ],
+    [
+      "anatomy/07-the-motion-works-and-dial",
+      "anatomy/06-the-keyless-works"
     ],
     [
       "anatomy/07-the-motion-works-and-dial",
@@ -525,6 +581,18 @@
     [
       "anatomy/08-putting-it-together",
       "history/index"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "anatomy/07-the-motion-works-and-dial"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "history/index"
+    ],
+    [
+      "anatomy/08-putting-it-together",
+      "glossary/glossary"
     ],
     [
       "complications/chronograph",
@@ -1837,6 +1905,10 @@
     [
       "start-here/read-me-first",
       "glossary/glossary"
+    ],
+    [
+      "start-here/read-me-first",
+      "anatomy/01-the-problem-of-timekeeping"
     ],
     [
       "start-here/the-five-minute-watch",

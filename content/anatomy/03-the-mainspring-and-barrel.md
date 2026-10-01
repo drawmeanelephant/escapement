@@ -60,3 +60,7 @@ reserves is mostly a barrel-and-efficiency contest, not some new energy source.
 
 Next: the machine's conscience —
 [The Escapement](../anatomy/04-the-escapement.md).
+
+---
+
+**Anatomy 3 of 8** · ← [Anatomy 2: The Gear Train](02-the-gear-train.md) · [Anatomy 4: The Escapement](04-the-escapement.md) →
